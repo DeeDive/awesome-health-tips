@@ -15,6 +15,7 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 
 - [Physical Health](#physical-health)
   - [Exercise Regularly](#exercise-regularly)
+  - [Eye Health and Reading Habits](#eye-health-and-reading-habits)
   - [Proper Ergonomics](#proper-ergonomics)
   - [Posture and Alignment](#posture-and-alignment)
   - [Stay Active Throughout the Day](#stay-active-throughout-the-day)
