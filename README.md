@@ -183,7 +183,6 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 - Listen to your body and mind, and take breaks when you feel fatigued or overwhelmed.
 
 **Reliable sources:**
-- Psychology Today. (2018). The importance of taking breaks. Retrieved from https://www.psychologytoday.com/us/blog/changepower/201704/the-importance-taking-breaks
 - The New York Times. (2018). How to be more efficient at work. Retrieved from https://www.nytimes.com/guides/business/how-to-improve-your-productivity-at-work
 
 
