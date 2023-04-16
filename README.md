@@ -10,6 +10,7 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 <!-- START doctoc -->
 <!-- END doctoc -->
 
+
 ## Physical Health
 ### Exercise Regularly
 **Rule of thumb:** Aim for at least 150 minutes of moderate-intensity aerobic exercise or 75 minutes of vigorous-intensity aerobic exercise per week, along with muscle-strengthening activities on two or more days per week.
