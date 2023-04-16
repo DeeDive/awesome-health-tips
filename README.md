@@ -283,7 +283,7 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 **Actionable steps:**
 - Reach out to friends, family, or colleagues regularly through phone calls, texts, or video chats.
 - Join clubs, organizations, or support groups related to your interests or field of study.
-- Volunteer or participate in community events to connect with others and give back.
+- Volunteer or participate in community events or student-run organizations to connect with others and give back.
 - Be open to asking for help and support when needed.
 
 **Reliable sources:**
