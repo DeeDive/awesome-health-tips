@@ -70,6 +70,12 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 - Maintain a neutral wrist posture while typing and using a mouse.
 - Use document holders and telephone headsets to reduce neck strain.
 
+**Recommended devices (any names of product?):**
+- Ergonomic office chairs with adjustable height, lumbar support, and armrests.
+- Standing desks or adjustable workstations to switch between sitting and standing.
+- Ergonomic keyboards and mice designed to reduce strain on hands and wrists.
+- Monitor stands or adjustable monitor arms to position screens at the correct height and distance.
+
 **Reliable sources:**
 - United States Department of Labor. (n.d.). Computer Workstations. Occupational Safety and Health Administration. Retrieved from https://www.osha.gov/SLTC/etools/computerworkstations/index.html
 
@@ -314,7 +320,7 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 **Reliable sources:**
 - MindTools. (n.d.). Time management. Retrieved from https://www.mindtools.com/pages/main/newMN_HTE.htm
 - Mayo Clinic. (2021). Time management: Tips to reduce stress and improve productivity. Retrieved from https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/time-management/art-20047938
-
+- Lakein, A. (1973). How to Get Control of Your Time and and Your Life
 
 ### Self-Compassion and Self-Care
 
@@ -348,6 +354,8 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 **Reliable sources:**
 - National Institute of Mental Health. (2021). Help for mental illnesses. Retrieved from https://www.nimh.nih.gov/health/find-help
 - American Psychological Association. (2020). How to choose a psychologist. Retrieved from https://www.apa.org/topics/choose-therapist
+
+**(Trustful sites to seek help?)**
 
 ## Other Related Repositories
 - [Awesome Healthcare](https://github.com/kakoni/awesome-healthcare) - A curated list of awesome open source healthcare software, libraries, tools and resources.
