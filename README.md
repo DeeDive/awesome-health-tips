@@ -7,7 +7,7 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 
 ****Disclaimer:*** However, please note that by no means do these health-keeping and illness-avoidance advice replace medical diagnosis and judgments. For any medical concerns or questions, please consult with a qualified healthcare professional.*
 
-(PR is welcome on new categories and actionable steps! See our [#how-to-contribute](#how-to-contribute) section)
+(We welcome you to contribute your pro tips, acquired through years of experience and tears, by submitting a Pull Request! See our [#how-to-contribute](#how-to-contribute) section)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
