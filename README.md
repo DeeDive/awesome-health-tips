@@ -7,31 +7,9 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 
 (PR is welcome on new categories and actionable steps! See our [#how-to-contribute](#how-to-contribute) section)
 
-- [Content](#awesome-health-tips-for-phd-students--and-everyone--)
-  * [Physical Health](#physical-health)
-    + [Exercise Regularly](#exercise-regularly)
-    + [Proper Ergonomics](#proper-ergonomics)
-    + [Posture and Alignment](#posture-and-alignment)
-    + [Stay Active Throughout the Day](#stay-active-throughout-the-day)
-    + [Stay Hydrated](#stay-hydrated)
-    + [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
-    + [Take Breaks](#take-breaks)
-    + [Maintain a Balanced Diet](#maintain-a-balanced-diet)
-    + [Injury Prevention](#injury-prevention)
-    + [Build a Supportive Environment](#build-a-supportive-environment)
-  * [Mental Health](#mental-health)
-    + [Stress Management](#stress-management)
-    + [Mindfulness and Meditation](#mindfulness-and-meditation)
-    + [Social Connections and Support](#social-connections-and-support)
-    + [Setting Boundaries](#setting-boundaries)
-    + [Sleep Hygiene](#sleep-hygiene)
-    + [Time Management](#time-management)
-    + [Self-Compassion and Self-Care](#self-compassion-and-self-care)
-  * [Seek Professional Help](#seek-professional-help)
-  * [How to contribute](#how-to-contribute)
-    + [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips--feel-free-to-add-new-parts-whenever-needed--)
+<!-- START doctoc -->
+<!-- END doctoc -->
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Physical Health
 ### Exercise Regularly
