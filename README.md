@@ -11,7 +11,7 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 (PR is welcome.)
 
 ## How to contribute
-Experienced patients can be good doctors. We want this repository to be a community-driven resource, so we encourage you to share your learned wisdom and advice, whether you're a medical expert or not, as long as you have good survey on it. 
+Patients can be valuable contributors. We want this repository to be a community-driven resource, so we encourage you to share your learned wisdom and advice, whether you're a medical expert or not, as long as you have good survey on it.
 
 - Make sure your tips are relevant and easy-to-follow. 
 - Provide sources for scientific or medical claims.
