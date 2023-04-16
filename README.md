@@ -56,6 +56,24 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 **Reliable sources:**
 - American Heart Association. (2018). American Heart Association Recommendations for Physical Activity in Adults and Kids. Retrieved from https://www.heart.org/en/healthy-living/fitness/fitness-basics/aha-recs-for-physical-activity-in-adults
 
+### Eye Health and Reading Habits
+
+**Rule of thumb:** Adopt healthy reading habits and take care of your eyes to prevent eye strain and vision problems.
+
+**Short reason:** Prolonged reading, especially on digital screens, can cause eye strain, dryness, and discomfort, which can negatively impact productivity and overall eye health.
+
+**Actionable steps:**
+- Follow the 20-20-20 rule: Every 20 minutes, take a 20-second break to look at something 20 feet away.
+- Adjust the brightness, contrast, and font size of digital screens to reduce eye strain.
+- Position your screen at a comfortable distance and angle, typically at arm's length and slightly below eye level.
+- Use proper lighting to minimize glare and shadows while reading.
+- Blink frequently to keep your eyes moist and reduce dryness.
+- Consider using blue light-filtering glasses or screen protectors to reduce blue light exposure from digital devices.
+- Regularly have your eyes checked by an optometrist or ophthalmologist to monitor and address vision changes.
+
+**Reliable sources:**
+- American Academy of Ophthalmology. (2020). Computer use and eye strain. Retrieved from https://www.aao.org/eye-health/tips-prevention/computer-usage
+- American Optometric Association. (n.d.). Computer vision syndrome. Retrieved from https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/computer-vision-syndrome
 
 ### Proper Ergonomics
 
