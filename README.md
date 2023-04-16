@@ -240,7 +240,6 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 
 
 ## Mental Health
-
 ### Stress Management
 
 **Rule of thumb:** Develop healthy coping strategies to manage stress and maintain mental well-being.
@@ -256,6 +255,22 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 **Reliable sources:**
 - Mayo Clinic. (2019). Stress management: Know your triggers. Retrieved from https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-management/art-20044151
 
+### Building and Maintaining Hobbies
+
+**Rule of thumb:** Cultivate hobbies outside of your academic work to maintain a balanced lifestyle and reduce stress.
+
+**Short reason:** Engaging in hobbies can provide a mental break from academic pressures, promote personal growth, and foster a sense of accomplishment and enjoyment.
+
+**Actionable steps:**
+- Explore various interests and activities to discover hobbies that genuinely excite and engage you.
+- Set aside dedicated time for your hobbies and treat them as an essential part of your self-care routine.
+- Connect with others who share your interests, either in person or through online communities, to enhance your hobby experience and build social connections.
+- Be open to trying new activities and expanding your horizons. Sometimes, hobbies can lead to unexpected personal and professional growth opportunities.
+- Remember to maintain a balance between your hobbies and academic responsibilities. Hobbies should provide a break and enjoyment without causing additional stress or detracting from your academic work.
+
+**Reliable sources:**
+- Stenger, M. (2016). The importance of hobbies for stress relief. Verywell Mind. Retrieved from https://www.verywellmind.com/the-importance-of-hobbies-for-stress-relief-3144574
+- Newman, D. B., & Tay, L. (2019). The benefits of hobbies. Psychology Today. Retrieved from https://www.psychologytoday.com/us/blog/curious/201905/the-benefits-hobbies
 
 ### Mindfulness and Meditation
 
@@ -326,20 +341,39 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
 
 ### Time Management
 
-**Rule of thumb:** Develop effective time management skills to increase productivity, reduce stress, and maintain work-life balance.
+**Rule of thumb:** Prioritize and allocate time effectively to balance research, coursework, teaching, and personal life.
 
-**Short reason:** Efficient time management can help you prioritize tasks, minimize distractions, and create a sense of control over your schedule.
+**Short reason:** Effective time management reduces stress, increases productivity, and helps maintain a healthy work-life balance.
 
 **Actionable steps:**
-- Set clear goals and prioritize tasks based on importance and deadlines.
-- Break larger tasks into smaller, manageable steps.
-- Use a calendar or planner to organize your schedule and allocate time for tasks, breaks, and self-care.
-- Set realistic expectations for what you can accomplish and avoid multitasking.
+- Break down your tasks into smaller, manageable goals with specific deadlines.
+- Use a calendar, planner, or digital tools to schedule your tasks and deadlines.
+- Set aside dedicated time for research, writing, teaching, and personal activities.
+- Minimize distractions and set boundaries when working on tasks.
+- Regularly evaluate and adjust your time management strategies to improve efficiency.
+
 
 **Reliable sources:**
 - MindTools. (n.d.). Time management. Retrieved from https://www.mindtools.com/pages/main/newMN_HTE.htm
 - Mayo Clinic. (2021). Time management: Tips to reduce stress and improve productivity. Retrieved from https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/time-management/art-20047938
 - Lakein, A. (1973). How to Get Control of Your Time and and Your Life
+
+### Handling Rejections and Setbacks
+
+**Rule of thumb:** Develop strategies to cope with rejections and setbacks during your PhD journey.
+
+**Short reason:** Rejections and setbacks are common in academia, and learning how to handle them effectively can improve resilience and mental well-being.
+
+**Actionable steps:**
+- Recognize that rejections and setbacks are a normal part of the academic process.
+- Treat rejections and setbacks as opportunities for growth and learning.
+- Seek feedback and support from mentors, peers, and advisors to address challenges and improve your work.
+- Develop a growth mindset and focus on the progress you've made instead of dwelling on setbacks.
+
+**Reliable sources:**
+- Tugend, A. (2011). Better by mistake: The unexpected benefits of being wrong. Riverhead Books.
+
+
 
 ### Self-Compassion and Self-Care
 
