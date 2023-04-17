@@ -1,12 +1,16 @@
-name: Translate README
+name: Workflow on Readme.md
 
-on:
-  push:
-    branches:
-      - main
-      - master
+on: push
+
 jobs:
-  build:
+  generateTOC:
+    name: TOC Generator
+    runs-on: ubuntu-latest
+    steps:
+      - uses: technote-space/toc-generator@v4
+
+  translateREADME:
+    needs: generateTOC
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -35,7 +39,6 @@ jobs:
         uses: DeeDive/translate-readme@main
         with:
           LANG: fr
-          
       - name: Adding README - Japanese
         uses: DeeDive/translate-readme@main
         with:
