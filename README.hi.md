@@ -6,44 +6,50 @@
 
 बहुत बढ़िया स्वास्थ्य युक्तियाँ भंडार में आपका स्वागत है! यह रिपॉजिटरी व्यावहारिक युक्तियों को साझा करने के लिए एक समुदाय-संचालित केंद्र के रूप में कार्य करती है, जिसे हर किसी के आराम के समय में बढ़ाया जा सकता है और उसका पालन किया जा सकता है। आइए हम अनुसरण करने में आसान, कार्रवाई योग्य कदम उठाएं!
 
-आप सबसे मूल्यवान संपत्ति हैं। एक पीएचडी में पाँच या अधिक वर्षों की मेहनत लगती है, और जीवन उससे भी अधिक समय लेता है। वहाँ है[a myriad of advice](https://github.com/pliang279/awesome-phd-advice)अपने पेशेवर क्षेत्र में कैसे जीवित रहना है, लेकिन इतना नहीं कि अपने स्वास्थ्य को कैसे प्राथमिकता दें। कई वरिष्ठ स्नातक पछतावे के साथ समाप्त होते हैं क्योंकि सभी चोटें पूरी तरह से ठीक नहीं हो सकती हैं, और कुछ के परिणामस्वरूप स्थायी क्षति हो सकती है। इस रिपॉजिटरी का उद्देश्य स्वस्थ और फिट रहने के लिए व्यावहारिक टिप्स और सलाह प्रदान करके उस अंतर को भरना है। आइए फिट रहने के लिए निवारक कदम उठाएं।
+आप सबसे मूल्यवान संपत्ति हैं। एक पीएचडी में पाँच या अधिक वर्षों की मेहनत लगती है, और जीवन इससे भी अधिक समय लेता है। वहाँ है[a myriad of advice](https://github.com/pliang279/awesome-phd-advice)अपने पेशेवर क्षेत्र में कैसे जीवित रहना है, लेकिन इतना नहीं कि अपने स्वास्थ्य को कैसे प्राथमिकता दें। कई वरिष्ठ स्नातक पछतावे के साथ समाप्त होते हैं क्योंकि सभी चोटें पूरी तरह से ठीक नहीं हो सकती हैं, और कुछ के परिणामस्वरूप स्थायी क्षति हो सकती है। इस रिपॉजिटरी का उद्देश्य स्वस्थ और फिट रहने के लिए व्यावहारिक टिप्स और सलाह प्रदान करके उस अंतर को भरना है। आइए फिट रहने के लिए निवारक कदम उठाएं।
 
-\***_अस्वीकरण:_**हालांकि, कृपया ध्यान दें कि ये स्वास्थ्य-रखरखाव और बीमारी-परिहार सलाह किसी भी तरह से चिकित्सा निदान और निर्णयों को प्रतिस्थापित नहीं करते हैं। किसी भी चिकित्सीय चिंता या प्रश्न के लिए, कृपया योग्य स्वास्थ्य देखभाल पेशेवर से परामर्श लें।\*
+**अस्वीकरण:**हालांकि, कृपया ध्यान दें कि ये स्वास्थ्य-रखरखाव और बीमारी-परिहार सलाह किसी भी तरह से चिकित्सा निदान और निर्णयों को प्रतिस्थापित नहीं करते हैं। किसी भी चिकित्सा संबंधी चिंताओं या प्रश्नों के लिए, कृपया एक योग्य स्वास्थ्य देखभाल पेशेवर से परामर्श लें।
 
 (हम आपका स्वागत करते हैं कि आप वर्षों के अनुभव और (शायद) आँसुओं के माध्यम से हासिल किए गए अपने प्रो टिप्स का योगदान दें, एक पुल अनुरोध सबमिट करके! हमारा देखें[#how-to-contribute](#how-to-contribute)अनुभाग)
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+> ### एक व्यक्तिगत नोट
+>
+> पीएचडी आवश्यकताओं से आत्म-अनुशासन के लिए एक संक्रमण का समय है। मैं पीएचडी के अपने दूसरे वर्ष में हूं और मुझे एहसास हो रहा है कि निवारक कदम अत्यधिक महत्वपूर्ण हैं। इसलिए, मैं स्वास्थ्य ज्ञान सीखने और इसे यहां अपडेट करने के लिए प्रति सप्ताह एक घंटे खर्च करने की योजना बना रहा हूं। मैं आपको मुझसे जुड़ने के लिए आमंत्रित करता हूं! आइए मिलकर एक स्वस्थ और खुशहाल समुदाय का निर्माण करें।
 
-- [शारीरिक मौत](#%E0%A4%B6%E0%A4%BE%E0%A4%B0%E0%A5%80%E0%A4%B0%E0%A4%BF%E0%A4%95-%E0%A4%AE%E0%A5%8C%E0%A4%A4)
-  - [नियमित रूप से व्यायाम करें](#%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%AE%E0%A4%BF%E0%A4%A4-%E0%A4%B0%E0%A5%82%E0%A4%AA-%E0%A4%B8%E0%A5%87-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%BE%E0%A4%AE-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82)
-  - [नेत्र स्वास्थ्य और पढ़ने की आदतें](#%E0%A4%A8%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF-%E0%A4%94%E0%A4%B0-%E0%A4%AA%E0%A4%A2%E0%A4%BC%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%80-%E0%A4%86%E0%A4%A6%E0%A4%A4%E0%A5%87%E0%A4%82)
-  - [उचित एर्गोनॉमिक्स](#%E0%A4%89%E0%A4%9A%E0%A4%BF%E0%A4%A4-%E0%A4%8F%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A5%8B%E0%A4%A8%E0%A5%89%E0%A4%AE%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B8)
-  - [आसन और संरेखण](#%E0%A4%86%E0%A4%B8%E0%A4%A8-%E0%A4%94%E0%A4%B0-%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A5%87%E0%A4%96%E0%A4%A3)
-  - [पूरे दिन सक्रिय रहें](#%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%87-%E0%A4%A6%E0%A4%BF%E0%A4%A8-%E0%A4%B8%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF-%E0%A4%B0%E0%A4%B9%E0%A5%87%E0%A4%82)
-  - [हाइड्रेटेड रहना](#%E0%A4%B9%E0%A4%BE%E0%A4%87%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%9F%E0%A5%87%E0%A4%A1-%E0%A4%B0%E0%A4%B9%E0%A4%A8%E0%A4%BE)
-  - [लंबे समय तक बैठने से बचें](#%E0%A4%B2%E0%A4%82%E0%A4%AC%E0%A5%87-%E0%A4%B8%E0%A4%AE%E0%A4%AF-%E0%A4%A4%E0%A4%95-%E0%A4%AC%E0%A5%88%E0%A4%A0%E0%A4%A8%E0%A5%87-%E0%A4%B8%E0%A5%87-%E0%A4%AC%E0%A4%9A%E0%A5%87%E0%A4%82)
-  - [ब्रेक लें](#%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%95-%E0%A4%B2%E0%A5%87%E0%A4%82)
-  - [संतुलित आहार बनाए रखें](#%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%A4-%E0%A4%86%E0%A4%B9%E0%A4%BE%E0%A4%B0-%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F-%E0%A4%B0%E0%A4%96%E0%A5%87%E0%A4%82)
-  - [चोट की रोकथाम](#%E0%A4%9A%E0%A5%8B%E0%A4%9F-%E0%A4%95%E0%A5%80-%E0%A4%B0%E0%A5%8B%E0%A4%95%E0%A4%A5%E0%A4%BE%E0%A4%AE)
-  - [एक सहायक वातावरण बनाएँ](#%E0%A4%8F%E0%A4%95-%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%95-%E0%A4%B5%E0%A4%BE%E0%A4%A4%E0%A4%BE%E0%A4%B5%E0%A4%B0%E0%A4%A3-%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%81)
-- [मानसिक स्वास्थ्य](#%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF)
-  - [इम्पोस्टर सिंड्रोम](#%E0%A4%87%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%8B%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B0-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AE)
-  - [तनाव प्रबंधन](#%E0%A4%A4%E0%A4%A8%E0%A4%BE%E0%A4%B5-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8)
-  - [शौक का निर्माण और रखरखाव](#%E0%A4%B6%E0%A5%8C%E0%A4%95-%E0%A4%95%E0%A4%BE-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3-%E0%A4%94%E0%A4%B0-%E0%A4%B0%E0%A4%96%E0%A4%B0%E0%A4%96%E0%A4%BE%E0%A4%B5)
-  - [ध्यान और ध्यान](#%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8-%E0%A4%94%E0%A4%B0-%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8)
-  - [सामाजिक संपर्क और समर्थन](#%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95-%E0%A4%94%E0%A4%B0-%E0%A4%B8%E0%A4%AE%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%A8)
-  - [सीमाएँ निर्धारित करना](#%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A4%BE%E0%A4%8F%E0%A4%81-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%A7%E0%A4%BE%E0%A4%B0%E0%A4%BF%E0%A4%A4-%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE)
-  - [नींद स्वच्छता](#%E0%A4%A8%E0%A5%80%E0%A4%82%E0%A4%A6-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%9A%E0%A5%8D%E0%A4%9B%E0%A4%A4%E0%A4%BE)
-  - [समय प्रबंधन](#%E0%A4%B8%E0%A4%AE%E0%A4%AF-%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%A8)
-  - [अस्वीकृति और असफलताओं को संभालना](#%E0%A4%85%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF-%E0%A4%94%E0%A4%B0-%E0%A4%85%E0%A4%B8%E0%A4%AB%E0%A4%B2%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82-%E0%A4%95%E0%A5%8B-%E0%A4%B8%E0%A4%82%E0%A4%AD%E0%A4%BE%E0%A4%B2%E0%A4%A8%E0%A4%BE)
-  - [आत्म-करुणा और आत्म-देखभाल](#%E0%A4%86%E0%A4%A4%E0%A5%8D%E0%A4%AE-%E0%A4%95%E0%A4%B0%E0%A5%81%E0%A4%A3%E0%A4%BE-%E0%A4%94%E0%A4%B0-%E0%A4%86%E0%A4%A4%E0%A5%8D%E0%A4%AE-%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%AD%E0%A4%BE%E0%A4%B2)
-- [पेशेवर मदद लें](#%E0%A4%AA%E0%A5%87%E0%A4%B6%E0%A5%87%E0%A4%B5%E0%A4%B0-%E0%A4%AE%E0%A4%A6%E0%A4%A6-%E0%A4%B2%E0%A5%87%E0%A4%82)
-- [अन्य संबंधित भंडार](#%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%AF-%E0%A4%B8%E0%A4%82%E0%A4%AC%E0%A4%82%E0%A4%A7%E0%A4%BF%E0%A4%A4-%E0%A4%AD%E0%A4%82%E0%A4%A1%E0%A4%BE%E0%A4%B0)
-- [योगदान कैसे करें](#%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%A6%E0%A4%BE%E0%A4%A8-%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82)
-  - [योगदान युक्तियों के लिए टेम्पलेट (जब भी आवश्यक हो नए भागों को जोड़ने के लिए स्वतंत्र महसूस करें!)](#%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%A6%E0%A4%BE%E0%A4%A8-%E0%A4%AF%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%9F%E0%A5%87%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B2%E0%A5%87%E0%A4%9F-%E0%A4%9C%E0%A4%AC-%E0%A4%AD%E0%A5%80-%E0%A4%86%E0%A4%B5%E0%A4%B6%E0%A5%8D%E0%A4%AF%E0%A4%95-%E0%A4%B9%E0%A5%8B-%E0%A4%A8%E0%A4%8F-%E0%A4%AD%E0%A4%BE%E0%A4%97%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-%E0%A4%9C%E0%A5%8B%E0%A4%A1%E0%A4%BC%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A5%87-%E0%A4%B2%E0%A4%BF%E0%A4%8F-%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%AE%E0%A4%B9%E0%A4%B8%E0%A5%82%E0%A4%B8-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82)
-- [स्वीकृतियाँ](#%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A5%80%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%81)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**विषयसूची**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -132,7 +138,7 @@
 
 ### पूरे दिन सक्रिय रहें
 
-**अंगूठे का नियम:**लंबे समय तक बैठे रहने के नकारात्मक प्रभावों का मुकाबला करने के लिए अपनी दिनचर्या में गति और शारीरिक गतिविधि को शामिल करें।
+**अंगूठे का नियम:**लंबे समय तक बैठे रहने के नकारात्मक प्रभावों का प्रतिकार करने के लिए अपनी दिनचर्या में गति और शारीरिक गतिविधि को शामिल करें।
 
 **संक्षिप्त कारण:**लंबे समय तक बैठने से मोटापा, हृदय रोग और खराब मुद्रा सहित कई तरह की स्वास्थ्य समस्याएं हो सकती हैं। पूरे दिन सक्रिय रहने से इन जोखिमों को कम करने में मदद मिल सकती है।
 
@@ -476,7 +482,7 @@
 
 मरीजों का बहुमूल्य योगदान हो सकता है। हम चाहते हैं कि यह रिपॉजिटरी एक समुदाय संचालित संसाधन हो, इसलिए हम आपको अपने ज्ञान और सलाह को साझा करने के लिए प्रोत्साहित करते हैं, चाहे आप एक चिकित्सा विशेषज्ञ हों या नहीं, जब तक कि आपके पास इस पर अच्छा सर्वेक्षण हो।
 
-योगदानकर्ताओं के लिए टिप्स
+योगदानकर्ताओं के लिए सुझाव
 
 -   नई टिप सबमिट करने से पहले, यह सुनिश्चित करने के लिए रिपॉजिटरी की जांच करें कि विषय पहले से ही कवर नहीं किया गया है।
 -   अपनी युक्तियों को दर्शाने के लिए छवियों, इन्फोग्राफिक्स, या लघु वीडियो को शामिल करने पर विचार करें, लेकिन हमेशा उचित श्रेय प्रदान करें और सुनिश्चित करें कि आपके पास मीडिया का उपयोग करने के लिए आवश्यक अनुमतियां हैं।
