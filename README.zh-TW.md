@@ -13,39 +13,37 @@
 （我們歡迎您通過提交合併請求來貢獻您的專業技巧，這些技巧是通過多年的經驗和（可能）眼淚獲得的！請參閱我們的[#how-to-contribute](#how-to-contribute)部分）
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
 
-**目錄**
-
--   [Physical Health](#physical-health)
-    -   [Exercise Regularly](#exercise-regularly)
-    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
-    -   [Proper Ergonomics](#proper-ergonomics)
-    -   [Posture and Alignment](#posture-and-alignment)
-    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
-    -   [Stay Hydrated](#stay-hydrated)
-    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
-    -   [Take Breaks](#take-breaks)
-    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
-    -   [Injury Prevention](#injury-prevention)
-    -   [Build a Supportive Environment](#build-a-supportive-environment)
--   [Mental Health](#mental-health)
-    -   [Imposter Syndrome](#imposter-syndrome)
-    -   [Stress Management](#stress-management)
-    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
-    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
-    -   [Social Connections and Support](#social-connections-and-support)
-    -   [Setting Boundaries](#setting-boundaries)
-    -   [Sleep Hygiene](#sleep-hygiene)
-    -   [Time Management](#time-management)
-    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
-    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
--   [Seek Professional Help](#seek-professional-help)
--   [Other Related Repositories](#other-related-repositories)
--   [How to contribute](#how-to-contribute)
-    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
--   [Acknowledgements](#acknowledgements)
+- [身體健康](#%E8%BA%AB%E9%AB%94%E5%81%A5%E5%BA%B7)
+  - [經常鍛煉](#%E7%B6%93%E5%B8%B8%E9%8D%9B%E7%85%89)
+  - [眼睛健康和閱讀習慣](#%E7%9C%BC%E7%9D%9B%E5%81%A5%E5%BA%B7%E5%92%8C%E9%96%B1%E8%AE%80%E7%BF%92%E6%85%A3)
+  - [適當的人體工程學](#%E9%81%A9%E7%95%B6%E7%9A%84%E4%BA%BA%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%AD%B8)
+  - [姿勢和對齊](#%E5%A7%BF%E5%8B%A2%E5%92%8C%E5%B0%8D%E9%BD%8A)
+  - [全天保持活躍](#%E5%85%A8%E5%A4%A9%E4%BF%9D%E6%8C%81%E6%B4%BB%E8%BA%8D)
+  - [保持水分](#%E4%BF%9D%E6%8C%81%E6%B0%B4%E5%88%86)
+  - [避免久坐](#%E9%81%BF%E5%85%8D%E4%B9%85%E5%9D%90)
+  - [休息一下](#%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B)
+  - [保持均衡飲食](#%E4%BF%9D%E6%8C%81%E5%9D%87%E8%A1%A1%E9%A3%B2%E9%A3%9F)
+  - [傷害預防](#%E5%82%B7%E5%AE%B3%E9%A0%90%E9%98%B2)
+  - [營造支持性環境](#%E7%87%9F%E9%80%A0%E6%94%AF%E6%8C%81%E6%80%A7%E7%92%B0%E5%A2%83)
+- [精神健康](#%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7)
+  - [冒名頂替綜合症](#%E5%86%92%E5%90%8D%E9%A0%82%E6%9B%BF%E7%B6%9C%E5%90%88%E7%97%87)
+  - [壓力管理](#%E5%A3%93%E5%8A%9B%E7%AE%A1%E7%90%86)
+  - [建立和保持愛好](#%E5%BB%BA%E7%AB%8B%E5%92%8C%E4%BF%9D%E6%8C%81%E6%84%9B%E5%A5%BD)
+  - [正念與冥想](#%E6%AD%A3%E5%BF%B5%E8%88%87%E5%86%A5%E6%83%B3)
+  - [社會關係和支持](#%E7%A4%BE%E6%9C%83%E9%97%9C%E4%BF%82%E5%92%8C%E6%94%AF%E6%8C%81)
+  - [設定界限](#%E8%A8%AD%E5%AE%9A%E7%95%8C%E9%99%90)
+  - [睡眠衛生](#%E7%9D%A1%E7%9C%A0%E8%A1%9B%E7%94%9F)
+  - [時間管理](#%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86)
+  - [處理拒絕和挫折](#%E8%99%95%E7%90%86%E6%8B%92%E7%B5%95%E5%92%8C%E6%8C%AB%E6%8A%98)
+  - [自我同情和自我照顧](#%E8%87%AA%E6%88%91%E5%90%8C%E6%83%85%E5%92%8C%E8%87%AA%E6%88%91%E7%85%A7%E9%A1%A7)
+- [尋求專業幫助](#%E5%B0%8B%E6%B1%82%E5%B0%88%E6%A5%AD%E5%B9%AB%E5%8A%A9)
+- [其他相關資料庫](#%E5%85%B6%E4%BB%96%E7%9B%B8%E9%97%9C%E8%B3%87%E6%96%99%E5%BA%AB)
+- [如何貢獻](#%E5%A6%82%E4%BD%95%E8%B2%A2%E7%8D%BB)
+  - [貢獻提示模板（隨時可以添加新的部分！）](#%E8%B2%A2%E7%8D%BB%E6%8F%90%E7%A4%BA%E6%A8%A1%E6%9D%BF%E9%9A%A8%E6%99%82%E5%8F%AF%E4%BB%A5%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E9%83%A8%E5%88%86)
+- [致謝](#%E8%87%B4%E8%AC%9D)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
