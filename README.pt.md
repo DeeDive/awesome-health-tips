@@ -1,49 +1,51 @@
 # Dicas incríveis de saúde para estudantes de doutorado (e para todos!)
 
-[🇬🇧 Inglês](README.md)\|[🇫🇷 Francês](README.fr.md)\|[🇮🇳 Hindi](README.hi.md)\|[🇦🇪 árabe](README.ar.md)\|[🇩🇪 alemão](README.de.md)\|[🇯🇵 japonês](README.ja.md)\|[🇵🇹 Português](README.pt.md)\|[🇪🇸 espanhol](README.es.md)\|[🇨🇳 chinês](README.zh.md)\|[🇹🇼 Chinês Tradicional](README.zh-TW.md)
+[🇬🇧 English](README.md)\|[🇫🇷 French](README.fr.md)\|[🇮🇳 हिन्दी](README.hi.md)\|[🇦🇪 Arabic](README.ar.md)\|[🇩🇪 German](README.de.md)\|[🇯🇵 Japanese](README.ja.md)\|[🇵🇹 Portuguese](README.pt.md)\|[🇪🇸 Spanish](README.es.md)\|[🇨🇳 Chinese](README.zh-CN.md)\|[🇹🇼 繁體中文](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Bem-vindo ao repositório Awesome Health Tips! Este repositório serve como um hub dirigido pela comunidade para compartilhar dicas práticas que podem ser verificadas e seguidas gradualmente durante o tempo de descanso de todos. Vamos criar etapas fáceis de seguir e acionáveis!
 
-VOCÊ é o bem mais valioso. Um PhD leva cinco ou mais anos de trabalho, e a vida leva ainda mais tempo. Há[uma miríade de conselhos](https://github.com/pliang279/awesome-phd-advice)sobre como sobreviver em sua área profissional, mas não tanto sobre como priorizar sua saúde. Muitos graduados seniores acabam se arrependendo, pois nem todas as lesões podem ser totalmente curadas e algumas podem resultar em danos permanentes. Este repositório visa preencher essa lacuna, fornecendo dicas e conselhos práticos para se manter saudável e em forma. Vamos tomar medidas preventivas para manter a forma.
+VOCÊ é o bem mais valioso. Um PhD leva cinco ou mais anos de trabalho, e a vida leva ainda mais tempo. Há[a myriad of advice](https://github.com/pliang279/awesome-phd-advice)sobre como sobreviver em sua área profissional, mas não tanto sobre como priorizar sua saúde. Muitos graduados seniores acabam se arrependendo, pois nem todas as lesões podem ser totalmente curadas e algumas podem resultar em danos permanentes. Este repositório visa preencher essa lacuna, fornecendo dicas e conselhos práticos para se manter saudável e em forma. Vamos tomar medidas preventivas para manter a forma.
 
 \***_Isenção de responsabilidade:_**No entanto, observe que, de forma alguma, esses conselhos de manutenção da saúde e prevenção de doenças substituem o diagnóstico e os julgamentos médicos. Para quaisquer preocupações ou perguntas médicas, consulte um profissional de saúde qualificado.\*
 
-(Convidamos você a contribuir com suas dicas profissionais, adquiridas através de anos de experiência e (provavelmente) lágrimas, enviando um Pull Request! Veja nosso[#como-contribuir](#how-to-contribute)seção)
+(Convidamos você a contribuir com suas dicas profissionais, adquiridas através de anos de experiência e (provavelmente) lágrimas, enviando um Pull Request! Veja nosso[#how-to-contribute](#how-to-contribute)seção)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [Saúde física](#sa%C3%BAde-f%C3%ADsica)
-  - [Exercite regularmente](#exercite-regularmente)
-  - [Saúde ocular e hábitos de leitura](#sa%C3%BAde-ocular-e-h%C3%A1bitos-de-leitura)
-  - [Ergonomia adequada](#ergonomia-adequada)
-  - [Postura e Alinhamento](#postura-e-alinhamento)
-  - [Mantenha-se ativo durante todo o dia](#mantenha-se-ativo-durante-todo-o-dia)
-  - [Fique hidratado](#fique-hidratado)
-  - [Evite ficar sentado por muito tempo](#evite-ficar-sentado-por-muito-tempo)
-  - [Faça pausas](#fa%C3%A7a-pausas)
-  - [Mantenha uma Dieta Balanceada](#mantenha-uma-dieta-balanceada)
-  - [Prevenção de Lesões](#preven%C3%A7%C3%A3o-de-les%C3%B5es)
-  - [Crie um ambiente de apoio](#crie-um-ambiente-de-apoio)
-- [Saúde mental](#sa%C3%BAde-mental)
-  - [Síndrome do impostor](#s%C3%ADndrome-do-impostor)
-  - [Gerenciamento de Estresse](#gerenciamento-de-estresse)
-  - [Construir e manter passatempos](#construir-e-manter-passatempos)
-  - [Mindfulness e Meditação](#mindfulness-e-medita%C3%A7%C3%A3o)
-  - [Conexões sociais e suporte](#conex%C3%B5es-sociais-e-suporte)
-  - [Definindo limites](#definindo-limites)
-  - [Higiene do Sono](#higiene-do-sono)
-  - [Gerenciamento de tempo](#gerenciamento-de-tempo)
-  - [Como lidar com rejeições e contratempos](#como-lidar-com-rejei%C3%A7%C3%B5es-e-contratempos)
-  - [Autocompaixão e Autocuidado](#autocompaix%C3%A3o-e-autocuidado)
-- [Busque ajuda profissional](#busque-ajuda-profissional)
-- [Outros repositórios relacionados](#outros-reposit%C3%B3rios-relacionados)
-- [como contribuir](#como-contribuir)
-  - [Modelo para dicas de contribuição (sinta-se à vontade para adicionar novas peças sempre que necessário!)](#modelo-para-dicas-de-contribui%C3%A7%C3%A3o-sinta-se-%C3%A0-vontade-para-adicionar-novas-pe%C3%A7as-sempre-que-necess%C3%A1rio)
-- [Reconhecimentos](#reconhecimentos)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Índice**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -103,7 +105,7 @@ VOCÊ é o bem mais valioso. Um PhD leva cinco ou mais anos de trabalho, e a vid
 
 **Dispositivos recomendados (qualquer nome de produto?):**
 
--   Cadeiras de escritório ergonômicas com altura ajustável, apoio lombar e braços.
+-   Cadeiras de escritório ergonômicas com altura ajustável, apoio lombar e apoio de braços.
 -   Mesas de pé ou estações de trabalho ajustáveis ​​para alternar entre sentado e em pé.
 -   Teclados e mouses ergonômicos projetados para reduzir a tensão nas mãos e pulsos.
 -   Suportes de monitor ou braços de monitor ajustáveis ​​para posicionar as telas na altura e distância corretas.
@@ -116,7 +118,7 @@ VOCÊ é o bem mais valioso. Um PhD leva cinco ou mais anos de trabalho, e a vid
 
 **Regra de ouro:**Mantenha a coluna neutra e o alinhamento adequado enquanto estiver sentado ou em pé para reduzir o risco de dor e desconforto musculoesquelético.
 
-**Breve motivo:**A má postura pode levar a desequilíbrios musculares, tensão e lesões ao longo do tempo. Manter o alinhamento adequado pode ajudar a prevenir esses problemas e apoiar a saúde geral da coluna vertebral.
+**Breve motivo:**A má postura pode levar a desequilíbrios musculares, tensão e lesões ao longo do tempo. Manter o alinhamento adequado pode ajudar a prevenir esses problemas e apoiar a saúde geral da coluna.
 
 **Etapas acionáveis:**
 
@@ -257,7 +259,7 @@ VOCÊ é o bem mais valioso. Um PhD leva cinco ou mais anos de trabalho, e a vid
 
 ## Saúde mental
 
-### Síndrome do impostor
+### Síndrome do Impostor
 
 **Regra de ouro:**Reconheça os sinais da síndrome do impostor e desenvolva estratégias para gerenciá-la.
 
@@ -467,8 +469,8 @@ Lidar com a síndrome do impostor é essencial para manter o bem-estar mental e 
 
 ## Outros repositórios relacionados
 
--   [Incrível saúde](https://github.com/kakoni/awesome-healthcare)- Uma lista com curadoria de incríveis softwares, bibliotecas, ferramentas e recursos de saúde de código aberto.
--   [Incrível saúde mental](https://github.com/dreamingechoes/awesome-mental-health)- Uma lista com curadoria de artigos, sites e recursos incríveis sobre saúde mental na indústria de software.
+-   [Awesome Healthcare](https://github.com/kakoni/awesome-healthcare)- Uma lista com curadoria de incríveis softwares, bibliotecas, ferramentas e recursos de saúde de código aberto.
+-   [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)- Uma lista com curadoria de artigos, sites e recursos incríveis sobre saúde mental na indústria de software.
 
 Ao contrário de outros recursos, este repositório visa fornecer um resumo de etapas fáceis de seguir e acionáveis ​​que podem ser compreendidas por não especialistas, independentemente de seu nível de conhecimento ou experiência na área de saúde e bem-estar.
 
