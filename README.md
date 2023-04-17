@@ -1,17 +1,20 @@
 # Awesome Health Tips for PhD Students (and Everyone!)
 
-[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md) | [🇮🇳 हिन्दी](README.hi.md) | [🇦🇪 العربية](README.ar.md) | [🇩🇪 Deutsch](README.de.md) | [🇯🇵 日本語](README.ja.md) | [🇵🇹 Português](README.pt.md) | [🇷🇺 Русский](README.ru.md) | [🇪🇸 Español](README.es.md) | [🇨🇳 简体中文](README.zh-CN.md) | [🇹🇼 繁體中文](README.zh-TW.md) 
-
+[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md) | [🇮🇳 हिन्दी](README.hi.md) | [🇦🇪 العربية](README.ar.md) | [🇩🇪 Deutsch](README.de.md) | [🇯🇵 日本語](README.ja.md) | [🇵🇹 Português](README.pt.md) | [🇷🇺 Русский](README.ru.md) | [🇪🇸 Español](README.es.md) | [🇨🇳 简体中文](README.zh-CN.md) | [🇹🇼 繁體中文](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Welcome to the Awesome Health Tips repository! This repository serves as a community-driven hub for sharing practical tips that can be incrementally checked and followed during everyone's rest time. Let us make easy-to-follow, actionable steps!
- 
-YOU are the most valuable asset. A PhD takes five or more years' grinding, and the life takes even longer. There is [a myriad of advice](https://github.com/pliang279/awesome-phd-advice) on how to survive in your professional area, but not that much on how to prioritize your health. Many senior graduates end up with regrets since not all injuries can be fully healed, and some may result in permanent damage. This repository aims to fill that gap by providing practical tips and advice for staying healthy and fit. Let us take preventive steps to keep fit.
 
-****Disclaimer:*** However, please note that by no means do these health-keeping and illness-avoidance advice replace medical diagnosis and judgments. For any medical concerns or questions, please consult with a qualified healthcare professional.*
+YOU are the most valuable asset. A PhD takes five or more years' grinding, and life takes even longer. There is [a myriad of advice](https://github.com/pliang279/awesome-phd-advice) on how to survive in your professional area, but not that much on how to prioritize your health. Many senior graduates end up with regrets since not all injuries can be fully healed, and some may result in permanent damage. This repository aims to fill that gap by providing practical tips and advice for staying healthy and fit. Let us take preventive steps to keep fit.
+
+**Disclaimer:** However, please note that by no means do these health-keeping and illness-avoidance advice replace medical diagnosis and judgments. For any medical concerns or questions, please consult with a qualified healthcare professional.
 
 (We welcome you to contribute your pro tips, acquired through years of experience and (probably) tears, by submitting a Pull Request! See our [#how-to-contribute](#how-to-contribute) section)
+
+>  ### A Personal Note
+> PhD is a transition time from requirements to self-discipline. I am in my second year of PhD studies and I am realizing that preventive steps are of extreme  importance. Hence, I plan to spend one hour per week to learn health knowledge and update it here. I invite you to join me! Together, let's build a healthier and happier community.
+
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
