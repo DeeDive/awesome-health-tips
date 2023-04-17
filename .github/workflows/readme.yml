@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 12.x
       # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
-      - name: Adding README - Chinese Simplified - Mandarin Chinese is the most spoken language in the world, and many universities have significant populations of Chinese students. Including Chinese in your README can help you reach these students.
+      - name: Adding README - Chinese Simplified
         uses: DeeDive/translate-readme@main
         with:
           LANG: zh-CN
@@ -27,15 +27,15 @@ jobs:
         uses: DeeDive/translate-readme@main
         with:
           LANG: zh-TW
-      - name: Adding README - Portuguese - Portuguese is spoken in many universities in Brazil, Portugal, and other parts of the world, so it may be worth considering including it as well.
+      - name: Adding README - Portuguese
         uses: DeeDive/translate-readme@main
         with:
           LANG: pt
-      - name: Adding README - German - German is widely spoken in universities in Germany, Austria, and Switzerland, so it may be relevant if you are targeting students in those countries.
+      - name: Adding README - German
         uses: DeeDive/translate-readme@main
         with:
           LANG: de
-      - name: Adding README - French - French is spoken in many universities in Europe, Africa, and Canada, so including it in your README can help you reach a wider audience.
+      - name: Adding README - French
         uses: DeeDive/translate-readme@main
         with:
           LANG: fr
@@ -43,8 +43,15 @@ jobs:
         uses: DeeDive/translate-readme@main
         with:
           LANG: ja
-      - name: Adding README - Spanish - Spanish is also a good language to include as many universities have a significant population of Spanish-speaking students, especially in Latin America and Spain.
+      - name: Adding README - Spanish
         uses: DeeDive/translate-readme@main
         with:
           LANG: es
-          
+      - name: Adding README - Arabic
+        uses: DeeDive/translate-readme@main
+        with:
+          LANG: ar
+      - name: Adding README - Hindi
+        uses: DeeDive/translate-readme@main
+        with:
+          LANG: hi
