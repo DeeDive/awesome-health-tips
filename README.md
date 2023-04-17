@@ -1,6 +1,6 @@
 # Awesome Health Tips for PhD Students (and Everyone!)
 
-[🇬🇧 English](README.md) | [🇫🇷 French](README.fr.md) | [🇮🇳 हिन्दी](README.hi.md) | [🇦🇪 Arabic](README.ar.md) | [🇩🇪 German](README.de.md) | [🇯🇵 Japanese](README.ja.md)  | [🇵🇹 Portuguese](README.pt.md) | [🇪🇸 Spanish](README.es.md) | [🇨🇳 Chinese](README.zh.md) | [🇹🇼 繁體中文](README.zh-TW.md)
+[🇬🇧 English](README.md) | [🇫🇷 French](README.fr.md) | [🇮🇳 हिन्दी](README.hi.md) | [🇦🇪 Arabic](README.ar.md) | [🇩🇪 German](README.de.md) | [🇯🇵 Japanese](README.ja.md)  | [🇵🇹 Portuguese](README.pt.md) | [🇪🇸 Spanish](README.es.md) | [🇨🇳 Chinese](README.zh-CN.md) | [🇹🇼 繁體中文](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
