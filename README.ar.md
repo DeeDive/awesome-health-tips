@@ -8,7 +8,7 @@
 
 أنت أثمن الأصول. تستغرق درجة الدكتوراه خمس سنوات أو أكثر ، وتستغرق الحياة وقتًا أطول. هنالك[a myriad of advice](https://github.com/pliang279/awesome-phd-advice)حول كيفية البقاء على قيد الحياة في مجال عملك ، ولكن ليس كثيرًا حول كيفية إعطاء الأولوية لصحتك. ينتهي الأمر بالعديد من الخريجين الكبار بالأسف لأنه لا يمكن التئام جميع الإصابات بشكل كامل ، وقد يؤدي بعضها إلى ضرر دائم. يهدف هذا المستودع إلى سد هذه الفجوة من خلال تقديم نصائح وإرشادات عملية للبقاء في صحة جيدة ولياقة بدنية. دعونا نتخذ خطوات وقائية للحفاظ على لياقتهم.
 
-**تنصل:**ومع ذلك ، يرجى ملاحظة أنه لا يمكن بأي حال من الأحوال أن تحل نصائح الحفاظ على الصحة وتجنب المرض هذه محل التشخيص الطبي والأحكام. لأية مخاوف أو أسئلة طبية ، يرجى استشارة أخصائي رعاية صحية مؤهل.
+**\*تنصل:**ومع ذلك ، يرجى ملاحظة أنه لا يمكن بأي حال من الأحوال أن تحل نصائح الحفاظ على الصحة وتجنب المرض هذه محل التشخيص الطبي والأحكام. لأية مخاوف أو أسئلة طبية ، يرجى استشارة أخصائي رعاية صحية مؤهل. \*
 
 (نرحب بك للمساهمة بنصائحك الاحترافية ، المكتسبة من خلال سنوات من الخبرة و (ربما) الدموع ، من خلال تقديم طلب سحب\![#how-to-contribute](#how-to-contribute)قسم)
 
@@ -17,37 +17,39 @@
 > الدكتوراه هي فترة انتقالية من المتطلبات إلى الانضباط الذاتي. أنا في سنتي الثانية من دراسات الدكتوراه وأدرك أن الخطوات الوقائية ذات أهمية قصوى. ومن ثم ، أخطط لقضاء ساعة واحدة في الأسبوع لتعلم المعرفة الصحية وتحديثها هنا. وأنا أدعوكم إلى الانضمام لي! معًا ، لنبني مجتمعًا أكثر صحة وسعادة.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [الصحة الجسدية](#%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%AC%D8%B3%D8%AF%D9%8A%D8%A9)
-  - [اتمرن بانتظام](#%D8%A7%D8%AA%D9%85%D8%B1%D9%86-%D8%A8%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D9%85)
-  - [صحة العين وعادات القراءة](#%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D9%86-%D9%88%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9)
-  - [بيئة العمل المناسبة](#%D8%A8%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9)
-  - [الموقف والمحاذاة](#%D8%A7%D9%84%D9%85%D9%88%D9%82%D9%81-%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B0%D8%A7%D8%A9)
-  - [حافظ على نشاطك طوال اليوم](#%D8%AD%D8%A7%D9%81%D8%B8-%D8%B9%D9%84%D9%89-%D9%86%D8%B4%D8%A7%D8%B7%D9%83-%D8%B7%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D9%8A%D9%88%D9%85)
-  - [حافظ على رطوبتك](#%D8%AD%D8%A7%D9%81%D8%B8-%D8%B9%D9%84%D9%89-%D8%B1%D8%B7%D9%88%D8%A8%D8%AA%D9%83)
-  - [تجنب الجلوس لفترات طويلة](#%D8%AA%D8%AC%D9%86%D8%A8-%D8%A7%D9%84%D8%AC%D9%84%D9%88%D8%B3-%D9%84%D9%81%D8%AA%D8%B1%D8%A7%D8%AA-%D8%B7%D9%88%D9%8A%D9%84%D8%A9)
-  - [خذ فترات راحة](#%D8%AE%D8%B0-%D9%81%D8%AA%D8%B1%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AD%D8%A9)
-  - [حافظ على نظام غذائي متوازن](#%D8%AD%D8%A7%D9%81%D8%B8-%D8%B9%D9%84%D9%89-%D9%86%D8%B8%D8%A7%D9%85-%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A-%D9%85%D8%AA%D9%88%D8%A7%D8%B2%D9%86)
-  - [الوقاية من الإصابات](#%D8%A7%D9%84%D9%88%D9%82%D8%A7%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA)
-  - [بناء بيئة داعمة](#%D8%A8%D9%86%D8%A7%D8%A1-%D8%A8%D9%8A%D8%A6%D8%A9-%D8%AF%D8%A7%D8%B9%D9%85%D8%A9)
-- [الصحة النفسية](#%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9)
-  - [متلازمة الدجال](#%D9%85%D8%AA%D9%84%D8%A7%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D9%84)
-  - [ادارة الاجهاد](#%D8%A7%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AC%D9%87%D8%A7%D8%AF)
-  - [بناء الهوايات والحفاظ عليها](#%D8%A8%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AD%D9%81%D8%A7%D8%B8-%D8%B9%D9%84%D9%8A%D9%87%D8%A7)
-  - [اليقظة والتأمل](#%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%A3%D9%85%D9%84)
-  - [الروابط الاجتماعية والدعم](#%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D8%B9%D9%85)
-  - [تحديد الحدود](#%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF)
-  - [نظافة النوم](#%D9%86%D8%B8%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D9%85)
-  - [إدارة الوقت](#%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%88%D9%82%D8%AA)
-  - [التعامل مع الرفض والنكسات](#%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D9%85%D8%B9-%D8%A7%D9%84%D8%B1%D9%81%D8%B6-%D9%88%D8%A7%D9%84%D9%86%D9%83%D8%B3%D8%A7%D8%AA)
-  - [التعاطف مع الذات والرعاية الذاتية](#%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D8%B7%D9%81-%D9%85%D8%B9-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B1%D8%B9%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9)
-- [اطلب المساعدة الاحترافية](#%D8%A7%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9)
-- [مستودعات أخرى ذات صلة](#%D9%85%D8%B3%D8%AA%D9%88%D8%AF%D8%B9%D8%A7%D8%AA-%D8%A3%D8%AE%D8%B1%D9%89-%D8%B0%D8%A7%D8%AA-%D8%B5%D9%84%D8%A9)
-- [كيف تساهم](#%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D8%A7%D9%87%D9%85)
-  - [نموذج لنصائح المساهمة (لا تتردد في إضافة أجزاء جديدة عند الحاجة!)](#%D9%86%D9%85%D9%88%D8%B0%D8%AC-%D9%84%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%87%D9%85%D8%A9-%D9%84%D8%A7-%D8%AA%D8%AA%D8%B1%D8%AF%D8%AF-%D9%81%D9%8A-%D8%A5%D8%B6%D8%A7%D9%81%D8%A9-%D8%A3%D8%AC%D8%B2%D8%A7%D8%A1-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%B9%D9%86%D8%AF-%D8%A7%D9%84%D8%AD%D8%A7%D8%AC%D8%A9)
-- [شكر وتقدير](#%D8%B4%D9%83%D8%B1-%D9%88%D8%AA%D9%82%D8%AF%D9%8A%D8%B1)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**جدول المحتويات**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
