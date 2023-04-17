@@ -138,7 +138,6 @@ YOU are the most valuable asset. A PhD takes five or more years' grinding, and t
 - MedlinePlus. (2021). Health risks of an inactive lifestyle. Retrieved from https://medlineplus.gov/healthrisksofaninactivelifestyle.html
 
 
-
 ### Stay Hydrated
 
 **Rule of thumb:** Drink enough water throughout the day to maintain proper hydration and support overall health.
