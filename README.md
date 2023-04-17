@@ -26,6 +26,7 @@ You are the most valuable asset. A PhD takes five or more years' grinding, and t
   - [Injury Prevention](#injury-prevention)
   - [Build a Supportive Environment](#build-a-supportive-environment)
 - [Mental Health](#mental-health)
+  - [Imposter Syndrome](#imposter-syndrome)
   - [Stress Management](#stress-management)
   - [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
   - [Mindfulness and Meditation](#mindfulness-and-meditation)
