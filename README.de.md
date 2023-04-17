@@ -1,6 +1,6 @@
 # Fantastische Gesundheitstipps für Doktoranden (und alle!)
 
-[🇩🇪 Englisch](README.md)\|[🇩🇪 Französisch](README.fr.md)\|[🇦🇪 Arabisch](README.ar.md)\|[🇮🇳 Hindi](README.hi.md)\|[🇯🇵Japanisch](README.ja.md)\|[🇨🇳 Vereinfachtes Chinesisch](README.zh-CN.md)\|[🇹🇼 Traditionelles Chinesisch](README.zh-TW.md)
+[🇩🇪 Englisch](README.md)\|[🇫🇷 Französisch](README.fr.md)\|[🇮🇳 Hindi](README.hi.md)\|[🇦🇪 Arabisch](README.ar.md)\|[🇩🇪 Deutsch](README.de.md)\|[🇯🇵 Japanisch](README.ja.md)\|[🇵🇹 Portugiesisch](README.pt.md)\|[🇪🇸 Spanisch](README.es.md)\|[🇨🇳 Chinesisch](README.zh.md)\|[🇹🇼 Traditionelles Chinesisch](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -13,37 +13,39 @@ DU bist das wertvollste Gut. Eine Promotion dauert fünf oder mehr Jahre, und da
 (Wir heißen Sie herzlich willkommen, Ihre Profi-Tipps, erworben durch jahrelange Erfahrung und (wahrscheinlich) Tränen, beizusteuern, indem Sie eine Pull-Anfrage einreichen! Siehe unsere[#wie-man-beitragen kann](#how-to-contribute)Abschnitt)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [Körperliche Gesundheit](#k%C3%B6rperliche-gesundheit)
-  - [Regelmäßig Sport treiben](#regelm%C3%A4%C3%9Fig-sport-treiben)
-  - [Augengesundheit und Lesegewohnheiten](#augengesundheit-und-lesegewohnheiten)
-  - [Richtige Ergonomie](#richtige-ergonomie)
-  - [Haltung und Ausrichtung](#haltung-und-ausrichtung)
-  - [Bleiben Sie den ganzen Tag über aktiv](#bleiben-sie-den-ganzen-tag-%C3%BCber-aktiv)
-  - [Trinke genug](#trinke-genug)
-  - [Vermeiden Sie langes Sitzen](#vermeiden-sie-langes-sitzen)
-  - [Pausen machen](#pausen-machen)
-  - [Achten Sie auf eine ausgewogene Ernährung](#achten-sie-auf-eine-ausgewogene-ern%C3%A4hrung)
-  - [Verletzungsprävention](#verletzungspr%C3%A4vention)
-  - [Schaffen Sie eine unterstützende Umgebung](#schaffen-sie-eine-unterst%C3%BCtzende-umgebung)
-- [Psychische Gesundheit](#psychische-gesundheit)
-  - [Betrüger-Syndrom](#betr%C3%BCger-syndrom)
-  - [Stressbewältigung](#stressbew%C3%A4ltigung)
-  - [Hobbys aufbauen und pflegen](#hobbys-aufbauen-und-pflegen)
-  - [Achtsamkeit und Meditation](#achtsamkeit-und-meditation)
-  - [Soziale Verbindungen und Unterstützung](#soziale-verbindungen-und-unterst%C3%BCtzung)
-  - [Grenzen setzen](#grenzen-setzen)
-  - [Schlafhygiene](#schlafhygiene)
-  - [Zeiteinteilung](#zeiteinteilung)
-  - [Umgang mit Ablehnungen und Rückschlägen](#umgang-mit-ablehnungen-und-r%C3%BCckschl%C3%A4gen)
-  - [Selbstmitgefühl und Selbstfürsorge](#selbstmitgef%C3%BChl-und-selbstf%C3%BCrsorge)
-- [Suchen Sie professionelle Hilfe](#suchen-sie-professionelle-hilfe)
-- [Andere verwandte Repositories](#andere-verwandte-repositories)
-- [So können Sie beitragen](#so-k%C3%B6nnen-sie-beitragen)
-  - [Vorlage für Beitragstipps (Fühlen Sie sich frei, bei Bedarf neue Teile hinzuzufügen!)](#vorlage-f%C3%BCr-beitragstipps-f%C3%BChlen-sie-sich-frei-bei-bedarf-neue-teile-hinzuzuf%C3%BCgen)
-- [Danksagungen](#danksagungen)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Inhaltsverzeichnis**
+
+-   [Körperliche Gesundheit](#physical-health)
+    -   [Regelmäßig Sport treiben](#exercise-regularly)
+    -   [Augengesundheit und Lesegewohnheiten](#eye-health-and-reading-habits)
+    -   [Richtige Ergonomie](#proper-ergonomics)
+    -   [Haltung und Ausrichtung](#posture-and-alignment)
+    -   [Bleiben Sie den ganzen Tag über aktiv](#stay-active-throughout-the-day)
+    -   [Trinke genug](#stay-hydrated)
+    -   [Vermeiden Sie langes Sitzen](#avoid-prolonged-sitting)
+    -   [Pausen machen](#take-breaks)
+    -   [Achten Sie auf eine ausgewogene Ernährung](#maintain-a-balanced-diet)
+    -   [Verletzungsprävention](#injury-prevention)
+    -   [Schaffen Sie eine unterstützende Umgebung](#build-a-supportive-environment)
+-   [Psychische Gesundheit](#mental-health)
+    -   [Betrüger-Syndrom](#imposter-syndrome)
+    -   [Stressbewältigung](#stress-management)
+    -   [Hobbys aufbauen und pflegen](#building-and-maintaining-hobbies)
+    -   [Achtsamkeit und Meditation](#mindfulness-and-meditation)
+    -   [Soziale Verbindungen und Unterstützung](#social-connections-and-support)
+    -   [Grenzen setzen](#setting-boundaries)
+    -   [Schlafhygiene](#sleep-hygiene)
+    -   [Zeiteinteilung](#time-management)
+    -   [Umgang mit Ablehnungen und Rückschlägen](#handling-rejections-and-setbacks)
+    -   [Selbstmitgefühl und Selbstfürsorge](#self-compassion-and-self-care)
+-   [Suchen Sie professionelle Hilfe](#seek-professional-help)
+-   [Andere verwandte Repositories](#other-related-repositories)
+-   [So können Sie beitragen](#how-to-contribute)
+    -   [Vorlage für Beitragstipps (Fühlen Sie sich frei, bei Bedarf neue Teile hinzuzufügen!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Danksagungen](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -212,7 +214,7 @@ DU bist das wertvollste Gut. Eine Promotion dauert fünf oder mehr Jahre, und da
 -   Essen Sie eine Vielzahl von Obst, Gemüse, Vollkornprodukten, mageren Proteinen und gesunden Fetten.
 -   Begrenzen Sie den Konsum von verarbeiteten Lebensmitteln, zugesetztem Zucker und ungesunden Fetten.
 -   Achten Sie auf Portionsgrößen und üben Sie achtsames Essen.
--   Bleiben Sie hydratisiert, indem Sie den ganzen Tag über genügend Wasser trinken.
+-   Bleiben Sie hydriert, indem Sie den ganzen Tag über genügend Wasser trinken.
 
 **Verlässliche Quelle:**
 
@@ -310,7 +312,7 @@ Das Ansprechen des Hochstapler-Syndroms ist unerlässlich, um das geistige Wohlb
 **Umsetzbare Schritte:**
 
 -   Erkunden Sie verschiedene Interessen und Aktivitäten, um Hobbys zu entdecken, die Sie wirklich begeistern und beschäftigen.
--   Nehmen Sie sich Zeit für Ihre Hobbys und behandeln Sie sie als wesentlichen Teil Ihrer Selbstpflegeroutine.
+-   Nehmen Sie sich Zeit für Ihre Hobbys und behandeln Sie sie als einen wesentlichen Teil Ihrer Selbstpflegeroutine.
 -   Verbinden Sie sich mit anderen, die Ihre Interessen teilen, entweder persönlich oder über Online-Communities, um Ihr Hobbyerlebnis zu verbessern und soziale Verbindungen aufzubauen.
 -   Seien Sie offen für neue Aktivitäten und erweitern Sie Ihren Horizont. Manchmal können Hobbys zu unerwarteten persönlichen und beruflichen Wachstumschancen führen.
 -   Denken Sie daran, ein Gleichgewicht zwischen Ihren Hobbys und akademischen Verpflichtungen zu wahren. Hobbys sollen Erholung und Genuss bieten, ohne zusätzlichen Stress zu verursachen oder von der wissenschaftlichen Arbeit abzulenken.
@@ -322,7 +324,7 @@ Das Ansprechen des Hochstapler-Syndroms ist unerlässlich, um das geistige Wohlb
 
 ### Achtsamkeit und Meditation
 
-**Faustregel:**Praktiziere Achtsamkeit oder Meditation für mindestens 10 Minuten pro Tag, um Stress abzubauen und dein geistiges Wohlbefinden zu verbessern.
+**Faustregel:**Praktizieren Sie Achtsamkeit oder Meditation für mindestens 10 Minuten pro Tag, um Stress abzubauen und Ihr geistiges Wohlbefinden zu verbessern.
 
 **Kurzer Grund:**Achtsamkeit und Meditation können helfen, das Selbstbewusstsein, die Konzentration und die emotionale Regulierung zu steigern und gleichzeitig Angst und Stress abzubauen.
 
@@ -408,7 +410,7 @@ Das Ansprechen des Hochstapler-Syndroms ist unerlässlich, um das geistige Wohlb
 
 -   MindTools. (n.d.). Zeiteinteilung. Abgerufen von<https://www.mindtools.com/pages/main/newMN_HTE.htm>
 -   Mayo-Klinik. (2021). Zeitmanagement: Tipps zum Stressabbau und zur Steigerung der Produktivität. Abgerufen von<https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/time-management/art-20047938>
--   Lakein, A. (1973). Wie Sie Ihre Zeit und Ihr Leben in den Griff bekommen
+-   Lakein, A. (1973). Wie Sie die Kontrolle über Ihre Zeit und Ihr Leben erlangen
 
 ### Umgang mit Ablehnungen und Rückschlägen
 
