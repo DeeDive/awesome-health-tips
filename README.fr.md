@@ -1,8 +1,8 @@
 # Conseils de santé géniaux pour les doctorants (et tout le monde !)
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
 [🇫🇷 Anglais](README.md)\|[🇫🇷 Français](README.fr.md)\|[🇦🇪 arabe](README.ar.md)\|[🇮🇳 hindi](README.hi.md)\|[🇯🇵japonais](README.ja.md)\|[🇨🇳 Chinois simplifié](README.zh-CN.md)\|[🇹🇼 Chinois traditionnel](README.zh-TW.md)
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Bienvenue dans le référentiel Awesome Health Tips ! Ce référentiel sert de centre communautaire pour partager des conseils pratiques qui peuvent être vérifiés et suivis progressivement pendant le temps de repos de chacun. Faisons des étapes faciles à suivre et réalisables !
 
@@ -13,37 +13,39 @@ VOUS êtes l'atout le plus précieux. Un doctorat prend cinq ans ou plus, et la 
 (Nous vous invitons à apporter vos conseils de pro, acquis au fil d'années d'expérience et (probablement) de larmes, en soumettant une demande d'extraction ! Consultez notre[#comment-contribuer](#how-to-contribute)section)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [Santé physique](#sant%C3%A9-physique)
-  - [Exercice régulier](#exercice-r%C3%A9gulier)
-  - [Santé oculaire et habitudes de lecture](#sant%C3%A9-oculaire-et-habitudes-de-lecture)
-  - [Une bonne ergonomie](#une-bonne-ergonomie)
-  - [Posture et alignement](#posture-et-alignement)
-  - [Restez actif tout au long de la journée](#restez-actif-tout-au-long-de-la-journ%C3%A9e)
-  - [Restez hydraté](#restez-hydrat%C3%A9)
-  - [Évitez la position assise prolongée](#%C3%89vitez-la-position-assise-prolong%C3%A9e)
-  - [Prendre des pauses](#prendre-des-pauses)
-  - [Maintenir une alimentation équilibrée](#maintenir-une-alimentation-%C3%A9quilibr%C3%A9e)
-  - [Prévention des blessures](#pr%C3%A9vention-des-blessures)
-  - [Créer un environnement favorable](#cr%C3%A9er-un-environnement-favorable)
-- [Santé mentale](#sant%C3%A9-mentale)
-  - [Syndrome de l'imposteur](#syndrome-de-limposteur)
-  - [La gestion du stress](#la-gestion-du-stress)
-  - [Créer et entretenir des passe-temps](#cr%C3%A9er-et-entretenir-des-passe-temps)
-  - [Pleine Conscience et Méditation](#pleine-conscience-et-m%C3%A9ditation)
-  - [Connexions sociales et soutien](#connexions-sociales-et-soutien)
-  - [Fixer des limites](#fixer-des-limites)
-  - [Hygiène du sommeil](#hygi%C3%A8ne-du-sommeil)
-  - [Gestion du temps](#gestion-du-temps)
-  - [Gérer les rejets et les revers](#g%C3%A9rer-les-rejets-et-les-revers)
-  - [Auto-compassion et soins personnels](#auto-compassion-et-soins-personnels)
-- [Cherchez de l'aide professionnelle](#cherchez-de-laide-professionnelle)
-- [Autres référentiels associés](#autres-r%C3%A9f%C3%A9rentiels-associ%C3%A9s)
-- [Comment contribuer](#comment-contribuer)
-  - [Modèle de conseils de contribution (n'hésitez pas à ajouter de nouvelles pièces chaque fois que nécessaire !)](#mod%C3%A8le-de-conseils-de-contribution-nh%C3%A9sitez-pas-%C3%A0-ajouter-de-nouvelles-pi%C3%A8ces-chaque-fois-que-n%C3%A9cessaire%C2%A0)
-- [Remerciements](#remerciements)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Table des matières**
+
+-   [Santé physique](#physical-health)
+    -   [Exercice régulier](#exercise-regularly)
+    -   [Santé oculaire et habitudes de lecture](#eye-health-and-reading-habits)
+    -   [Une bonne ergonomie](#proper-ergonomics)
+    -   [Posture et alignement](#posture-and-alignment)
+    -   [Restez actif tout au long de la journée](#stay-active-throughout-the-day)
+    -   [Restez hydraté](#stay-hydrated)
+    -   [Évitez la position assise prolongée](#avoid-prolonged-sitting)
+    -   [Prendre des pauses](#take-breaks)
+    -   [Maintenir une alimentation équilibrée](#maintain-a-balanced-diet)
+    -   [Prévention des blessures](#injury-prevention)
+    -   [Créer un environnement favorable](#build-a-supportive-environment)
+-   [Santé mentale](#mental-health)
+    -   [Syndrome de l'imposteur](#imposter-syndrome)
+    -   [La gestion du stress](#stress-management)
+    -   [Créer et entretenir des passe-temps](#building-and-maintaining-hobbies)
+    -   [Pleine Conscience et Méditation](#mindfulness-and-meditation)
+    -   [Connexions sociales et soutien](#social-connections-and-support)
+    -   [Fixer des limites](#setting-boundaries)
+    -   [Hygiène du sommeil](#sleep-hygiene)
+    -   [Gestion du temps](#time-management)
+    -   [Gérer les rejets et les revers](#handling-rejections-and-setbacks)
+    -   [Auto-compassion et soins personnels](#self-compassion-and-self-care)
+-   [Cherchez de l'aide professionnelle](#seek-professional-help)
+-   [Autres référentiels associés](#other-related-repositories)
+-   [Comment contribuer](#how-to-contribute)
+    -   [Modèle de conseils de contribution (n'hésitez pas à ajouter de nouvelles pièces chaque fois que nécessaire !)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Remerciements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -163,7 +165,7 @@ VOUS êtes l'atout le plus précieux. Un doctorat prend cinq ans ou plus, et la 
 
 **Sources fiables:**
 
--   Clinique Mayo. (2020). Eau : quelle quantité devriez-vous boire chaque jour ? Extrait de<https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256>
+-   Clinique Mayo. (2020). Eau : quelle quantité faut-il boire chaque jour ? Extrait de<https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256>
 -   Centres pour le Contrôle et la Prévention des catastrophes. (2020). Obtenez les faits : eau potable et consommation. Extrait de<https://www.cdc.gov/nutrition/data-statistics/plain-water-the-healthier-choice.html>
 
 ### Évitez la position assise prolongée
@@ -216,7 +218,7 @@ VOUS êtes l'atout le plus précieux. Un doctorat prend cinq ans ou plus, et la 
 
 **Sources fiables:**
 
--   École de santé publique de Harvard. (2020). La source nutritionnelle : une assiette saine. Extrait de<https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/>
+-   École de santé publique de Harvard. (2020). La source nutritionnelle : Une assiette saine. Extrait de<https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/>
 -   Clinique Mayo. (2020). Nutrition et alimentation saine : Lignes directrices pour une alimentation équilibrée. Extrait de<https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/basics/nutrition-basics/hlv-20049477>
 
 ### Prévention des blessures
@@ -288,7 +290,7 @@ Traiter le syndrome de l'imposteur est essentiel pour maintenir le bien-être me
 
 **Règle d'or :**Développer des stratégies d'adaptation saines pour gérer le stress et maintenir le bien-être mental.
 
-**Courte raison :**Une gestion efficace du stress peut réduire l'impact négatif du stress sur la santé physique et mentale et améliorer la satisfaction globale de la vie.
+**Courte raison :**Une gestion efficace du stress peut réduire l'impact négatif du stress sur la santé physique et mentale et améliorer la satisfaction globale à l'égard de la vie.
 
 **Étapes réalisables :**
 
@@ -480,7 +482,7 @@ Conseils pour les contributeurs
 
 -   Avant de soumettre une nouvelle astuce, vérifiez le référentiel pour vous assurer que le sujet n'a pas déjà été traité.
 -   Envisagez d'inclure des images, des infographies ou de courtes vidéos pour illustrer vos conseils, mais fournissez toujours une attribution appropriée et assurez-vous que vous disposez des autorisations nécessaires pour utiliser les médias.
--   Soyez ouvert aux commentaires des autres contributeurs et des membres de la communauté. La collaboration peut aider à améliorer la qualité globale du référentiel.
+-   Soyez ouvert aux commentaires des autres contributeurs et des membres de la communauté. La collaboration peut contribuer à améliorer la qualité globale du référentiel.
 -   Vérifiez régulièrement les mises à jour dans le référentiel et restez informé de toute modification des directives ou du modèle de contribution.
 
 En suivant ces directives et en utilisant le modèle fourni, vous pouvez nous aider à créer et à maintenir un référentiel de conseils de santé précieux, informatif et engageant dont tout le monde pourra bénéficier !
