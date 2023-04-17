@@ -6,44 +6,50 @@
 
 欢迎来到 Awesome Health Tips 存储库！此存储库充当社区驱动的中心，用于共享实用技巧，可以在每个人的休息时间逐步检查和遵循这些技巧。让我们制定易于遵循、可操作的步骤！
 
-您是最宝贵的资产。读博士需要五年或更长时间的磨练，而人生则需要更长的时间。有[a myriad of advice](https://github.com/pliang279/awesome-phd-advice)关于如何在您的专业领域生存，而不是关于如何优先考虑您的健康。很多大四毕业的人都后悔了，不是所有的伤都能完全痊愈，有的甚至会造成永久性的伤害。该存储库旨在通过提供保持健康和健康的实用技巧和建议来填补这一空白。让我们采取预防措施来保持健康。
+您是最宝贵的资产。博士需要五年或更长时间的磨练，而人生则需要更长的时间。有[a myriad of advice](https://github.com/pliang279/awesome-phd-advice)关于如何在您的专业领域生存，而不是关于如何优先考虑您的健康。很多高年级毕业生都后悔了，不是所有的伤都能完全痊愈，有的甚至会造成永久性的伤害。该存储库旨在通过提供保持健康和健康的实用技巧和建议来填补这一空白。让我们采取预防措施来保持健康。
 
-\***_免责声明：_**但请注意，这些养生避病的建议并不能代替医学的诊断和判断。如有任何医疗问题或问题，请咨询合格的医疗保健专业人员。\*
+**免责声明：**但请注意，这些养生避病的建议并不能代替医学的诊断和判断。如有任何医疗问题或问题，请咨询合格的医疗保健专业人员。
 
 （我们欢迎您通过提交合并请求来贡献您的专业技巧，这些技巧是通过多年的经验和（可能）眼泪获得的！请参阅我们的[#how-to-contribute](#how-to-contribute)部分）
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+> ### 个人笔记
+>
+> PhD是一个从要求到自律的过渡时期。我正在攻读博士学位的第二年，我意识到预防措施极其重要。因此，我计划每周花一小时来学习健康知识并在这里更新。我邀请你加入我！让我们一起建立一个更健康、更快乐的社区。
 
-- [身体健康](#%E8%BA%AB%E4%BD%93%E5%81%A5%E5%BA%B7)
-  - [经常锻炼](#%E7%BB%8F%E5%B8%B8%E9%94%BB%E7%82%BC)
-  - [眼睛健康和阅读习惯](#%E7%9C%BC%E7%9D%9B%E5%81%A5%E5%BA%B7%E5%92%8C%E9%98%85%E8%AF%BB%E4%B9%A0%E6%83%AF)
-  - [适当的人体工程学](#%E9%80%82%E5%BD%93%E7%9A%84%E4%BA%BA%E4%BD%93%E5%B7%A5%E7%A8%8B%E5%AD%A6)
-  - [姿势和对齐](#%E5%A7%BF%E5%8A%BF%E5%92%8C%E5%AF%B9%E9%BD%90)
-  - [全天保持活跃](#%E5%85%A8%E5%A4%A9%E4%BF%9D%E6%8C%81%E6%B4%BB%E8%B7%83)
-  - [保持水分](#%E4%BF%9D%E6%8C%81%E6%B0%B4%E5%88%86)
-  - [避免久坐](#%E9%81%BF%E5%85%8D%E4%B9%85%E5%9D%90)
-  - [休息一下](#%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B)
-  - [保持均衡饮食](#%E4%BF%9D%E6%8C%81%E5%9D%87%E8%A1%A1%E9%A5%AE%E9%A3%9F)
-  - [伤害预防](#%E4%BC%A4%E5%AE%B3%E9%A2%84%E9%98%B2)
-  - [营造支持性环境](#%E8%90%A5%E9%80%A0%E6%94%AF%E6%8C%81%E6%80%A7%E7%8E%AF%E5%A2%83)
-- [精神健康](#%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7)
-  - [冒名顶替综合症](#%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E7%BB%BC%E5%90%88%E7%97%87)
-  - [压力管理](#%E5%8E%8B%E5%8A%9B%E7%AE%A1%E7%90%86)
-  - [建立和保持爱好](#%E5%BB%BA%E7%AB%8B%E5%92%8C%E4%BF%9D%E6%8C%81%E7%88%B1%E5%A5%BD)
-  - [正念与冥想](#%E6%AD%A3%E5%BF%B5%E4%B8%8E%E5%86%A5%E6%83%B3)
-  - [社会关系和支持](#%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB%E5%92%8C%E6%94%AF%E6%8C%81)
-  - [设定界限](#%E8%AE%BE%E5%AE%9A%E7%95%8C%E9%99%90)
-  - [睡眠卫生](#%E7%9D%A1%E7%9C%A0%E5%8D%AB%E7%94%9F)
-  - [时间管理](#%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86)
-  - [处理拒绝和挫折](#%E5%A4%84%E7%90%86%E6%8B%92%E7%BB%9D%E5%92%8C%E6%8C%AB%E6%8A%98)
-  - [自我同情和自我照顾](#%E8%87%AA%E6%88%91%E5%90%8C%E6%83%85%E5%92%8C%E8%87%AA%E6%88%91%E7%85%A7%E9%A1%BE)
-- [寻求专业帮助](#%E5%AF%BB%E6%B1%82%E4%B8%93%E4%B8%9A%E5%B8%AE%E5%8A%A9)
-- [其他相关资料库](#%E5%85%B6%E4%BB%96%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99%E5%BA%93)
-- [如何贡献](#%E5%A6%82%E4%BD%95%E8%B4%A1%E7%8C%AE)
-  - [贡献提示模板（随时可以添加新的部分！）](#%E8%B4%A1%E7%8C%AE%E6%8F%90%E7%A4%BA%E6%A8%A1%E6%9D%BF%E9%9A%8F%E6%97%B6%E5%8F%AF%E4%BB%A5%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E9%83%A8%E5%88%86)
-- [致谢](#%E8%87%B4%E8%B0%A2)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**目录**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -121,9 +127,9 @@
 **可操作的步骤：**
 
 -   坐着时，双脚平放在地板上，膝盖和臀部呈 90 度角。
--   靠在椅子上，用腰部支撑物或靠垫支撑下背部。
+-   靠在椅子上，用腰部支撑物或垫子支撑下背部。
 -   避免交叉双腿，保持肩膀放松并在臀部上方对齐。
--   站立时，双脚分开与肩同宽，膝盖略微弯曲。
+-   站立时，双脚分开与肩同宽，膝盖微微弯曲。
 
 **可靠来源：**
 
@@ -195,7 +201,7 @@
 -   在您的日常生活中安排定期休息，例如每小时休息 5 分钟。
 -   利用休息时间进行有助于放松和充电的活动，例如伸展运动、深呼吸或短距离步行。
 -   练习番茄工作法：工作 25 分钟，然后休息 5 分钟，如此循环。完成四个周期后，休息更长的时间。
--   聆听您的身心，并在您感到疲倦或不知所措时休息一下。
+-   倾听您的身心，并在您感到疲倦或不知所措时休息一下。
 
 **可靠来源：**
 
@@ -212,7 +218,7 @@
 -   吃各种水果、蔬菜、全谷物、瘦肉蛋白和健康脂肪。
 -   限制加工食品、添加糖和不健康脂肪的消费。
 -   注意份量并练习正念饮食。
--   全天喝足够的水以保持水分。
+-   全天喝足够的水来保持水分。
 
 **可靠来源：**
 
@@ -248,7 +254,7 @@
 -   与积极向上的人在一起。
 -   与朋友、家人和同事开诚布公地交流您的需求和界限。
 -   寻找资源和支持网络，例如俱乐部、组织或支持团体。
--   创建一个舒适且井井有条的工作空间，以提高注意力和工作效率。
+-   创建舒适且井井有条的工作空间，以提高专注力和工作效率。
 
 **可靠来源：**
 
@@ -277,7 +283,7 @@
 -   提醒自己有这种感觉是可以的，即使是高级研究人员也会有类似的感觉。认识到这一点可以帮助您接受自己的情绪并克服冒名顶替综合症。
 -   承认你的成就并提醒自己你的成功。
 -   培养成长心态，专注于学习和改进，而不是完美。
--   在需要时寻求帮助，例如与可信赖的同龄人、导师或顾问交谈。
+-   在需要时寻求帮助，例如与可信赖的同事、导师或顾问交谈。
 -   与他人分享您的经验，为您自己和您的同事创造一个支持性的环境。
 
 **可靠来源：**
@@ -330,7 +336,7 @@
 
 -   找一个安静舒适的空间来练习冥想或正念。
 -   专注于你的呼吸、身体感觉或特定的物体或咒语。
--   当您走神时，轻轻地将您的注意力拉回您的焦点。
+-   当您走神时，请轻轻地将您的注意力拉回您的焦点。
 -   从短期课程开始，随着您对练习的熟悉程度逐渐增加。
 
 **可靠来源：**
@@ -383,7 +389,7 @@
 -   目标是每晚睡 7-9 小时。
 -   通过每天在同一时间上床睡觉和起床来建立一致的睡眠时间表。
 -   保持卧室黑暗、安静和舒适的温度，营造一个有利于睡眠的环境。
--   至少在睡前一小时限制接触屏幕和电子设备。
+-   睡前至少一小时限制接触屏幕和电子设备。
 
 **可靠来源：**
 
@@ -392,7 +398,7 @@
 
 ### 时间管理
 
-**经验法则：**有效地优先安排和分配时间，以平衡研究、课程作业、教学和个人生活。
+**经验法则：**有效地安排和分配时间，以平衡研究、课程作业、教学和个人生活。
 
 **简短原因：**有效的时间管理可以减轻压力，提高工作效率，并有助于保持健康的工作与生活平衡。
 
@@ -418,7 +424,7 @@
 
 **可操作的步骤：**
 
--   认识到拒绝和挫折是学术过程的正常组成部分。
+-   认识到拒绝和挫折是学术过程的正常部分。
 -   将拒绝和挫折视为成长和学习的机会。
 -   从导师、同行和顾问那里寻求反馈和支持，以应对挑战并改进你的工作。
 -   培养成长心态，关注你取得的进步，而不是纠结于挫折。
@@ -429,7 +435,7 @@
 
 ### 自我同情和自我照顾
 
-**经验法则：**善待自己并优先考虑自我保健活动，以支持心理健康和复原力。
+**经验法则：**善待自己并优先考虑自我保健活动，以支持心理健康和恢复力。
 
 **简短原因：**练习自我同情和自我保健可以帮助减轻压力，改善情绪健康并提高整体生活满意度。
 
@@ -455,7 +461,7 @@
 
 -   识别并承认身体、情绪或精神痛苦的迹象。
 -   联系医疗保健专业人士，例如初级保健医生、治疗师或顾问，讨论您的疑虑。
--   在预约期间对您的症状和经历开诚布公。
+-   在就诊期间对您的症状和经历开诚布公。
 -   遵循医疗保健专业人员提供的治疗计划和建议。
 
 **可靠来源：**
@@ -474,7 +480,7 @@
 
 ## 如何贡献
 
-患者可以成为有价值的贡献者。我们希望此存储库成为社区驱动的资源，因此我们鼓励您分享您学到的智慧和建议，无论您是否是医学专家，只要您对其进行了良好的调查。
+患者可以成为有价值的贡献者。我们希望这个存储库成为一个社区驱动的资源，因此我们鼓励您分享您学到的智慧和建议，无论您是否是医学专家，只要您对此有很好的调查。
 
 给贡献者的提示
 
@@ -485,7 +491,7 @@
 
 通过遵循这些指南并使用提供的模板，您可以帮助我们构建和维护一个有价值、信息丰富且引人入胜的健康提示库，让每个人都能从中受益！
 
-我们也欢迎专业医务人员的投稿和 PR 评审。让我们一起建设一个更健康、更快乐的社区！
+我们也欢迎专业医务人员的贡献和 PR 评论。让我们一起建设一个更健康、更快乐的社区！
 
 ### 贡献提示模板（随时可以添加新的部分！）
 
