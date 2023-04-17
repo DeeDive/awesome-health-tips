@@ -1,4 +1,4 @@
-# 博士課程の学生 (およびすべての人!) のための素晴らしい健康のヒント
+# 博士課程の学生 (およびすべての人) のためのすばらしい健康のヒント
 
 [🇬🇧英語](README.md)｜[🇬🇧フランス語](README.fr.md)｜[🇦🇪 アラビア語](README.ar.md)｜[🇮🇳ヒンディー語](README.hi.md)｜[🇯🇵 日本語](README.ja.md)｜[🇨🇳簡体字中国語](README.zh-CN.md)｜[🇹🇼繁体字中国語](README.zh-TW.md)
 
@@ -13,45 +13,47 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 (プル リクエストを送信して、長年の経験と (おそらく) 涙を流して得たプロのヒントを提供してください\![#貢献する方法](#how-to-contribute)セクション）
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [体の健康](#%E4%BD%93%E3%81%AE%E5%81%A5%E5%BA%B7)
-  - [定期的な運動](#%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AA%E9%81%8B%E5%8B%95)
-  - [目の健康と読書習慣](#%E7%9B%AE%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%A8%E8%AA%AD%E6%9B%B8%E7%BF%92%E6%85%A3)
-  - [適切な人間工学](#%E9%81%A9%E5%88%87%E3%81%AA%E4%BA%BA%E9%96%93%E5%B7%A5%E5%AD%A6)
-  - [姿勢とアライメント](#%E5%A7%BF%E5%8B%A2%E3%81%A8%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88)
-  - [一日中アクティブに](#%E4%B8%80%E6%97%A5%E4%B8%AD%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%81%AB)
-  - [水分補給](#%E6%B0%B4%E5%88%86%E8%A3%9C%E7%B5%A6)
-  - [長時間座るのを避ける](#%E9%95%B7%E6%99%82%E9%96%93%E5%BA%A7%E3%82%8B%E3%81%AE%E3%82%92%E9%81%BF%E3%81%91%E3%82%8B)
-  - [休憩を取る](#%E4%BC%91%E6%86%A9%E3%82%92%E5%8F%96%E3%82%8B)
-  - [バランスの取れた食事を維持する](#%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E5%8F%96%E3%82%8C%E3%81%9F%E9%A3%9F%E4%BA%8B%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%99%E3%82%8B)
-  - [怪我の予防](#%E6%80%AA%E6%88%91%E3%81%AE%E4%BA%88%E9%98%B2)
-  - [協力的な環境を構築する](#%E5%8D%94%E5%8A%9B%E7%9A%84%E3%81%AA%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B)
-- [メンタルヘルス](#%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9)
-  - [インポスター症候群](#%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4)
-  - [ストレスマネジメント](#%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88)
-  - [趣味の構築と維持](#%E8%B6%A3%E5%91%B3%E3%81%AE%E6%A7%8B%E7%AF%89%E3%81%A8%E7%B6%AD%E6%8C%81)
-  - [マインドフルネスと瞑想](#%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%83%95%E3%83%AB%E3%83%8D%E3%82%B9%E3%81%A8%E7%9E%91%E6%83%B3)
-  - [ソーシャル コネクションとサポート](#%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB-%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88)
-  - [境界の設定](#%E5%A2%83%E7%95%8C%E3%81%AE%E8%A8%AD%E5%AE%9A)
-  - [睡眠衛生](#%E7%9D%A1%E7%9C%A0%E8%A1%9B%E7%94%9F)
-  - [時間管理](#%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86)
-  - [拒否と挫折への対処](#%E6%8B%92%E5%90%A6%E3%81%A8%E6%8C%AB%E6%8A%98%E3%81%B8%E3%81%AE%E5%AF%BE%E5%87%A6)
-  - [セルフ・コンパッションとセルフケア](#%E3%82%BB%E3%83%AB%E3%83%95%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%91%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B1%E3%82%A2)
-- [専門家の助けを求める](#%E5%B0%82%E9%96%80%E5%AE%B6%E3%81%AE%E5%8A%A9%E3%81%91%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B)
-- [その他の関連リポジトリ](#%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E9%96%A2%E9%80%A3%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA)
-- [貢献する方法](#%E8%B2%A2%E7%8C%AE%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
-  - [ヒントを提供するためのテンプレート (必要に応じて新しいパーツを自由に追加してください!)](#%E3%83%92%E3%83%B3%E3%83%88%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-%E5%BF%85%E8%A6%81%E3%81%AB%E5%BF%9C%E3%81%98%E3%81%A6%E6%96%B0%E3%81%97%E3%81%84%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E8%87%AA%E7%94%B1%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84)
-- [謝辞](#%E8%AC%9D%E8%BE%9E)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**目次**
+
+-   [身体の健康](#physical-health)
+    -   [定期的な運動](#exercise-regularly)
+    -   [目の健康と読書習慣](#eye-health-and-reading-habits)
+    -   [適切な人間工学](#proper-ergonomics)
+    -   [姿勢とアライメント](#posture-and-alignment)
+    -   [一日中アクティブに](#stay-active-throughout-the-day)
+    -   [水分補給](#stay-hydrated)
+    -   [長時間座るのを避ける](#avoid-prolonged-sitting)
+    -   [休憩を取る](#take-breaks)
+    -   [バランスの取れた食事を維持する](#maintain-a-balanced-diet)
+    -   [怪我の予防](#injury-prevention)
+    -   [協力的な環境を構築する](#build-a-supportive-environment)
+-   [メンタルヘルス](#mental-health)
+    -   [インポスター症候群](#imposter-syndrome)
+    -   [ストレスマネジメント](#stress-management)
+    -   [趣味の構築と維持](#building-and-maintaining-hobbies)
+    -   [マインドフルネスと瞑想](#mindfulness-and-meditation)
+    -   [ソーシャル コネクションとサポート](#social-connections-and-support)
+    -   [境界の設定](#setting-boundaries)
+    -   [睡眠衛生](#sleep-hygiene)
+    -   [時間管理](#time-management)
+    -   [拒否と挫折への対処](#handling-rejections-and-setbacks)
+    -   [セルフ・コンパッションとセルフケア](#self-compassion-and-self-care)
+-   [専門家の助けを求める](#seek-professional-help)
+-   [その他の関連リポジトリ](#other-related-repositories)
+-   [貢献する方法](#how-to-contribute)
+    -   [ヒントを提供するためのテンプレート (必要に応じて新しいパーツを自由に追加してください!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [謝辞](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## 体の健康
+## 身体の健康
 
 ### 定期的な運動
 
-**経験則:**中程度の強度の有酸素運動を週に 150 分以上、または高強度の有酸素運動を 75 分以上、週に 2 日以上の筋力強化活動を行うことを目指してください。
+**経験則:**中強度の有酸素運動を 1 週間に 150 分以上、または高強度の有酸素運動を 75 分以上、週に 2 日以上の筋力強化活動を行うことを目指してください。
 
 **短い理由:**定期的な運動は、心血管の健康を改善し、健康的な体重を維持し、エネルギーレベルを高め、慢性疾患のリスクを軽減するのに役立ちます.
 
@@ -60,11 +62,11 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 -   ウォーキング、サイクリング、水泳、ダンスなど、好きな活動を選んでください。
 -   エクササイズ ルーチンを、1 日 30 分、週 5 日など、より小さなセッションに分割します。
 -   有酸素運動と無酸素運動の両方を日常生活に取り入れましょう。
--   時間をかけてワークアウトの強度と持続時間を徐々に増やしてください。
+-   時間の経過とともに、ワークアウトの強度と期間を徐々に増やしてください。
 
 **信頼できる情報源:**
 
--   米国心臓協会。 （2018）。大人と子供の身体活動に関するアメリカ心臓協会の推奨事項。から取得[ｈっｔｐｓ：／／ｗっｗ。へあｒｔ。おｒｇ／えん／へあｌｔｈｙーぃゔぃんｇ／ふぃｔねっｓ／ふぃｔねっｓーばしｃｓ／あはーれｃｓーふぉｒーｐｈｙしかｌーあｃちゔぃｔｙーいんーあづｌｔｓ](https://www.heart.org/en/healthy-living/fitness/fitness-basics/aha-recs-for-physical-activity-in-adults)
+-   米国心臓協会。 （2018）。大人と子供の身体活動に関するアメリカ心臓協会の推奨事項。から取得<https://www.heart.org/en/healthy-living/fitness/fitness-basics/aha-recs-for-physical-activity-in-adults>
 
 ### 目の健康と読書習慣
 
@@ -78,14 +80,14 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 -   デジタル画面の明るさ、コントラスト、フォント サイズを調整して、目の疲れを軽減します。
 -   画面を快適な距離と角度 (通常は腕の長さで、目の高さより少し下) に配置します。
 -   適切な照明を使用して、読書中のまぶしさや影を最小限に抑えます。
--   頻繁にまばたきをして目を潤し、乾燥を防ぎます。
+-   頻繁にまばたきをして、目を潤し、乾燥を減らします。
 -   ブルー ライト フィルタリング メガネまたはスクリーン プロテクターを使用して、デジタル デバイスからのブルー ライトへの露出を減らすことを検討してください。
 -   視力の変化を監視して対処するために、定期的に検眼医または眼科医に目をチェックしてもらいます。
 
 **信頼できる情報源:**
 
--   アメリカ眼科学会。 （2020）。パソコンの使用と眼精疲労。から取得[ｈっｔｐｓ：／／ｗっｗ。ああお。おｒｇ／えいぇーへあｌｔｈ／ちｐｓーｐれゔぇんちおん／こｍぷてｒーうさげ](https://www.aao.org/eye-health/tips-prevention/computer-usage)
--   アメリカ検眼協会。 (nd)。コンピューター ビジョン シンドローム。から取得[ｈっｔｐｓ：／／ｗっｗ。あおあ。おｒｇ／へあｌｔｈｙーえいぇｓ／えいぇーあんｄーゔぃしおんーこんぢちおんｓ／こｍぷてｒーゔぃしおんーｓｙんｄろめ](https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/computer-vision-syndrome)
+-   アメリカ眼科学会。 （2020）。パソコンの使用と眼精疲労。から取得<https://www.aao.org/eye-health/tips-prevention/computer-usage>
+-   アメリカ検眼協会。 (nd)。コンピューター ビジョン シンドローム。から取得<https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/computer-vision-syndrome>
 
 ### 適切な人間工学
 
@@ -110,7 +112,7 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   米国労働省。 (nd)。コンピューター ワークステーション。労働安全衛生管理。から取得[ｈっｔｐｓ：／／ｗっｗ。おしゃ。ごｖ／ＳＬＴＣ／えとおｌｓ／こｍぷてｒをｒｋｓたちおんｓ／いんでｘ。ｈｔｍｌ](https://www.osha.gov/SLTC/etools/computerworkstations/index.html)
+-   米国労働省。 (nd)。コンピューター ワークステーション。労働安全衛生管理。から取得<https://www.osha.gov/SLTC/etools/computerworkstations/index.html>
 
 ### 姿勢とアライメント
 
@@ -127,26 +129,26 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   アメリカカイロプラクティック協会。 (nd)。良い姿勢を維持します。から取得[ｈっｔｐｓ：／／あかとだｙ。おｒｇ／こんてんｔ／ぽｓつれーぽうぇｒーほｗーとーこっれｃｔーようｒーぼｄｙーあぃｇんめんｔ](https://acatoday.org/content/posture-power-how-to-correct-your-body-alignment)
--   ハーバード健康出版。 （2017）。正しい姿勢が重要な理由。から取得[ｈっｔｐｓ：／／ｗっｗ。へあｌｔｈ。はｒゔぁｒｄ。えづ／ｓたｙいんｇーへあｌｔｈｙ／ｗｈｙーごおｄーぽｓつれーまってｒｓ](https://www.health.harvard.edu/staying-healthy/why-good-posture-matters)
+-   アメリカカイロプラクティック協会。 (nd)。良い姿勢を維持します。から取得<https://acatoday.org/content/posture-power-how-to-correct-your-body-alignment>
+-   ハーバード健康出版。 （2017）。正しい姿勢が重要な理由。から取得<https://www.health.harvard.edu/staying-healthy/why-good-posture-matters>
 
 ### 一日中アクティブに
 
-**経験則:**運動や身体活動を日常生活に取り入れて、長時間座っていることの悪影響を打ち消してください。
+**経験則:**運動や身体活動を日常生活に取り入れて、長時間座っていることによる悪影響を相殺しましょう。
 
 **短い理由:**長時間座っていると、肥満、心臓病、姿勢の悪さなど、さまざまな健康問題につながる可能性があります。一日中活動的に過ごすことは、これらのリスクを軽減するのに役立ちます.
 
 **実行可能な手順:**
 
--   30分～1時間おきに立ち上がりストレッチを行います。
+-   30分～1時間おきに立ち上がりストレッチ。
 -   スタンディング デスクまたは調節可能なワークステーションを使用して、座っている状態と立っている状態を交互に切り替えます。
 -   休憩中に短い散歩をしたり、歩きながら電話をかけたりしてください。
 -   可能な限りエレベーターではなく階段を使用してください。
 
 **信頼できる情報源:**
 
--   メイヨークリニック. （2020）。座るリスク: 座りすぎはどれほど有害か?から取得[ｈっｔｐｓ：／／ｗっｗ。まよｃぃにｃ。おｒｇ／へあｌｔｈｙーぃふぇｓｔｙぇ／あづｌｔーへあｌｔｈ／えｘぺｒｔーあんすぇｒｓ／しっちんｇ／ふぁｑー２００５８００５](https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005)
--   メドラインプラス。 （2021）。非アクティブなライフスタイルの健康リスク。から取得[ｈっｔｐｓ：／／めｄぃねｐぅｓ。ごｖ／へあｌｔｈりｓｋそふぁになｃちゔぇぃふぇｓｔｙぇ。ｈｔｍｌ](https://medlineplus.gov/healthrisksofaninactivelifestyle.html)
+-   メイヨークリニック. （2020）。座るリスク: 座りすぎはどれほど有害か?から取得<https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005>
+-   メドラインプラス。 （2021）。非アクティブなライフスタイルの健康リスク。から取得<https://medlineplus.gov/healthrisksofaninactivelifestyle.html>
 
 ### 水分補給
 
@@ -156,19 +158,19 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **実行可能な手順:**
 
--   1 日あたり少なくとも 8 カップ (64 オンス) の水を目指してください。体を動かしている場合や暑い環境にいる場合は、それ以上を目安にしてください。
+-   1 日あたり少なくとも 8 カップ (64 オンス) の水を目標にします。体を動かしている場合や暑い環境にいる場合は、それ以上を目安にしてください。
 -   定期的な水分補給を促すために、水筒を携帯してください。
 -   可能であれば、砂糖やカフェイン入りの飲み物よりも水を選んでください。
 -   体の渇きの信号に注意を払い、のどが渇いたら水を飲みましょう。
 
 **信頼できる情報源:**
 
--   メイヨークリニック. （2020）。水：毎日どのくらい飲むべきですか？から取得[ｈっｔｐｓ：／／ｗっｗ。まよｃぃにｃ。おｒｇ／へあｌｔｈｙーぃふぇｓｔｙぇ／ぬｔりちおんーあんｄーへあｌｔｈｙーえあちんｇ／いんーでｐｔｈ／わてｒ／あｒｔー２００４４２５６](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256)
--   疾病管理予防センター。 （2020）。事実を把握する: 飲料水と摂取量。から取得[ｈっｔｐｓ：／／ｗっｗ。ｃｄｃ。ごｖ／ぬｔりちおん／だたーｓたちｓちｃｓ／ｐぁいんーわてｒーてぇーへあｌてぃえｒーちょいせ。ｈｔｍｌ](https://www.cdc.gov/nutrition/data-statistics/plain-water-the-healthier-choice.html)
+-   メイヨークリニック. （2020）。水：毎日どのくらい飲むべきですか？から取得<https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256>
+-   疾病管理予防センター。 （2020）。事実を把握する: 飲料水と摂取量。から取得<https://www.cdc.gov/nutrition/data-statistics/plain-water-the-healthier-choice.html>
 
 ### 長時間座るのを避ける
 
-**経験則:**長時間座っていることによる悪影響を軽減するために、座るのをやめて動きを取り入れるようにしましょう。
+**経験則:**長時間座っていることによる悪影響を軽減するために、座るのをやめて動きを取り入れましょう。
 
 **短い理由:**長時間座っていると、肥満、心血管疾患、姿勢の悪さなど、さまざまな健康問題につながる可能性があります。
 
@@ -181,8 +183,8 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   メイヨークリニック. （2020）。座るリスク: 座りすぎはどれほど有害か?から取得[ｈっｔｐｓ：／／ｗっｗ。まよｃぃにｃ。おｒｇ／へあｌｔｈｙーぃふぇｓｔｙぇ／あづｌｔーへあｌｔｈ／えｘぺｒｔーあんすぇｒｓ／しっちんｇ／ふぁｑー２００５８００５](https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005)
--   米国心臓協会。 （2019）。新しい喫煙を座っていますか？から取得[ｈっｔｐｓ：／／ｗっｗ。へあｒｔ。おｒｇ／えん／へあｌｔｈｙーぃゔぃんｇ／ふぃｔねっｓ／しっちんｇーいｓーてぇーねｗーｓもきんｇ](https://www.heart.org/en/healthy-living/fitness/sitting-is-the-new-smoking)
+-   メイヨークリニック. （2020）。座るリスク: 座りすぎはどれほど有害か?から取得<https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005>
+-   米国心臓協会。 （2019）。新しい喫煙を座っていますか？から取得<https://www.heart.org/en/healthy-living/fitness/sitting-is-the-new-smoking>
 
 ### 休憩を取る
 
@@ -199,7 +201,7 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   ニューヨークタイムズ。 （2018）。仕事でより効率的になる方法。から取得[ｈっｔｐｓ：／／ｗっｗ。ｎｙちめｓ。こｍ／ぐいでｓ／ぶしねっｓ／ほｗーとーいｍｐろゔぇーようｒーｐろづｃちゔぃｔｙーあｔーをｒｋ](https://www.nytimes.com/guides/business/how-to-improve-your-productivity-at-work)
+-   ニューヨークタイムズ。 （2018）。仕事でより効率的になる方法。から取得<https://www.nytimes.com/guides/business/how-to-improve-your-productivity-at-work>
 
 ### バランスの取れた食事を維持する
 
@@ -216,8 +218,8 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   ハーバード公衆衛生大学院。 （2020）。栄養源：ヘルシーな食事プレート。から取得[ｈっｔｐｓ：／／ｗっｗ。ｈｓｐｈ。はｒゔぁｒｄ。えづ／ぬｔりちおんそうｒせ／へあｌｔｈｙーえあちんｇーｐぁて／](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/)
--   メイヨークリニック. （2020）。栄養と健康的な食事: バランスの取れた食事のガイドライン。から取得[ｈっｔｐｓ：／／ｗっｗ。まよｃぃにｃ。おｒｇ／へあｌｔｈｙーぃふぇｓｔｙぇ／ぬｔりちおんーあんｄーへあｌｔｈｙーえあちんｇ／ばしｃｓ／ぬｔりちおんーばしｃｓ／ｈｌｖー２００４９４７７](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/basics/nutrition-basics/hlv-20049477)
+-   ハーバード公衆衛生大学院。 （2020）。栄養源：ヘルシーな食事プレート。から取得<https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/>
+-   メイヨークリニック. （2020）。栄養と健康的な食事: バランスの取れた食事のガイドライン。から取得<https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/basics/nutrition-basics/hlv-20049477>
 
 ### 怪我の予防
 
@@ -234,8 +236,8 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   労働安全衛生管理。 （2021）。人間工学。から取得[ｈっｔｐｓ：／／ｗっｗ。おしゃ。ごｖ／えｒごのみｃｓ](https://www.osha.gov/ergonomics)
--   Mayo Clinic. (2019). Office ergonomics: Your how-to guide. Retrieved from [ｈっｔｐｓ：／／ｗっｗ。まよｃぃにｃ。おｒｇ／へあｌｔｈｙーぃふぇｓｔｙぇ／あづｌｔーへあｌｔｈ／いんーでｐｔｈ／おっふぃせーえｒごのみｃｓ／あｒｔー２００４６１６９](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169)
+-   労働安全衛生管理。 （2021）。人間工学。から取得<https://www.osha.gov/ergonomics>
+-   メイヨークリニック. （2019）。オフィスのエルゴノミクス: ハウツー ガイド。から取得<https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169>
 
 ### 協力的な環境を構築する
 
@@ -252,8 +254,8 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   メンタルヘルス財団。 （2018）。心身ともに健康な職場づくり。から取得[ｈっｔｐｓ：／／ｗっｗ。めんたｌへあｌｔｈ。おｒｇ。うｋ／ぷｂぃかちおんｓ／ｃれあちんｇーめんたっｌｙーへあｌｔｈｙーをｒｋｐぁせｓ](https://www.mentalhealth.org.uk/publications/creating-mentally-healthy-workplaces)
--   米国心理学会。 （2015）。健康的な職場環境を作る。から取得[ｈっｔｐｓ：／／ｗっｗ。あぱ。おｒｇ／へｌｐせんてｒ／へあｌｔｈｙーをｒｋーえんゔぃろんめんｔ](https://www.apa.org/helpcenter/healthy-work-environment)
+-   メンタルヘルス財団。 （2018）。心身ともに健康な職場づくり。から取得<https://www.mentalhealth.org.uk/publications/creating-mentally-healthy-workplaces>
+-   米国心理学会。 （2015）。健康的な職場環境を作る。から取得<https://www.apa.org/helpcenter/healthy-work-environment>
 
 ## メンタルヘルス
 
@@ -282,7 +284,7 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   Rajeef、M. K. (2017)。ソフトウェア開発者がインポスター症候群に苦しむのはなぜですか?中くらい。[ｈっｔｐｓ：／／めぢうｍ。こｍ／＠らじぇえｆｍｋ／ｗｈｙーどえｓーそｆとぁれーでゔぇぉぺｒｓーすっふぇｒーｆろｍーいｍぽｓてｒーｓｙんｄろめーっｃｆ９６１ｄ０ｃ２９あ](https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a)
+-   Rajeef、M. K. (2017)。ソフトウェア開発者がインポスター症候群に苦しむのはなぜですか?中くらい。<https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a>
 
 ### ストレスマネジメント
 
@@ -299,7 +301,7 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   メイヨークリニック. （2019）。ストレス管理: 自分の引き金を知る。から取得[ｈっｔｐｓ：／／ｗっｗ。まよｃぃにｃ。おｒｇ／へあｌｔｈｙーぃふぇｓｔｙぇ／ｓｔれっｓーまなげめんｔ／いんーでｐｔｈ／ｓｔれっｓーまなげめんｔ／あｒｔー２００４４１５１](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-management/art-20044151)
+-   メイヨークリニック. （2019）。ストレス管理: 自分の引き金を知る。から取得<https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-management/art-20044151>
 
 ### 趣味の構築と維持
 
@@ -310,15 +312,15 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 **実行可能な手順:**
 
 -   さまざまな興味や活動を調べて、あなたを本当に興奮させ、夢中にさせる趣味を見つけてください。
--   趣味に専念する時間を取っておき、それらをセルフケアルーチンの不可欠な部分として扱います.
+-   趣味に専念する時間を確保し、それらをセルフケア ルーチンの不可欠な部分として扱います。
 -   直接またはオンライン コミュニティを通じて、あなたの興味を共有する他のユーザーとつながり、趣味の経験を高め、社会的なつながりを築きましょう。
 -   新しい活動に挑戦し、視野を広げてください。趣味が思いがけない個人的および専門的な成長の機会につながることがあります。
--   趣味と学業のバランスを保つことを忘れないでください。趣味は、追加のストレスを引き起こしたり、学業を妨げたりすることなく、休憩と楽しみを提供する必要があります。
+-   趣味と学業のバランスを保つことを忘れないでください。趣味は、追加のストレスを引き起こしたり、学業を損なうことなく、休憩と楽しみを提供する必要があります。
 
 **信頼できる情報源:**
 
--   ステンガー、M. (2016)。ストレス解消のための趣味の重要性。ベリーウェルマインド。から取得[ｈっｔｐｓ：／／ｗっｗ。ゔぇｒｙうぇっｌみんｄ。こｍ／てぇーいｍぽｒたんせーおｆーほっびえｓーふぉｒーｓｔれっｓーれぃえｆー３１４４５７４](https://www.verywellmind.com/the-importance-of-hobbies-for-stress-relief-3144574)
--   Newman, D. B., & Tay, L. (2019).趣味のメリット。今日の心理学。から取得[ｈっｔｐｓ：／／ｗっｗ。ｐｓｙちょぉｇｙとだｙ。こｍ／うｓ／ｂぉｇ／くりおうｓ／２０１９０５／てぇーべねふぃｔｓーほっびえｓ](https://www.psychologytoday.com/us/blog/curious/201905/the-benefits-hobbies)
+-   ステンガー、M. (2016)。ストレス解消のための趣味の重要性。ベリーウェルマインド。から取得<https://www.verywellmind.com/the-importance-of-hobbies-for-stress-relief-3144574>
+-   Newman, D. B., & Tay, L. (2019).趣味のメリット。今日の心理学。から取得<https://www.psychologytoday.com/us/blog/curious/201905/the-benefits-hobbies>
 
 ### マインドフルネスと瞑想
 
@@ -335,8 +337,8 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   ハーバード健康出版。 （2018）。マインドフルネス瞑想は、不安や精神的ストレスを和らげる可能性があります。から取得[ｈっｔｐｓ：／／ｗっｗ。へあｌｔｈ。はｒゔぁｒｄ。えづ／ｂぉｇ／みんｄふｌねっｓーめぢたちおんーまｙーえあせーあんぃえｔｙーめんたｌーｓｔれっｓー２０１４０１０８６９６７](https://www.health.harvard.edu/blog/mindfulness-meditation-may-ease-anxiety-mental-stress-201401086967)
--   メイヨークリニック. （2021）。瞑想: ストレスを軽減するための簡単で迅速な方法。から取得[ｈっｔｐｓ：／／ｗっｗ。まよｃぃにｃ。おｒｇ／てｓｔｓーｐろせづれｓ／めぢたちおん／いんーでｐｔｈ／めぢたちおん／あｒｔー２００４５８５８](https://www.mayoclinic.org/tests-procedures/meditation/in-depth/meditation/art-20045858)
+-   ハーバード健康出版。 （2018）。マインドフルネス瞑想は、不安や精神的ストレスを和らげる可能性があります。から取得<https://www.health.harvard.edu/blog/mindfulness-meditation-may-ease-anxiety-mental-stress-201401086967>
+-   メイヨークリニック. （2021）。瞑想: ストレスを軽減するための簡単で迅速な方法。から取得<https://www.mayoclinic.org/tests-procedures/meditation/in-depth/meditation/art-20045858>
 
 ### ソーシャル コネクションとサポート
 
@@ -353,7 +355,7 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   国立精神衛生研究所。 （2019）。社会的支援とメンタルヘルス。から取得[ｈっｔｐｓ：／／ｗっｗ。にｍｈ。にｈ。ごｖ／へあｌｔｈ／ぷｂぃかちおんｓ／ｃｈろにｃーいっｌねっｓーめんたｌーへあｌｔｈ](https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health)
+-   国立精神衛生研究所。 （2019）。社会的支援とメンタルヘルス。から取得<https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health>
 
 ### 境界の設定
 
@@ -370,7 +372,7 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   メイヨークリニック. （2021）。ワークライフ バランス: コントロールを取り戻すためのヒント。から取得[ｈっｔｐｓ：／／ｗっｗ。まよｃぃにｃ。おｒｇ／へあｌｔｈｙーぃふぇｓｔｙぇ／あづｌｔーへあｌｔｈ／いんーでｐｔｈ／をｒｋーぃふぇーばぁんせ／あｒｔー２００４８１３４](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/work-life-balance/art-20048134)
+-   メイヨークリニック. （2021）。ワークライフ バランス: コントロールを取り戻すためのヒント。から取得<https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/work-life-balance/art-20048134>
 
 ### 睡眠衛生
 
@@ -387,12 +389,12 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   国立睡眠財団。 （2019）。健康的な睡眠のヒント.から取得[ｈっｔｐｓ：／／ｗっｗ。ｓぇえｐふぉうんだちおん。おｒｇ／あｒちｃぇｓ／へあｌｔｈｙーｓぇえｐーちｐｓ](https://www.sleepfoundation.org/articles/healthy-sleep-tips)
--   ハーバード医科大学。 （2019）。睡眠を改善するための 12 の簡単なヒント。から取得[ｈっｔｐｓ：／／ｗっｗ。へあｌｔｈ。はｒゔぁｒｄ。えづ／ｓたｙいんｇーへあｌｔｈｙ／とぇｌゔぇーしｍｐぇーちｐｓーとーいｍｐろゔぇーようｒーｓぇえｐ](https://www.health.harvard.edu/staying-healthy/twelve-simple-tips-to-improve-your-sleep)
+-   国立睡眠財団。 （2019）。健康的な睡眠のヒント.から取得<https://www.sleepfoundation.org/articles/healthy-sleep-tips>
+-   ハーバード医科大学。 （2019）。睡眠を改善するための 12 の簡単なヒント。から取得<https://www.health.harvard.edu/staying-healthy/twelve-simple-tips-to-improve-your-sleep>
 
 ### 時間管理
 
-**経験則:**研究、授業、教育、私生活のバランスをとるために、優先順位を付けて時間を効果的に割り当てます。
+**経験則:**優先順位を付けて時間を効果的に割り当て、研究、授業、教育、および私生活のバランスをとります。
 
 **短い理由:**効果的な時間管理は、ストレスを軽減し、生産性を高め、健康的なワークライフ バランスを維持するのに役立ちます。
 
@@ -406,8 +408,8 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   マインドツール。 (nd)。時間管理。から取得[ｈっｔｐｓ：／／ｗっｗ。みんｄとおｌｓ。こｍ／ぱげｓ／まいん／ねｗＭん＿Ｈて。ｈｔｍ](https://www.mindtools.com/pages/main/newMN_HTE.htm)
--   メイヨークリニック. （2021）。時間管理: ストレスを軽減し、生産性を向上させるためのヒント。から取得[ｈっｔｐｓ：／／ｗっｗ。まよｃぃにｃ。おｒｇ／へあｌｔｈｙーぃふぇｓｔｙぇ／ｓｔれっｓーまなげめんｔ／いんーでｐｔｈ／ちめーまなげめんｔ／あｒｔー２００４７９３８](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/time-management/art-20047938)
+-   マインドツール。 (nd)。時間管理。から取得<https://www.mindtools.com/pages/main/newMN_HTE.htm>
+-   メイヨークリニック. （2021）。時間管理: ストレスを軽減し、生産性を向上させるためのヒント。から取得<https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/time-management/art-20047938>
 -   Lakein、A.（1973）。時間と生活をコントロールする方法
 
 ### 拒否と挫折への対処
@@ -435,15 +437,15 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **実行可能な手順:**
 
--   運動、趣味、リラクゼーション法など、定期的なセルフケア活動をスケジュールに入れましょう。
+-   エクササイズ、趣味、リラクゼーション法など、定期的なセルフケア活動をスケジュールに入れましょう。
 -   否定的な独り言や自己批判を認識し、それに挑戦します。
 -   罪悪感を感じずに休憩や休息をとりましょう。
 -   必要に応じて、専門家の助けやサポートを求めてください。
 
 **信頼できる情報源:**
 
--   ネフ、KD (2011)。セルフ・コンパッション：自分を責めるのをやめて、不安を置き去りにしましょう。ニューヨーク：ウィリアム・モロー。
--   ハーバードヘルス. （2017）。セルフケア: 心と体に栄養を与える 4 つの方法。から取得[ｈっｔｐｓ：／／ｗっｗ。へあｌｔｈ。はｒゔぁｒｄ。えづ／ｂぉｇ／せｌｆーかれー４ーわｙｓーのうりｓｈーぼｄｙーそうｌー２０１７１１１６１２７３６](https://www.health.harvard.edu/blog/self-care-4-ways-nourish-body-soul-2017111612736)
+-   ネフ、KD (2011)。セルフ・コンパッション：自分を打ち負かすのをやめ、不安を置き去りにしましょう。ニューヨーク：ウィリアム・モロー。
+-   ハーバードヘルス. （2017）。セルフケア: 心と体に栄養を与える 4 つの方法。から取得<https://www.health.harvard.edu/blog/self-care-4-ways-nourish-body-soul-2017111612736>
 
 ## 専門家の助けを求める
 
@@ -460,8 +462,8 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 **信頼できる情報源:**
 
--   国立精神衛生研究所。 （2021）。精神疾患のヘルプ。から取得[ｈっｔｐｓ：／／ｗっｗ。にｍｈ。にｈ。ごｖ／へあｌｔｈ／ふぃんｄーへｌｐ](https://www.nimh.nih.gov/health/find-help)
--   米国心理学会。 （2020）。心理学者の選び方。から取得[ｈっｔｐｓ：／／ｗっｗ。あぱ。おｒｇ／とぴｃｓ／ちょおせーてぇらぴｓｔ](https://www.apa.org/topics/choose-therapist)
+-   国立精神衛生研究所。 （2021）。精神疾患のヘルプ。から取得<https://www.nimh.nih.gov/health/find-help>
+-   米国心理学会。 （2020）。心理学者の選び方。から取得<https://www.apa.org/topics/choose-therapist>
 
 **(助けを求めるための信頼できるサイト?)**
 
@@ -481,7 +483,7 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 -   新しいヒントを送信する前に、リポジトリをチェックして、そのトピックがまだ取り上げられていないことを確認してください。
 -   ヒントを説明するために画像、インフォグラフィック、または短いビデオを含めることを検討してください。
 -   他の貢献者やコミュニティ メンバーからのフィードバックを受け入れるようにしてください。コラボレーションは、リポジトリの全体的な品質を向上させるのに役立ちます。
--   リポジトリの更新を定期的に確認し、コントリビューション ガイドラインまたはテンプレートの変更について常に最新情報を入手してください。
+-   定期的にレポジトリの更新を確認し、コントリビューション ガイドラインまたはテンプレートの変更について最新情報を入手してください。
 
 これらのガイドラインに従い、提供されたテンプレートを使用することで、誰もが恩恵を受けることができる、価値があり、有益で、魅力的な健康のヒントのリポジトリを構築および維持することができます!
 
