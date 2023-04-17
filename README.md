@@ -189,7 +189,6 @@ YOU are the most valuable asset. A PhD takes five or more years' grinding, and t
 - The New York Times. (2018). How to be more efficient at work. Retrieved from https://www.nytimes.com/guides/business/how-to-improve-your-productivity-at-work
 
 
-
 ### Maintain a Balanced Diet
 
 **Rule of thumb:** Consume a variety of nutritious foods to support overall health, energy levels, and mental well-being.
