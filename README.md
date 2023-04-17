@@ -259,6 +259,7 @@ Examples of Imposter Syndrome in PhD Students include:
 Addressing imposter syndrome is essential for maintaining mental well-being and achieving your full potential.
 
 **Actionable steps:**
+- Remind yourself that it's okay to feel this way and that even senior researchers experience similar feelings. Recognizing this can help you accept your own emotions and overcome imposter syndrome.
 - Acknowledge your accomplishments and remind yourself of your successes.
 - Develop a growth mindset, focusing on learning and improvement rather than perfection.
 - Seek help when needed, such as talking to trusted peers, mentors, or advisors.
