@@ -1,6 +1,6 @@
 # Impresionantes consejos de salud para estudiantes de doctorado (¡y para todos!)
 
-[🇬🇧 English](README.md)\|[🇫🇷 French](README.fr.md)\|[🇮🇳 हिन्दी](README.hi.md)\|[🇦🇪 Arabic](README.ar.md)\|[🇩🇪 German](README.de.md)\|[🇯🇵 Japanese](README.ja.md)\|[🇵🇹 Portuguese](README.pt.md)\|[🇪🇸 Spanish](README.es.md)\|[🇨🇳 简体中文](README.zh-CN.md)\|[🇹🇼 繁體中文](README.zh-TW.md)
+[🇬🇧 English](README.md)\|[🇫🇷 Français](README.fr.md)\|[🇮🇳 हिन्दी](README.hi.md)\|[🇦🇪 العربية](README.ar.md)\|[🇩🇪 Deutsch](README.de.md)\|[🇯🇵 日本語](README.ja.md)\|[🇵🇹 Português](README.pt.md)\|[🇷🇺 Русский](README.ru.md)\|[🇪🇸 Español](README.es.md)\|[🇨🇳 简体中文](README.zh-CN.md)\|[🇹🇼 繁體中文](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -13,37 +13,39 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 (¡Lo invitamos a contribuir con sus consejos profesionales, adquiridos a través de años de experiencia y (probablemente) lágrimas, enviando una Solicitud de extracción! Vea nuestro[#how-to-contribute](#how-to-contribute)sección)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [Salud física](#salud-f%C3%ADsica)
-  - [Hacer ejercicio regularmente](#hacer-ejercicio-regularmente)
-  - [Salud ocular y hábitos de lectura](#salud-ocular-y-h%C3%A1bitos-de-lectura)
-  - [Ergonomía adecuada](#ergonom%C3%ADa-adecuada)
-  - [Postura y Alineación](#postura-y-alineaci%C3%B3n)
-  - [Manténgase activo durante todo el día](#mant%C3%A9ngase-activo-durante-todo-el-d%C3%ADa)
-  - [Mantente hidratado](#mantente-hidratado)
-  - [Evite estar sentado por mucho tiempo](#evite-estar-sentado-por-mucho-tiempo)
-  - [Tomar descansos](#tomar-descansos)
-  - [Mantenga una dieta equilibrada](#mantenga-una-dieta-equilibrada)
-  - [Prevención de lesiones](#prevenci%C3%B3n-de-lesiones)
-  - [Construir un entorno de apoyo](#construir-un-entorno-de-apoyo)
-- [Salud mental](#salud-mental)
-  - [síndrome del impostor](#s%C3%ADndrome-del-impostor)
-  - [Manejo del estrés](#manejo-del-estr%C3%A9s)
-  - [Construir y mantener pasatiempos](#construir-y-mantener-pasatiempos)
-  - [Atención plena y meditación](#atenci%C3%B3n-plena-y-meditaci%C3%B3n)
-  - [Conexiones sociales y apoyo](#conexiones-sociales-y-apoyo)
-  - [Establecer límites](#establecer-l%C3%ADmites)
-  - [Higiene del sueño](#higiene-del-sue%C3%B1o)
-  - [Gestión del tiempo](#gesti%C3%B3n-del-tiempo)
-  - [Manejo de rechazos y contratiempos](#manejo-de-rechazos-y-contratiempos)
-  - [Autocompasión y autocuidado](#autocompasi%C3%B3n-y-autocuidado)
-- [Busque ayuda profesional](#busque-ayuda-profesional)
-- [Otros repositorios relacionados](#otros-repositorios-relacionados)
-- [como contribuir](#como-contribuir)
-  - [Plantilla para sugerencias de contribución (¡siéntase libre de agregar nuevas partes cuando sea necesario!)](#plantilla-para-sugerencias-de-contribuci%C3%B3n-%C2%A1si%C3%A9ntase-libre-de-agregar-nuevas-partes-cuando-sea-necesario)
-- [Agradecimientos](#agradecimientos)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Tabla de contenido**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
