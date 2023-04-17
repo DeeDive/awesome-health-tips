@@ -1,49 +1,51 @@
 # Fantastische Gesundheitstipps für Doktoranden (und alle!)
 
-[🇩🇪 Englisch](README.md)\|[🇫🇷 Französisch](README.fr.md)\|[🇮🇳 Hindi](README.hi.md)\|[🇦🇪 Arabisch](README.ar.md)\|[🇩🇪 Deutsch](README.de.md)\|[🇯🇵 Japanisch](README.ja.md)\|[🇵🇹 Portugiesisch](README.pt.md)\|[🇪🇸 Spanisch](README.es.md)\|[🇨🇳 Chinesisch](README.zh.md)\|[🇹🇼 Traditionelles Chinesisch](README.zh-TW.md)
+[🇬🇧 English](README.md)\|[🇫🇷 French](README.fr.md)\|[🇮🇳 हिन्दी](README.hi.md)\|[🇦🇪 Arabic](README.ar.md)\|[🇩🇪 German](README.de.md)\|[🇯🇵 Japanese](README.ja.md)\|[🇵🇹 Portuguese](README.pt.md)\|[🇪🇸 Spanish](README.es.md)\|[🇨🇳 Chinese](README.zh-CN.md)\|[🇹🇼 繁體中文](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Willkommen in der Sammlung von Awesome Health Tips! Dieses Repository dient als Community-gesteuerter Knotenpunkt für den Austausch praktischer Tipps, die schrittweise überprüft und während der Ruhezeit aller befolgt werden können. Lassen Sie uns einfach zu befolgende, umsetzbare Schritte machen!
 
-DU bist das wertvollste Gut. Eine Promotion dauert fünf oder mehr Jahre, und das Leben dauert sogar noch länger. Es gibt[eine Vielzahl von Ratschlägen](https://github.com/pliang279/awesome-phd-advice)wie Sie in Ihrem beruflichen Bereich überleben können, aber nicht so sehr darüber, wie Sie Ihrer Gesundheit Priorität einräumen. Viele ältere Absolventen bedauern am Ende, dass nicht alle Verletzungen vollständig geheilt werden können und einige zu bleibenden Schäden führen können. Dieses Repositorium zielt darauf ab, diese Lücke zu schließen, indem es praktische Tipps und Ratschläge gibt, um gesund und fit zu bleiben. Lassen Sie uns vorbeugend fit bleiben.
+DU bist das wertvollste Gut. Eine Promotion dauert fünf oder mehr Jahre, und das Leben dauert sogar noch länger. Es gibt[a myriad of advice](https://github.com/pliang279/awesome-phd-advice)wie Sie in Ihrem beruflichen Bereich überleben können, aber nicht so sehr darüber, wie Sie Ihrer Gesundheit Priorität einräumen. Viele ältere Absolventen bedauern am Ende, dass nicht alle Verletzungen vollständig geheilt werden können und einige zu bleibenden Schäden führen können. Dieses Repositorium zielt darauf ab, diese Lücke zu schließen, indem es praktische Tipps und Ratschläge gibt, um gesund und fit zu bleiben. Lassen Sie uns vorbeugend fit bleiben.
 
 \***_Haftungsausschluss:_**Bitte beachten Sie jedoch, dass diese Ratschläge zur Gesundheitserhaltung und Krankheitsvermeidung keinesfalls eine ärztliche Diagnose und Beurteilung ersetzen. Bei medizinischen Bedenken oder Fragen wenden Sie sich bitte an einen qualifizierten Arzt.\*
 
-(Wir heißen Sie herzlich willkommen, Ihre Profi-Tipps, erworben durch jahrelange Erfahrung und (wahrscheinlich) Tränen, beizusteuern, indem Sie eine Pull-Anfrage einreichen! Siehe unsere[#wie-man-beitragen kann](#how-to-contribute)Abschnitt)
+(Wir heißen Sie herzlich willkommen, Ihre Profi-Tipps, erworben durch jahrelange Erfahrung und (wahrscheinlich) Tränen, beizusteuern, indem Sie eine Pull-Anfrage einreichen! Siehe unsere[#how-to-contribute](#how-to-contribute)Abschnitt)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [Körperliche Gesundheit](#k%C3%B6rperliche-gesundheit)
-  - [Regelmäßig Sport treiben](#regelm%C3%A4%C3%9Fig-sport-treiben)
-  - [Augengesundheit und Lesegewohnheiten](#augengesundheit-und-lesegewohnheiten)
-  - [Richtige Ergonomie](#richtige-ergonomie)
-  - [Haltung und Ausrichtung](#haltung-und-ausrichtung)
-  - [Bleiben Sie den ganzen Tag über aktiv](#bleiben-sie-den-ganzen-tag-%C3%BCber-aktiv)
-  - [Trinke genug](#trinke-genug)
-  - [Vermeiden Sie langes Sitzen](#vermeiden-sie-langes-sitzen)
-  - [Pausen machen](#pausen-machen)
-  - [Achten Sie auf eine ausgewogene Ernährung](#achten-sie-auf-eine-ausgewogene-ern%C3%A4hrung)
-  - [Verletzungsprävention](#verletzungspr%C3%A4vention)
-  - [Schaffen Sie eine unterstützende Umgebung](#schaffen-sie-eine-unterst%C3%BCtzende-umgebung)
-- [Psychische Gesundheit](#psychische-gesundheit)
-  - [Betrüger-Syndrom](#betr%C3%BCger-syndrom)
-  - [Stressbewältigung](#stressbew%C3%A4ltigung)
-  - [Hobbys aufbauen und pflegen](#hobbys-aufbauen-und-pflegen)
-  - [Achtsamkeit und Meditation](#achtsamkeit-und-meditation)
-  - [Soziale Verbindungen und Unterstützung](#soziale-verbindungen-und-unterst%C3%BCtzung)
-  - [Grenzen setzen](#grenzen-setzen)
-  - [Schlafhygiene](#schlafhygiene)
-  - [Zeiteinteilung](#zeiteinteilung)
-  - [Umgang mit Ablehnungen und Rückschlägen](#umgang-mit-ablehnungen-und-r%C3%BCckschl%C3%A4gen)
-  - [Selbstmitgefühl und Selbstfürsorge](#selbstmitgef%C3%BChl-und-selbstf%C3%BCrsorge)
-- [Suchen Sie professionelle Hilfe](#suchen-sie-professionelle-hilfe)
-- [Andere verwandte Repositories](#andere-verwandte-repositories)
-- [So können Sie beitragen](#so-k%C3%B6nnen-sie-beitragen)
-  - [Vorlage für Beitragstipps (Fühlen Sie sich frei, bei Bedarf neue Teile hinzuzufügen!)](#vorlage-f%C3%BCr-beitragstipps-f%C3%BChlen-sie-sich-frei-bei-bedarf-neue-teile-hinzuzuf%C3%BCgen)
-- [Danksagungen](#danksagungen)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Inhaltsverzeichnis**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -212,7 +214,7 @@ DU bist das wertvollste Gut. Eine Promotion dauert fünf oder mehr Jahre, und da
 -   Essen Sie eine Vielzahl von Obst, Gemüse, Vollkornprodukten, mageren Proteinen und gesunden Fetten.
 -   Begrenzen Sie den Konsum von verarbeiteten Lebensmitteln, zugesetztem Zucker und ungesunden Fetten.
 -   Achten Sie auf Portionsgrößen und üben Sie achtsames Essen.
--   Bleiben Sie hydriert, indem Sie den ganzen Tag über genügend Wasser trinken.
+-   Bleiben Sie hydratisiert, indem Sie den ganzen Tag über genügend Wasser trinken.
 
 **Verlässliche Quelle:**
 
@@ -310,7 +312,7 @@ Das Ansprechen des Hochstapler-Syndroms ist unerlässlich, um das geistige Wohlb
 **Umsetzbare Schritte:**
 
 -   Erkunden Sie verschiedene Interessen und Aktivitäten, um Hobbys zu entdecken, die Sie wirklich begeistern und beschäftigen.
--   Nehmen Sie sich Zeit für Ihre Hobbys und behandeln Sie sie als einen wesentlichen Teil Ihrer Selbstpflegeroutine.
+-   Nehmen Sie sich Zeit für Ihre Hobbys und behandeln Sie sie als wesentlichen Teil Ihrer Selbstpflegeroutine.
 -   Verbinden Sie sich mit anderen, die Ihre Interessen teilen, entweder persönlich oder über Online-Communities, um Ihr Hobbyerlebnis zu verbessern und soziale Verbindungen aufzubauen.
 -   Seien Sie offen für neue Aktivitäten und erweitern Sie Ihren Horizont. Manchmal können Hobbys zu unerwarteten persönlichen und beruflichen Wachstumschancen führen.
 -   Denken Sie daran, ein Gleichgewicht zwischen Ihren Hobbys und akademischen Verpflichtungen zu wahren. Hobbys sollen Erholung und Genuss bieten, ohne zusätzlichen Stress zu verursachen oder von der wissenschaftlichen Arbeit abzulenken.
@@ -322,7 +324,7 @@ Das Ansprechen des Hochstapler-Syndroms ist unerlässlich, um das geistige Wohlb
 
 ### Achtsamkeit und Meditation
 
-**Faustregel:**Praktizieren Sie Achtsamkeit oder Meditation für mindestens 10 Minuten pro Tag, um Stress abzubauen und Ihr geistiges Wohlbefinden zu verbessern.
+**Faustregel:**Praktiziere Achtsamkeit oder Meditation für mindestens 10 Minuten pro Tag, um Stress abzubauen und dein geistiges Wohlbefinden zu verbessern.
 
 **Kurzer Grund:**Achtsamkeit und Meditation können helfen, das Selbstbewusstsein, die Konzentration und die emotionale Regulierung zu steigern und gleichzeitig Angst und Stress abzubauen.
 
@@ -408,7 +410,7 @@ Das Ansprechen des Hochstapler-Syndroms ist unerlässlich, um das geistige Wohlb
 
 -   MindTools. (n.d.). Zeiteinteilung. Abgerufen von<https://www.mindtools.com/pages/main/newMN_HTE.htm>
 -   Mayo-Klinik. (2021). Zeitmanagement: Tipps zum Stressabbau und zur Steigerung der Produktivität. Abgerufen von<https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/time-management/art-20047938>
--   Lakein, A. (1973). Wie Sie die Kontrolle über Ihre Zeit und Ihr Leben erlangen
+-   Lakein, A. (1973). Wie Sie Ihre Zeit und Ihr Leben in den Griff bekommen
 
 ### Umgang mit Ablehnungen und Rückschlägen
 
@@ -467,8 +469,8 @@ Das Ansprechen des Hochstapler-Syndroms ist unerlässlich, um das geistige Wohlb
 
 ## Andere verwandte Repositories
 
--   [Tolles Gesundheitswesen](https://github.com/kakoni/awesome-healthcare)- Eine kuratierte Liste großartiger Open-Source-Gesundheitssoftware, -Bibliotheken, -Tools und -Ressourcen.
--   [Tolle psychische Gesundheit](https://github.com/dreamingechoes/awesome-mental-health)- Eine kuratierte Liste großartiger Artikel, Websites und Ressourcen über psychische Gesundheit in der Softwarebranche.
+-   [Awesome Healthcare](https://github.com/kakoni/awesome-healthcare)- Eine kuratierte Liste großartiger Open-Source-Gesundheitssoftware, -Bibliotheken, -Tools und -Ressourcen.
+-   [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)- Eine kuratierte Liste großartiger Artikel, Websites und Ressourcen über psychische Gesundheit in der Softwarebranche.
 
 Im Gegensatz zu anderen Ressourcen zielt dieses Repository darauf ab, eine Zusammenfassung leicht nachvollziehbarer und umsetzbarer Schritte bereitzustellen, die von Laien verstanden werden können, unabhängig von ihrem Wissensstand oder ihrer Erfahrung im Bereich Gesundheit und Wellness.
 
