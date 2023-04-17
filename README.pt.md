@@ -1,6 +1,6 @@
 # Dicas incríveis de saúde para estudantes de doutorado (e para todos!)
 
-[🇬🇧 Inglês](README.md)\|[🇵🇹 Francês](README.fr.md)\|[🇦🇪 Árabe](README.ar.md)\|[🇮🇳 Hindi](README.hi.md)\|[🇯🇵Japonês](README.ja.md)\|[🇨🇳 Chinês Simplificado](README.zh-CN.md)\|[🇹🇼 Chinês Tradicional](README.zh-TW.md)
+[🇬🇧 Inglês](README.md)\|[🇫🇷 Francês](README.fr.md)\|[🇮🇳 Hindi](README.hi.md)\|[🇦🇪 árabe](README.ar.md)\|[🇩🇪 alemão](README.de.md)\|[🇯🇵 japonês](README.ja.md)\|[🇵🇹 Português](README.pt.md)\|[🇪🇸 espanhol](README.es.md)\|[🇨🇳 chinês](README.zh.md)\|[🇹🇼 Chinês Tradicional](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -13,37 +13,39 @@ VOCÊ é o bem mais valioso. Um PhD leva cinco ou mais anos de trabalho, e a vid
 (Convidamos você a contribuir com suas dicas profissionais, adquiridas através de anos de experiência e (provavelmente) lágrimas, enviando um Pull Request! Veja nosso[#como-contribuir](#how-to-contribute)seção)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [Saúde física](#sa%C3%BAde-f%C3%ADsica)
-  - [Exercite regularmente](#exercite-regularmente)
-  - [Saúde ocular e hábitos de leitura](#sa%C3%BAde-ocular-e-h%C3%A1bitos-de-leitura)
-  - [Ergonomia adequada](#ergonomia-adequada)
-  - [Postura e Alinhamento](#postura-e-alinhamento)
-  - [Mantenha-se ativo durante todo o dia](#mantenha-se-ativo-durante-todo-o-dia)
-  - [Fique hidratado](#fique-hidratado)
-  - [Evite ficar sentado por muito tempo](#evite-ficar-sentado-por-muito-tempo)
-  - [Faça pausas](#fa%C3%A7a-pausas)
-  - [Mantenha uma Dieta Balanceada](#mantenha-uma-dieta-balanceada)
-  - [Prevenção de Lesões](#preven%C3%A7%C3%A3o-de-les%C3%B5es)
-  - [Crie um ambiente de apoio](#crie-um-ambiente-de-apoio)
-- [Saúde mental](#sa%C3%BAde-mental)
-  - [Síndrome do Impostor](#s%C3%ADndrome-do-impostor)
-  - [Gerenciamento de Estresse](#gerenciamento-de-estresse)
-  - [Construir e manter passatempos](#construir-e-manter-passatempos)
-  - [Mindfulness e Meditação](#mindfulness-e-medita%C3%A7%C3%A3o)
-  - [Conexões sociais e suporte](#conex%C3%B5es-sociais-e-suporte)
-  - [Definindo limites](#definindo-limites)
-  - [Higiene do Sono](#higiene-do-sono)
-  - [Gerenciamento de tempo](#gerenciamento-de-tempo)
-  - [Como lidar com rejeições e contratempos](#como-lidar-com-rejei%C3%A7%C3%B5es-e-contratempos)
-  - [Autocompaixão e Autocuidado](#autocompaix%C3%A3o-e-autocuidado)
-- [Busque ajuda profissional](#busque-ajuda-profissional)
-- [Outros repositórios relacionados](#outros-reposit%C3%B3rios-relacionados)
-- [como contribuir](#como-contribuir)
-  - [Modelo para dicas de contribuição (sinta-se à vontade para adicionar novas peças sempre que necessário!)](#modelo-para-dicas-de-contribui%C3%A7%C3%A3o-sinta-se-%C3%A0-vontade-para-adicionar-novas-pe%C3%A7as-sempre-que-necess%C3%A1rio)
-- [Reconhecimentos](#reconhecimentos)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Índice**
+
+-   [Saúde física](#physical-health)
+    -   [Exercite regularmente](#exercise-regularly)
+    -   [Saúde ocular e hábitos de leitura](#eye-health-and-reading-habits)
+    -   [Ergonomia adequada](#proper-ergonomics)
+    -   [Postura e Alinhamento](#posture-and-alignment)
+    -   [Mantenha-se ativo durante todo o dia](#stay-active-throughout-the-day)
+    -   [Fique hidratado](#stay-hydrated)
+    -   [Evite ficar sentado por muito tempo](#avoid-prolonged-sitting)
+    -   [Faça pausas](#take-breaks)
+    -   [Mantenha uma Dieta Balanceada](#maintain-a-balanced-diet)
+    -   [Prevenção de Lesões](#injury-prevention)
+    -   [Crie um ambiente de apoio](#build-a-supportive-environment)
+-   [Saúde mental](#mental-health)
+    -   [Síndrome do impostor](#imposter-syndrome)
+    -   [Gerenciamento de Estresse](#stress-management)
+    -   [Construir e manter passatempos](#building-and-maintaining-hobbies)
+    -   [Mindfulness e Meditação](#mindfulness-and-meditation)
+    -   [Conexões sociais e suporte](#social-connections-and-support)
+    -   [Definindo limites](#setting-boundaries)
+    -   [Higiene do Sono](#sleep-hygiene)
+    -   [Gerenciamento de tempo](#time-management)
+    -   [Como lidar com rejeições e contratempos](#handling-rejections-and-setbacks)
+    -   [Autocompaixão e Autocuidado](#self-compassion-and-self-care)
+-   [Busque ajuda profissional](#seek-professional-help)
+-   [Outros repositórios relacionados](#other-related-repositories)
+-   [como contribuir](#how-to-contribute)
+    -   [Modelo para dicas de contribuição (sinta-se à vontade para adicionar novas peças sempre que necessário!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Reconhecimentos](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -103,7 +105,7 @@ VOCÊ é o bem mais valioso. Um PhD leva cinco ou mais anos de trabalho, e a vid
 
 **Dispositivos recomendados (qualquer nome de produto?):**
 
--   Cadeiras de escritório ergonômicas com altura ajustável, apoio lombar e apoio de braços.
+-   Cadeiras de escritório ergonômicas com altura ajustável, apoio lombar e braços.
 -   Mesas de pé ou estações de trabalho ajustáveis ​​para alternar entre sentado e em pé.
 -   Teclados e mouses ergonômicos projetados para reduzir a tensão nas mãos e pulsos.
 -   Suportes de monitor ou braços de monitor ajustáveis ​​para posicionar as telas na altura e distância corretas.
@@ -116,7 +118,7 @@ VOCÊ é o bem mais valioso. Um PhD leva cinco ou mais anos de trabalho, e a vid
 
 **Regra de ouro:**Mantenha a coluna neutra e o alinhamento adequado enquanto estiver sentado ou em pé para reduzir o risco de dor e desconforto musculoesquelético.
 
-**Breve motivo:**A má postura pode levar a desequilíbrios musculares, tensão e lesões ao longo do tempo. Manter o alinhamento adequado pode ajudar a prevenir esses problemas e apoiar a saúde geral da coluna.
+**Breve motivo:**A má postura pode levar a desequilíbrios musculares, tensão e lesões ao longo do tempo. Manter o alinhamento adequado pode ajudar a prevenir esses problemas e apoiar a saúde geral da coluna vertebral.
 
 **Etapas acionáveis:**
 
@@ -257,7 +259,7 @@ VOCÊ é o bem mais valioso. Um PhD leva cinco ou mais anos de trabalho, e a vid
 
 ## Saúde mental
 
-### Síndrome do Impostor
+### Síndrome do impostor
 
 **Regra de ouro:**Reconheça os sinais da síndrome do impostor e desenvolva estratégias para gerenciá-la.
 
