@@ -1,6 +1,6 @@
 # 给博士生（和每个人！）的很棒的健康小贴士
 
-[🇬🇧 English](README.md)\|[🇫🇷 French](README.fr.md)\|[🇮🇳 हिन्दी](README.hi.md)\|[🇦🇪 Arabic](README.ar.md)\|[🇩🇪 German](README.de.md)\|[🇯🇵 Japanese](README.ja.md)\|[🇵🇹 Portuguese](README.pt.md)\|[🇪🇸 Spanish](README.es.md)\|[🇨🇳 简体中文](README.zh-CN.md)\|[🇹🇼 繁體中文](README.zh-TW.md)
+[🇬🇧 English](README.md)\|[🇫🇷 Français](README.fr.md)\|[🇮🇳 हिन्दी](README.hi.md)\|[🇦🇪 العربية](README.ar.md)\|[🇩🇪 Deutsch](README.de.md)\|[🇯🇵 日本語](README.ja.md)\|[🇵🇹 Português](README.pt.md)\|[🇷🇺 Русский](README.ru.md)\|[🇪🇸 Español](README.es.md)\|[🇨🇳 简体中文](README.zh-CN.md)\|[🇹🇼 繁體中文](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -13,37 +13,39 @@
 （我们欢迎您通过提交合并请求来贡献您的专业技巧，这些技巧是通过多年的经验和（可能）眼泪获得的！请参阅我们的[#how-to-contribute](#how-to-contribute)部分）
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [身体健康](#%E8%BA%AB%E4%BD%93%E5%81%A5%E5%BA%B7)
-  - [经常锻炼](#%E7%BB%8F%E5%B8%B8%E9%94%BB%E7%82%BC)
-  - [眼睛健康和阅读习惯](#%E7%9C%BC%E7%9D%9B%E5%81%A5%E5%BA%B7%E5%92%8C%E9%98%85%E8%AF%BB%E4%B9%A0%E6%83%AF)
-  - [适当的人体工程学](#%E9%80%82%E5%BD%93%E7%9A%84%E4%BA%BA%E4%BD%93%E5%B7%A5%E7%A8%8B%E5%AD%A6)
-  - [姿势和对齐](#%E5%A7%BF%E5%8A%BF%E5%92%8C%E5%AF%B9%E9%BD%90)
-  - [全天保持活跃](#%E5%85%A8%E5%A4%A9%E4%BF%9D%E6%8C%81%E6%B4%BB%E8%B7%83)
-  - [保持水分](#%E4%BF%9D%E6%8C%81%E6%B0%B4%E5%88%86)
-  - [避免久坐](#%E9%81%BF%E5%85%8D%E4%B9%85%E5%9D%90)
-  - [休息一下](#%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B)
-  - [保持均衡饮食](#%E4%BF%9D%E6%8C%81%E5%9D%87%E8%A1%A1%E9%A5%AE%E9%A3%9F)
-  - [伤害预防](#%E4%BC%A4%E5%AE%B3%E9%A2%84%E9%98%B2)
-  - [营造支持性环境](#%E8%90%A5%E9%80%A0%E6%94%AF%E6%8C%81%E6%80%A7%E7%8E%AF%E5%A2%83)
-- [精神健康](#%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7)
-  - [冒名顶替综合症](#%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E7%BB%BC%E5%90%88%E7%97%87)
-  - [压力管理](#%E5%8E%8B%E5%8A%9B%E7%AE%A1%E7%90%86)
-  - [建立和保持爱好](#%E5%BB%BA%E7%AB%8B%E5%92%8C%E4%BF%9D%E6%8C%81%E7%88%B1%E5%A5%BD)
-  - [正念与冥想](#%E6%AD%A3%E5%BF%B5%E4%B8%8E%E5%86%A5%E6%83%B3)
-  - [社会关系和支持](#%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB%E5%92%8C%E6%94%AF%E6%8C%81)
-  - [设定界限](#%E8%AE%BE%E5%AE%9A%E7%95%8C%E9%99%90)
-  - [睡眠卫生](#%E7%9D%A1%E7%9C%A0%E5%8D%AB%E7%94%9F)
-  - [时间管理](#%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86)
-  - [处理拒绝和挫折](#%E5%A4%84%E7%90%86%E6%8B%92%E7%BB%9D%E5%92%8C%E6%8C%AB%E6%8A%98)
-  - [自我同情和自我照顾](#%E8%87%AA%E6%88%91%E5%90%8C%E6%83%85%E5%92%8C%E8%87%AA%E6%88%91%E7%85%A7%E9%A1%BE)
-- [寻求专业帮助](#%E5%AF%BB%E6%B1%82%E4%B8%93%E4%B8%9A%E5%B8%AE%E5%8A%A9)
-- [其他相关资料库](#%E5%85%B6%E4%BB%96%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99%E5%BA%93)
-- [如何贡献](#%E5%A6%82%E4%BD%95%E8%B4%A1%E7%8C%AE)
-  - [贡献提示模板（随时可以添加新的部分！）](#%E8%B4%A1%E7%8C%AE%E6%8F%90%E7%A4%BA%E6%A8%A1%E6%9D%BF%E9%9A%8F%E6%97%B6%E5%8F%AF%E4%BB%A5%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E9%83%A8%E5%88%86)
-- [致谢](#%E8%87%B4%E8%B0%A2)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**目录**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
