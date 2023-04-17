@@ -8,7 +8,7 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 
 あなたは最も価値のある資産です。博士号取得には 5 年以上の研鑽が必要であり、人生はさらに長くかかります。がある[a myriad of advice](https://github.com/pliang279/awesome-phd-advice)あなたの専門分野で生き残る方法についてですが、あなたの健康を優先する方法についてはそれほどではありません.多くの上級卒業生は、すべての怪我が完全に治るわけではなく、永久的な損傷につながる可能性があるため、後悔することになります.このリポジトリは、健康とフィットネスを維持するための実用的なヒントとアドバイスを提供することで、そのギャップを埋めることを目的としています.健康を維持するために、予防措置を講じましょう。
 
-**免責事項:**ただし、これらの健康管理や病気の回避に関するアドバイスは、医学的な診断や判断に取って代わるものではありません。医学的な懸念や質問がある場合は、資格のある医療専門家にご相談ください。
+**\*免責事項:**ただし、これらの健康管理や病気の回避に関するアドバイスは、医学的な診断や判断に取って代わるものではありません。医学的な懸念や質問については、資格のある医療専門家にご相談ください。
 
 (プル リクエストを送信して、長年の経験と (おそらく) 涙を流して得たプロのヒントを提供してください\![#how-to-contribute](#how-to-contribute)セクション）
 
@@ -17,37 +17,39 @@ Awesome Health Tips リポジトリへようこそ!このリポジトリは、�
 > 博士号は、要件から自己規律への移行時期です。私は博士課程の 2 年目で、予防措置が非常に重要であることを認識しています。したがって、私は健康に関する知識を学び、ここで更新するために週に 1 時間費やす予定です。私はあなたが私に参加するように招待します!一緒に、より健康で幸せなコミュニティを作りましょう。
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [身体の健康](#%E8%BA%AB%E4%BD%93%E3%81%AE%E5%81%A5%E5%BA%B7)
-  - [定期的な運動](#%E5%AE%9A%E6%9C%9F%E7%9A%84%E3%81%AA%E9%81%8B%E5%8B%95)
-  - [目の健康と読書習慣](#%E7%9B%AE%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%A8%E8%AA%AD%E6%9B%B8%E7%BF%92%E6%85%A3)
-  - [適切な人間工学](#%E9%81%A9%E5%88%87%E3%81%AA%E4%BA%BA%E9%96%93%E5%B7%A5%E5%AD%A6)
-  - [姿勢とアライメント](#%E5%A7%BF%E5%8B%A2%E3%81%A8%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88)
-  - [一日中アクティブに](#%E4%B8%80%E6%97%A5%E4%B8%AD%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%81%AB)
-  - [水分補給](#%E6%B0%B4%E5%88%86%E8%A3%9C%E7%B5%A6)
-  - [長時間座るのを避ける](#%E9%95%B7%E6%99%82%E9%96%93%E5%BA%A7%E3%82%8B%E3%81%AE%E3%82%92%E9%81%BF%E3%81%91%E3%82%8B)
-  - [休憩を取る](#%E4%BC%91%E6%86%A9%E3%82%92%E5%8F%96%E3%82%8B)
-  - [バランスの取れた食事を維持する](#%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E5%8F%96%E3%82%8C%E3%81%9F%E9%A3%9F%E4%BA%8B%E3%82%92%E7%B6%AD%E6%8C%81%E3%81%99%E3%82%8B)
-  - [怪我の予防](#%E6%80%AA%E6%88%91%E3%81%AE%E4%BA%88%E9%98%B2)
-  - [協力的な環境を構築する](#%E5%8D%94%E5%8A%9B%E7%9A%84%E3%81%AA%E7%92%B0%E5%A2%83%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B)
-- [メンタルヘルス](#%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9)
-  - [インポスター症候群](#%E3%82%A4%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4)
-  - [ストレスマネジメント](#%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88)
-  - [趣味の構築と維持](#%E8%B6%A3%E5%91%B3%E3%81%AE%E6%A7%8B%E7%AF%89%E3%81%A8%E7%B6%AD%E6%8C%81)
-  - [マインドフルネスと瞑想](#%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%83%95%E3%83%AB%E3%83%8D%E3%82%B9%E3%81%A8%E7%9E%91%E6%83%B3)
-  - [ソーシャル コネクションとサポート](#%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB-%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88)
-  - [境界の設定](#%E5%A2%83%E7%95%8C%E3%81%AE%E8%A8%AD%E5%AE%9A)
-  - [睡眠衛生](#%E7%9D%A1%E7%9C%A0%E8%A1%9B%E7%94%9F)
-  - [時間管理](#%E6%99%82%E9%96%93%E7%AE%A1%E7%90%86)
-  - [拒否と挫折への対処](#%E6%8B%92%E5%90%A6%E3%81%A8%E6%8C%AB%E6%8A%98%E3%81%B8%E3%81%AE%E5%AF%BE%E5%87%A6)
-  - [セルフ・コンパッションとセルフケア](#%E3%82%BB%E3%83%AB%E3%83%95%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%91%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E3%82%BB%E3%83%AB%E3%83%95%E3%82%B1%E3%82%A2)
-- [専門家の助けを求める](#%E5%B0%82%E9%96%80%E5%AE%B6%E3%81%AE%E5%8A%A9%E3%81%91%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B)
-- [その他の関連リポジトリ](#%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E9%96%A2%E9%80%A3%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA)
-- [貢献する方法](#%E8%B2%A2%E7%8C%AE%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
-  - [ヒントを提供するためのテンプレート (必要に応じて新しいパーツを自由に追加してください!)](#%E3%83%92%E3%83%B3%E3%83%88%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-%E5%BF%85%E8%A6%81%E3%81%AB%E5%BF%9C%E3%81%98%E3%81%A6%E6%96%B0%E3%81%97%E3%81%84%E3%83%91%E3%83%BC%E3%83%84%E3%82%92%E8%87%AA%E7%94%B1%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84)
-- [謝辞](#%E8%AC%9D%E8%BE%9E)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**目次**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
