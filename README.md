@@ -1,6 +1,9 @@
 # Awesome Health Tips for PhD Students (and Everyone!)
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+[🇬🇧 English](README.md) | [🇫🇷 Français](README.fr.md) | [🇦🇪 العربية](README.ar.md) | [🇮🇳 हिन्दी](README.hi.md) | [🇯🇵 日本語](README.ja.md) | [🇨🇳 简体中文](README.zh-CN.md) | [🇹🇼 繁體中文](README.zh-TW.md)
+
+
 Welcome to the Awesome Health Tips repository! This repository serves as a community-driven hub for sharing practical tips that can be incrementally checked and followed during everyone's rest time. Let us make easy-to-follow, actionable steps!
 
 YOU are the most valuable asset. A PhD takes five or more years' grinding, and the life takes even longer. There is [a myriad of advice](https://github.com/pliang279/awesome-phd-advice) on how to survive in your professional area, but not that much on how to prioritize your health. Many senior graduates end up with regrets since not all injuries can be fully healed, and some may result in permanent damage. This repository aims to fill that gap by providing practical tips and advice for staying healthy and fit. Let us take preventive steps to keep fit.
