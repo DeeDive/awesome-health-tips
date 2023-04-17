@@ -137,7 +137,6 @@ YOU are the most valuable asset. A PhD takes five or more years' grinding, and t
 - Mayo Clinic. (2020). Sitting risks: How harmful is too much sitting? Retrieved from https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005
 - MedlinePlus. (2021). Health risks of an inactive lifestyle. Retrieved from https://medlineplus.gov/healthrisksofaninactivelifestyle.html
 
-
 ### Stay Hydrated
 
 **Rule of thumb:** Drink enough water throughout the day to maintain proper hydration and support overall health.
