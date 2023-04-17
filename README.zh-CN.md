@@ -13,37 +13,39 @@
 （我们欢迎您通过提交合并请求来贡献您的专业技巧，这些技巧是通过多年的经验和（可能）眼泪获得的！请参阅我们的[#how-to-贡献](#how-to-contribute)部分）
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [身体健康](#%E8%BA%AB%E4%BD%93%E5%81%A5%E5%BA%B7)
-  - [经常锻炼](#%E7%BB%8F%E5%B8%B8%E9%94%BB%E7%82%BC)
-  - [眼睛健康和阅读习惯](#%E7%9C%BC%E7%9D%9B%E5%81%A5%E5%BA%B7%E5%92%8C%E9%98%85%E8%AF%BB%E4%B9%A0%E6%83%AF)
-  - [适当的人体工程学](#%E9%80%82%E5%BD%93%E7%9A%84%E4%BA%BA%E4%BD%93%E5%B7%A5%E7%A8%8B%E5%AD%A6)
-  - [姿势和对齐](#%E5%A7%BF%E5%8A%BF%E5%92%8C%E5%AF%B9%E9%BD%90)
-  - [全天保持活跃](#%E5%85%A8%E5%A4%A9%E4%BF%9D%E6%8C%81%E6%B4%BB%E8%B7%83)
-  - [保持水分](#%E4%BF%9D%E6%8C%81%E6%B0%B4%E5%88%86)
-  - [避免久坐](#%E9%81%BF%E5%85%8D%E4%B9%85%E5%9D%90)
-  - [休息一下](#%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B)
-  - [保持均衡饮食](#%E4%BF%9D%E6%8C%81%E5%9D%87%E8%A1%A1%E9%A5%AE%E9%A3%9F)
-  - [伤害预防](#%E4%BC%A4%E5%AE%B3%E9%A2%84%E9%98%B2)
-  - [营造支持性环境](#%E8%90%A5%E9%80%A0%E6%94%AF%E6%8C%81%E6%80%A7%E7%8E%AF%E5%A2%83)
-- [精神健康](#%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7)
-  - [冒名顶替综合症](#%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E7%BB%BC%E5%90%88%E7%97%87)
-  - [压力管理](#%E5%8E%8B%E5%8A%9B%E7%AE%A1%E7%90%86)
-  - [建立和保持爱好](#%E5%BB%BA%E7%AB%8B%E5%92%8C%E4%BF%9D%E6%8C%81%E7%88%B1%E5%A5%BD)
-  - [正念与冥想](#%E6%AD%A3%E5%BF%B5%E4%B8%8E%E5%86%A5%E6%83%B3)
-  - [社会关系和支持](#%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB%E5%92%8C%E6%94%AF%E6%8C%81)
-  - [设定界限](#%E8%AE%BE%E5%AE%9A%E7%95%8C%E9%99%90)
-  - [睡眠卫生](#%E7%9D%A1%E7%9C%A0%E5%8D%AB%E7%94%9F)
-  - [时间管理](#%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86)
-  - [处理拒绝和挫折](#%E5%A4%84%E7%90%86%E6%8B%92%E7%BB%9D%E5%92%8C%E6%8C%AB%E6%8A%98)
-  - [自我同情和自我照顾](#%E8%87%AA%E6%88%91%E5%90%8C%E6%83%85%E5%92%8C%E8%87%AA%E6%88%91%E7%85%A7%E9%A1%BE)
-- [寻求专业帮助](#%E5%AF%BB%E6%B1%82%E4%B8%93%E4%B8%9A%E5%B8%AE%E5%8A%A9)
-- [其他相关资料库](#%E5%85%B6%E4%BB%96%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99%E5%BA%93)
-- [如何贡献](#%E5%A6%82%E4%BD%95%E8%B4%A1%E7%8C%AE)
-  - [贡献提示模板（随时可以添加新的部分！）](#%E8%B4%A1%E7%8C%AE%E6%8F%90%E7%A4%BA%E6%A8%A1%E6%9D%BF%E9%9A%8F%E6%97%B6%E5%8F%AF%E4%BB%A5%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E9%83%A8%E5%88%86)
-- [致谢](#%E8%87%B4%E8%B0%A2)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**目录**
+
+-   [身体健康](#physical-health)
+    -   [经常锻炼](#exercise-regularly)
+    -   [眼睛健康和阅读习惯](#eye-health-and-reading-habits)
+    -   [适当的人体工程学](#proper-ergonomics)
+    -   [姿势和对齐](#posture-and-alignment)
+    -   [全天保持活跃](#stay-active-throughout-the-day)
+    -   [保持水分](#stay-hydrated)
+    -   [避免久坐](#avoid-prolonged-sitting)
+    -   [休息一下](#take-breaks)
+    -   [保持均衡饮食](#maintain-a-balanced-diet)
+    -   [伤害预防](#injury-prevention)
+    -   [营造支持性环境](#build-a-supportive-environment)
+-   [精神健康](#mental-health)
+    -   [冒名顶替综合症](#imposter-syndrome)
+    -   [压力管理](#stress-management)
+    -   [建立和保持爱好](#building-and-maintaining-hobbies)
+    -   [正念与冥想](#mindfulness-and-meditation)
+    -   [社会关系和支持](#social-connections-and-support)
+    -   [设定界限](#setting-boundaries)
+    -   [睡眠卫生](#sleep-hygiene)
+    -   [时间管理](#time-management)
+    -   [处理拒绝和挫折](#handling-rejections-and-setbacks)
+    -   [自我同情和自我照顾](#self-compassion-and-self-care)
+-   [寻求专业帮助](#seek-professional-help)
+-   [其他相关资料库](#other-related-repositories)
+-   [如何贡献](#how-to-contribute)
+    -   [贡献提示模板（随时可以添加新的部分！）](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [致谢](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -64,7 +66,7 @@
 
 **可靠来源：**
 
--   美国心脏协会。 (2018)。美国心脏协会对成人和儿童身体活动的建议。从...获得[HTTPS://呜呜呜.heart.org/恩/healthy-living/fitness/fitness-basics/啊哈-recs-佛如-physical-activity-in-adults](https://www.heart.org/en/healthy-living/fitness/fitness-basics/aha-recs-for-physical-activity-in-adults)
+-   美国心脏协会。 （2018）。美国心脏协会对成人和儿童身体活动的建议。从...获得<https://www.heart.org/en/healthy-living/fitness/fitness-basics/aha-recs-for-physical-activity-in-adults>
 
 ### 眼睛健康和阅读习惯
 
@@ -84,8 +86,8 @@
 
 **可靠来源：**
 
--   美国眼科学会。 （2020）。电脑使用和眼睛疲劳。从...获得[HTTPS://呜呜呜.啊熬.org/恶业-health/tips-prevention/computer-usage](https://www.aao.org/eye-health/tips-prevention/computer-usage)
--   美国验光协会。 （日期不详）。计算机视觉综合症。从...获得[HTTPS://呜呜呜.熬啊.org/healthy-eyes/恶业-安定-vision-conditions/computer-vision-syndrome](https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/computer-vision-syndrome)
+-   美国眼科学会。 （2020）。电脑使用和眼睛疲劳。从...获得<https://www.aao.org/eye-health/tips-prevention/computer-usage>
+-   美国验光协会。 （日期不详）。计算机视觉综合症。从...获得<https://www.aoa.org/healthy-eyes/eye-and-vision-conditions/computer-vision-syndrome>
 
 ### 适当的人体工程学
 
@@ -110,7 +112,7 @@
 
 **可靠来源：**
 
--   美国劳工部。 （日期不详）。计算机工作站。职业安全与健康管理局。从...获得[HTTPS://呜呜呜.OSHA.gov/SL TC/E tools/computer workstations/index.HTML](https://www.osha.gov/SLTC/etools/computerworkstations/index.html)
+-   美国劳工部。 （日期不详）。计算机工作站。职业安全与健康管理局。从...获得<https://www.osha.gov/SLTC/etools/computerworkstations/index.html>
 
 ### 姿势和对齐
 
@@ -127,8 +129,8 @@
 
 **可靠来源：**
 
--   美国脊骨疗法协会。 （日期不详）。保持良好的姿势。从...获得[HTTPS://ACA today.org/content/posture-power-how-to-correct-有人-body-alignment](https://acatoday.org/content/posture-power-how-to-correct-your-body-alignment)
--   哈佛健康出版社。 (2017)。为什么良好的姿势很重要。从...获得[HTTPS://呜呜呜.health.Harvard.额度/staying-healthy/why-good-posture-matters](https://www.health.harvard.edu/staying-healthy/why-good-posture-matters)
+-   美国脊骨疗法协会。 （日期不详）。保持良好的姿势。从...获得<https://acatoday.org/content/posture-power-how-to-correct-your-body-alignment>
+-   哈佛健康出版社。 (2017)。为什么良好的姿势很重要。从...获得<https://www.health.harvard.edu/staying-healthy/why-good-posture-matters>
 
 ### 全天保持活跃
 
@@ -145,8 +147,8 @@
 
 **可靠来源：**
 
--   梅奥诊所。 （2020）。久坐的风险：久坐的危害有多大？从...获得[HTTPS://呜呜呜.Mayo clinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/发起-20058005](https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005)
--   MedlinePlus。 (2021)。不活跃的生活方式的健康风险。从...获得[HTTPS://Medline普鲁士.gov/health risks O凡inactive lifestyle.HTML](https://medlineplus.gov/healthrisksofaninactivelifestyle.html)
+-   梅奥诊所。 （2020）。久坐的风险：久坐的危害有多大？从...获得<https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005>
+-   MedlinePlus。 (2021)。不活跃的生活方式的健康风险。从...获得<https://medlineplus.gov/healthrisksofaninactivelifestyle.html>
 
 ### 保持水分
 
@@ -163,8 +165,8 @@
 
 **可靠来源：**
 
--   梅奥诊所。 （2020）。水：你每天应该喝多少？从...获得[HTTPS://呜呜呜.Mayo clinic.org/healthy-lifestyle/nutrition-安定-healthy-eating/in-depth/water/art-20044256](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256)
--   疾病预防与控制中心。 （2020）。了解事实：饮用水和摄入量。从...获得[HTTPS://呜呜呜.CDC.gov/nutrition/data-statistics/plain-water-他和-healthier-choice.HTML](https://www.cdc.gov/nutrition/data-statistics/plain-water-the-healthier-choice.html)
+-   梅奥诊所。 （2020）。水：你每天应该喝多少？从...获得<https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256>
+-   疾病预防与控制中心。 （2020）。了解事实：饮用水和摄入量。从...获得<https://www.cdc.gov/nutrition/data-statistics/plain-water-the-healthier-choice.html>
 
 ### 避免久坐
 
@@ -181,8 +183,8 @@
 
 **可靠来源：**
 
--   梅奥诊所。 （2020）。久坐的风险：久坐的危害有多大？从...获得[HTTPS://呜呜呜.Mayo clinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/发起-20058005](https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005)
--   美国心脏协会。 （2019）。坐着抽新烟吗？从...获得[HTTPS://呜呜呜.heart.org/恩/healthy-living/fitness/sitting-is-他和-new-smoking](https://www.heart.org/en/healthy-living/fitness/sitting-is-the-new-smoking)
+-   梅奥诊所。 （2020）。久坐的风险：久坐的危害有多大？从...获得<https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005>
+-   美国心脏协会。 （2019）。坐着抽新烟吗？从...获得<https://www.heart.org/en/healthy-living/fitness/sitting-is-the-new-smoking>
 
 ### 休息一下
 
@@ -199,7 +201,7 @@
 
 **可靠来源：**
 
--   纽约时报。 (2018)。如何在工作中更有效率。从...获得[HTTPS://呜呜呜.NY times.com/guides/business/how-to-improve-有人-productivity-at-work](https://www.nytimes.com/guides/business/how-to-improve-your-productivity-at-work)
+-   纽约时报。 （2018）。如何在工作中更有效率。从...获得<https://www.nytimes.com/guides/business/how-to-improve-your-productivity-at-work>
 
 ### 保持均衡饮食
 
@@ -216,8 +218,8 @@
 
 **可靠来源：**
 
--   哈佛大学公共卫生学院。 （2020）。营养来源：健康饮食盘。从...获得[HTTPS://呜呜呜.还是配合.Harvard.额度/nutrition source/healthy-eating-plate/](https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/)
--   梅奥诊所。 （2020）。营养和健康饮食：均衡饮食指南。从...获得[HTTPS://呜呜呜.Mayo clinic.org/healthy-lifestyle/nutrition-安定-healthy-eating/basics/nutrition-basics/汇率-20049477](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/basics/nutrition-basics/hlv-20049477)
+-   哈佛大学公共卫生学院。 （2020）。营养来源：健康饮食盘。从...获得<https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/>
+-   梅奥诊所。 （2020）。营养和健康饮食：均衡饮食指南。从...获得<https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/basics/nutrition-basics/hlv-20049477>
 
 ### 伤害预防
 
@@ -234,8 +236,8 @@
 
 **可靠来源：**
 
--   职业安全与健康管理局。 (2021)。人体工程学。从...获得[HTTPS://呜呜呜.OSHA.gov/ergonomics](https://www.osha.gov/ergonomics)
--   梅奥诊所。 （2019）。办公室人体工程学：您的操作指南。从...获得[HTTPS://呜呜呜.Mayo clinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169)
+-   职业安全与健康管理局。 (2021)。人体工程学。从...获得<https://www.osha.gov/ergonomics>
+-   梅奥诊所。 （2019）。办公室人体工程学：您的操作指南。从...获得<https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169>
 
 ### 营造支持性环境
 
@@ -252,8 +254,8 @@
 
 **可靠来源：**
 
--   心理健康基金会。 (2018)。创造心理健康的工作场所。从...获得[HTTPS://呜呜呜.mental health.org.UK/publications/creating-mentally-healthy-workplaces](https://www.mentalhealth.org.uk/publications/creating-mentally-healthy-workplaces)
--   美国心理协会。 (2015)。营造健康的工作环境。从...获得[HTTPS://呜呜呜.阿帕.org/help center/healthy-work-environment](https://www.apa.org/helpcenter/healthy-work-environment)
+-   心理健康基金会。 （2018）。创造心理健康的工作场所。从...获得<https://www.mentalhealth.org.uk/publications/creating-mentally-healthy-workplaces>
+-   美国心理协会。 (2015)。营造健康的工作环境。从...获得<https://www.apa.org/helpcenter/healthy-work-environment>
 
 ## 精神健康
 
@@ -268,7 +270,7 @@
 -   你被要求为你的研究项目开发一种新的算法或方法，你感到有压力去创造一些完美的东西来打动你的同行和顾问。
 -   您很难理解您所在领域的复杂理论或概念，并且因无法掌握它们而感到不知所措。
 -   你偷偷参考在线论坛或讨论板来解决简单的问题，并担心如果你的导师、顾问或同学注意到，你会显得无能。
--   参加学术会议或研讨会后，您会感到力不从心，因为在这些会议或研讨会上提出了许多新想法，但您没有时间或精力去探索所有这些想法。
+-   参加学术会议或研讨会后，您会感到力不从心，在这些会议或研讨会上提出了许多新想法，但没有时间或带宽去探索所有这些想法。
 
 解决冒名顶替综合症对于保持心理健康和充分发挥潜能至关重要。
 
@@ -282,7 +284,7 @@
 
 **可靠来源：**
 
--   M.K. 拉吉夫 (2017)。为什么软件开发人员会患上冒名顶替综合症？中等的。[HTTPS://medium.com/@RA JE EF Mk/why-does-software-developers-suffer-from-imposter-syndrome-出场费961的0从29啊](https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a)
+-   M.K. 拉吉夫 (2017)。为什么软件开发人员会患上冒名顶替综合症？中等的。<https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a>
 
 ### 压力管理
 
@@ -299,13 +301,13 @@
 
 **可靠来源：**
 
--   梅奥诊所。 （2019）。压力管理：了解触发因素。从...获得[HTTPS://呜呜呜.Mayo clinic.org/healthy-lifestyle/stress-management/in-depth/stress-management/art-20044151](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-management/art-20044151)
+-   梅奥诊所。 （2019）。压力管理：了解触发因素。从...获得<https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress-management/art-20044151>
 
 ### 建立和保持爱好
 
 **经验法则：**培养学术工作之外的爱好，以保持平衡的生活方式并减轻压力。
 
-**简短原因：**从事兴趣爱好可以从学业压力中获得精神上的休息，促进个人成长，并培养成就感和享受感。
+**简短原因：**从事爱好可以从学业压力中释放精神，促进个人成长，培养成就感和享受感。
 
 **可操作的步骤：**
 
@@ -317,8 +319,8 @@
 
 **可靠来源：**
 
--   Stenger, M. (2016)。爱好对于缓解压力的重要性。很好的头脑。从...获得[HTTPS://呜呜呜.very well mind.com/他和-importance-of-hobbies-佛如-stress-relief-3144574](https://www.verywellmind.com/the-importance-of-hobbies-for-stress-relief-3144574)
--   Newman, D. B., & Tay, L. (2019)。爱好的好处。今日心理学。从...获得[HTTPS://呜呜呜.psychology today.com/US/blog/curious/201905/他和-benefits-hobbies](https://www.psychologytoday.com/us/blog/curious/201905/the-benefits-hobbies)
+-   Stenger, M. (2016)。爱好对于缓解压力的重要性。很好的头脑。从...获得<https://www.verywellmind.com/the-importance-of-hobbies-for-stress-relief-3144574>
+-   Newman, D. B., & Tay, L. (2019)。爱好的好处。今日心理学。从...获得<https://www.psychologytoday.com/us/blog/curious/201905/the-benefits-hobbies>
 
 ### 正念与冥想
 
@@ -335,8 +337,8 @@
 
 **可靠来源：**
 
--   哈佛健康出版社。 (2018)。正念冥想可以缓解焦虑和精神压力。从...获得[HTTPS://呜呜呜.health.Harvard.额度/blog/mindfulness-meditation-蚂蚁-ease-anxiety-mental-stress-201401086967](https://www.health.harvard.edu/blog/mindfulness-meditation-may-ease-anxiety-mental-stress-201401086967)
--   梅奥诊所。 (2021)。冥想：一种简单、快速的减轻压力的方法。从...获得[HTTPS://呜呜呜.Mayo clinic.org/tests-procedures/meditation/in-depth/meditation/art-20045858](https://www.mayoclinic.org/tests-procedures/meditation/in-depth/meditation/art-20045858)
+-   哈佛健康出版社。 （2018）。正念冥想可以缓解焦虑和精神压力。从...获得<https://www.health.harvard.edu/blog/mindfulness-meditation-may-ease-anxiety-mental-stress-201401086967>
+-   梅奥诊所。 (2021)。冥想：一种简单、快速的减轻压力的方法。从...获得<https://www.mayoclinic.org/tests-procedures/meditation/in-depth/meditation/art-20045858>
 
 ### 社会关系和支持
 
@@ -353,7 +355,7 @@
 
 **可靠来源：**
 
--   国家心理健康研究所。 （2019）。社会支持和心理健康。从...获得[HTTPS://呜呜呜.你们好.你好.gov/health/publications/chronic-illness-mental-health](https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health)
+-   国家心理健康研究所。 （2019）。社会支持和心理健康。从...获得<https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health>
 
 ### 设定界限
 
@@ -370,7 +372,7 @@
 
 **可靠来源：**
 
--   梅奥诊所。 (2021)。工作与生活的平衡：收回控制权的技巧。从...获得[HTTPS://呜呜呜.Mayo clinic.org/healthy-lifestyle/adult-health/in-depth/work-life-balance/art-20048134](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/work-life-balance/art-20048134)
+-   梅奥诊所。 (2021)。工作与生活的平衡：恢复控制的技巧。从...获得<https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/work-life-balance/art-20048134>
 
 ### 睡眠卫生
 
@@ -387,8 +389,8 @@
 
 **可靠来源：**
 
--   国家睡眠基金会。 （2019）。健康睡眠小贴士。从...获得[HTTPS://呜呜呜.sleep foundation.org/articles/healthy-sleep-tips](https://www.sleepfoundation.org/articles/healthy-sleep-tips)
--   哈佛医学院。 （2019）。改善睡眠的十二个简单技巧。从...获得[HTTPS://呜呜呜.health.Harvard.额度/staying-healthy/twelve-simple-tips-to-improve-有人-sleep](https://www.health.harvard.edu/staying-healthy/twelve-simple-tips-to-improve-your-sleep)
+-   国家睡眠基金会。 （2019）。健康睡眠小贴士。从...获得<https://www.sleepfoundation.org/articles/healthy-sleep-tips>
+-   哈佛医学院。 （2019）。改善睡眠的十二个简单技巧。从...获得<https://www.health.harvard.edu/staying-healthy/twelve-simple-tips-to-improve-your-sleep>
 
 ### 时间管理
 
@@ -398,7 +400,7 @@
 
 **可操作的步骤：**
 
--   将您的任务分解为具有特定截止日期的更小的、可管理的目标。
+-   将您的任务分解为更小的、可管理的目标，并在特定期限内完成。
 -   使用日历、计划器或数字工具来安排您的任务和截止日期。
 -   留出专门的时间用于研究、写作、教学和个人活动。
 -   在处理任务时尽量减少干扰并设定界限。
@@ -406,8 +408,8 @@
 
 **可靠来源：**
 
--   思维工具。 （日期不详）。时间管理。从...获得[HTTPS://呜呜呜.mind tools.com/pages/卖弄/new Mn_HT E.htm](https://www.mindtools.com/pages/main/newMN_HTE.htm)
--   梅奥诊所。 (2021)。时间管理：减轻压力和提高工作效率的技巧。从...获得[HTTPS://呜呜呜.Mayo clinic.org/healthy-lifestyle/stress-management/in-depth/time-management/art-20047938](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/time-management/art-20047938)
+-   思维工具。 （日期不详）。时间管理。从...获得<https://www.mindtools.com/pages/main/newMN_HTE.htm>
+-   梅奥诊所。 (2021)。时间管理：减轻压力和提高工作效率的技巧。从...获得<https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/time-management/art-20047938>
 -   Lakein, A. (1973)。如何控制你的时间和你的生活
 
 ### 处理拒绝和挫折
@@ -443,7 +445,7 @@
 **可靠来源：**
 
 -   Neff, K. D. (2011)。自我同情：停止打击自己并留下不安全感。纽约：威廉莫罗。
--   哈佛健康。 (2017)。自我保健：滋养身心的 4 种方法。从...获得[HTTPS://呜呜呜.health.Harvard.额度/blog/self-care-4-ways-nourish-body-soul-2017111612736](https://www.health.harvard.edu/blog/self-care-4-ways-nourish-body-soul-2017111612736)
+-   哈佛健康。 (2017)。自我保健：滋养身心的 4 种方法。从...获得<https://www.health.harvard.edu/blog/self-care-4-ways-nourish-body-soul-2017111612736>
 
 ## 寻求专业帮助
 
@@ -460,8 +462,8 @@
 
 **可靠来源：**
 
--   国家心理健康研究所。 (2021)。帮助精神疾病。从...获得[HTTPS://呜呜呜.你们好.你好.gov/health/find-help](https://www.nimh.nih.gov/health/find-help)
--   美国心理协会。 （2020）。如何选择心理学家。从...获得[HTTPS://呜呜呜.阿帕.org/topics/choose-therapist](https://www.apa.org/topics/choose-therapist)
+-   国家心理健康研究所。 (2021)。帮助精神疾病。从...获得<https://www.nimh.nih.gov/health/find-help>
+-   美国心理协会。 （2020）。如何选择心理学家。从...获得<https://www.apa.org/topics/choose-therapist>
 
 **（可信赖的寻求帮助的网站？）**
 
@@ -509,4 +511,4 @@
 
 我们要感谢 ChatGPT 提供初始内容作为此存储库的起点。没有 ChatGPT 的帮助，就不可能有这个存储库。
 
-我们还要感谢所有贡献者，他们分享了他们学到的智慧和建议，并帮助使该存储库成为博士生和所有希望将健康放在首位的人的宝贵资源。
+我们还要感谢所有分享他们学到的智慧和建议的贡献者，并帮助使这个存储库成为博士生和每个希望将健康放在首位的人的宝贵资源。
