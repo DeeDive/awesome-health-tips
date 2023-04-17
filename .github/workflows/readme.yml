@@ -49,7 +49,11 @@ jobs:
         uses: DeeDive/translate-readme@main
         with:
           LANG: hi
-
+      - name: Adding README - Russian
+        uses: DeeDive/translate-readme@main
+        with:
+          LANG: ru
+          
   generateTOC:
     name: TOC Generator
     needs: translateREADME
