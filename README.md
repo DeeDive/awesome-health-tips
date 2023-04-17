@@ -8,7 +8,7 @@ Welcome to the Awesome Health Tips repository! This repository serves as a commu
 
 YOU are the most valuable asset. A PhD takes five or more years' grinding, and life takes even longer. There is [a myriad of advice](https://github.com/pliang279/awesome-phd-advice) on how to survive in your professional area, but not that much on how to prioritize your health. Many senior graduates end up with regrets since not all injuries can be fully healed, and some may result in permanent damage. This repository aims to fill that gap by providing practical tips and advice for staying healthy and fit. Let us take preventive steps to keep fit.
 
-**Disclaimer:** However, please note that by no means do these health-keeping and illness-avoidance advice replace medical diagnosis and judgments. For any medical concerns or questions, please consult with a qualified healthcare professional.
+***Disclaimer:** However, please note that by no means do these health-keeping and illness-avoidance advice replace medical diagnosis and judgments. For any medical concerns or questions, please consult with a qualified healthcare professional.*
 
 (We welcome you to contribute your pro tips, acquired through years of experience and (probably) tears, by submitting a Pull Request! See our [#how-to-contribute](#how-to-contribute) section)
 
