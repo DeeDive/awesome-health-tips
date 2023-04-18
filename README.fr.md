@@ -1,10 +1,10 @@
 # Conseils de santé géniaux pour les doctorants (et tout le monde !)
 
-[🇬🇧 English](README.md)\|[🇫🇷 Français](README.fr.md)\|[🇮🇳 हिन्दी](README.hi.md)\|[🇦🇪 العربية](README.ar.md)\|[🇩🇪 Deutsch](README.de.md)\|[🇯🇵 日本語](README.ja.md)\|[🇵🇹 Português](README.pt.md)\|[🇷🇺 Русский](README.ru.md)\|[🇪🇸 Español](README.es.md)\|[🇨🇳 简体中文](README.zh-CN.md)\|[🇹🇼 繁體中文](README.zh-TW.md)
+[ English ](README.md)\|[ Français ](README.fr.md)\|[ हिन्दी ](README.hi.md)\|[  العربية ](README.ar.md)\|[  Deutsch ](README.de.md)\|[  日本語  ](README.ja.md)\|[  Português  ](README.pt.md)\|[  Русский  ](README.ru.md)\|[  Español ](README.es.md)\|[  简体中文  ](README.zh-CN.md)\|[  繁體中文  ](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Bienvenue dans le référentiel Awesome Health Tips ! Ce référentiel sert de centre communautaire pour partager des conseils pratiques qui peuvent être vérifiés et suivis progressivement pendant le temps de repos de chacun. Faisons des étapes faciles à suivre et exploitables !
+Bienvenue dans le référentiel Awesome Health Tips ! Ce référentiel sert de centre communautaire pour partager des conseils pratiques qui peuvent être vérifiés et suivis progressivement pendant le temps de repos de chacun. Faisons des étapes faciles à suivre et réalisables !
 
 VOUS êtes l'atout le plus précieux. Un doctorat prend cinq ans ou plus, et la vie prend encore plus de temps. Il y a[a myriad of advice](https://github.com/pliang279/awesome-phd-advice)sur la façon de survivre dans votre domaine professionnel, mais pas tant que ça sur la façon de prioriser votre santé. De nombreux diplômés seniors finissent par regretter car toutes les blessures ne peuvent pas être complètement guéries et certaines peuvent entraîner des dommages permanents. Ce référentiel vise à combler cette lacune en fournissant des conseils pratiques et des conseils pour rester en bonne santé et en forme. Prenons des mesures préventives pour garder la forme.
 
@@ -17,37 +17,39 @@ VOUS êtes l'atout le plus précieux. Un doctorat prend cinq ans ou plus, et la 
 > Le doctorat est une période de transition entre les exigences et l'autodiscipline. Je suis dans ma deuxième année d'études doctorales et je me rends compte que les mesures préventives sont d'une extrême importance. Par conséquent, je prévois de passer une heure par semaine pour apprendre des connaissances sur la santé et les mettre à jour ici. Je t'invite à me rejoindre! Ensemble, bâtissons une communauté plus saine et plus heureuse.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [Santé physique](#sant%C3%A9-physique)
-  - [Exercice régulier](#exercice-r%C3%A9gulier)
-  - [Santé oculaire et habitudes de lecture](#sant%C3%A9-oculaire-et-habitudes-de-lecture)
-  - [Une bonne ergonomie](#une-bonne-ergonomie)
-  - [Posture et alignement](#posture-et-alignement)
-  - [Restez actif tout au long de la journée](#restez-actif-tout-au-long-de-la-journ%C3%A9e)
-  - [Restez hydraté](#restez-hydrat%C3%A9)
-  - [Évitez la position assise prolongée](#%C3%89vitez-la-position-assise-prolong%C3%A9e)
-  - [Prendre des pauses](#prendre-des-pauses)
-  - [Maintenir une alimentation équilibrée](#maintenir-une-alimentation-%C3%A9quilibr%C3%A9e)
-  - [Prévention des blessures](#pr%C3%A9vention-des-blessures)
-  - [Créer un environnement favorable](#cr%C3%A9er-un-environnement-favorable)
-- [Santé mentale](#sant%C3%A9-mentale)
-  - [Syndrome de l'imposteur](#syndrome-de-limposteur)
-  - [La gestion du stress](#la-gestion-du-stress)
-  - [Créer et entretenir des passe-temps](#cr%C3%A9er-et-entretenir-des-passe-temps)
-  - [Pleine Conscience et Méditation](#pleine-conscience-et-m%C3%A9ditation)
-  - [Connexions sociales et soutien](#connexions-sociales-et-soutien)
-  - [Fixer des limites](#fixer-des-limites)
-  - [Hygiène du sommeil](#hygi%C3%A8ne-du-sommeil)
-  - [Gestion du temps](#gestion-du-temps)
-  - [Gérer les rejets et les revers](#g%C3%A9rer-les-rejets-et-les-revers)
-  - [Auto-compassion et soins personnels](#auto-compassion-et-soins-personnels)
-- [Cherchez de l'aide professionnelle](#cherchez-de-laide-professionnelle)
-- [Autres référentiels associés](#autres-r%C3%A9f%C3%A9rentiels-associ%C3%A9s)
-- [Comment contribuer](#comment-contribuer)
-  - [Modèle de conseils de contribution (n'hésitez pas à ajouter de nouvelles pièces chaque fois que nécessaire !)](#mod%C3%A8le-de-conseils-de-contribution-nh%C3%A9sitez-pas-%C3%A0-ajouter-de-nouvelles-pi%C3%A8ces-chaque-fois-que-n%C3%A9cessaire%C2%A0)
-- [Remerciements](#remerciements)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Table des matières**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -220,7 +222,7 @@ VOUS êtes l'atout le plus précieux. Un doctorat prend cinq ans ou plus, et la 
 
 **Sources fiables:**
 
--   École de santé publique de Harvard. (2020). La source nutritionnelle : une assiette saine. Extrait de<https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/>
+-   École de santé publique de Harvard. (2020). La source nutritionnelle : Une assiette saine. Extrait de<https://www.hsph.harvard.edu/nutritionsource/healthy-eating-plate/>
 -   Clinique Mayo. (2020). Nutrition et alimentation saine : Lignes directrices pour une alimentation équilibrée. Extrait de<https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/basics/nutrition-basics/hlv-20049477>
 
 ### Prévention des blessures
@@ -265,7 +267,7 @@ VOUS êtes l'atout le plus précieux. Un doctorat prend cinq ans ou plus, et la 
 
 **Règle d'or :**Reconnaître les signes du syndrome de l'imposteur et développer des stratégies pour le gérer.
 
-**Raison:**Le syndrome de l'imposteur est un phénomène psychologique courant où les individus ont l'impression de ne pas être aussi compétents que les autres le perçoivent. Ce sentiment est répandu chez les doctorants, qui subissent souvent des niveaux élevés de stress et de pression dans leur carrière universitaire.
+**Raison:**Le syndrome de l'imposteur est un phénomène psychologique courant où les individus ont l'impression qu'ils ne sont pas aussi compétents que les autres le perçoivent. Ce sentiment est répandu chez les doctorants, qui subissent souvent des niveaux élevés de stress et de pression dans leur carrière universitaire.
 
 Voici des exemples de syndrome de l'imposteur chez les doctorants :
 
@@ -274,7 +276,7 @@ Voici des exemples de syndrome de l'imposteur chez les doctorants :
 -   Vous vous référez secrètement à des forums en ligne ou à des forums de discussion pour des questions simples et craignez de paraître incompétent si votre mentor, votre conseiller ou vos camarades de classe le remarquent.
 -   Vous ne vous sentez pas à la hauteur après avoir assisté à des conférences universitaires ou à des ateliers où de nombreuses nouvelles idées sont présentées, mais vous n'avez ni le temps ni la bande passante pour toutes les explorer.
 
-Traiter le syndrome de l'imposteur est essentiel pour maintenir le bien-être mental et atteindre votre plein potentiel.
+S'attaquer au syndrome de l'imposteur est essentiel pour maintenir votre bien-être mental et atteindre votre plein potentiel.
 
 **Étapes réalisables :**
 
@@ -385,7 +387,7 @@ Traiter le syndrome de l'imposteur est essentiel pour maintenir le bien-être me
 **Étapes réalisables :**
 
 -   Visez 7 à 9 heures de sommeil par nuit.
--   Établissez un horaire de sommeil régulier en vous couchant et en vous réveillant à la même heure chaque jour.
+-   Établissez un horaire de sommeil constant en vous couchant et en vous réveillant à la même heure chaque jour.
 -   Créez un environnement propice au sommeil en gardant la chambre sombre, silencieuse et à une température confortable.
 -   Limitez l'exposition aux écrans et aux appareils électroniques au moins une heure avant le coucher.
 
