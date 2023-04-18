@@ -1,6 +1,6 @@
 # Impresionantes consejos de salud para estudiantes de doctorado (¡y para todos!)
 
-[🇬🇧 English](README.md)\|[🇫🇷 Français](README.fr.md)\|[🇮🇳 हिन्दी](README.hi.md)\|[🇦🇪 العربية](README.ar.md)\|[🇩🇪 Deutsch](README.de.md)\|[🇯🇵 日本語](README.ja.md)\|[🇵🇹 Português](README.pt.md)\|[🇷🇺 Русский](README.ru.md)\|[🇪🇸 Español](README.es.md)\|[🇨🇳 简体中文](README.zh-CN.md)\|[🇹🇼 繁體中文](README.zh-TW.md)
+[ English ](README.md)\|[ Français ](README.fr.md)\|[ हिन्दी ](README.hi.md)\|[  العربية ](README.ar.md)\|[  Deutsch ](README.de.md)\|[  日本語  ](README.ja.md)\|[  Português  ](README.pt.md)\|[  Русский  ](README.ru.md)\|[  Español ](README.es.md)\|[  简体中文  ](README.zh-CN.md)\|[  繁體中文  ](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -17,37 +17,39 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 > El doctorado es un tiempo de transición de los requisitos a la autodisciplina. Estoy en mi segundo año de estudios de doctorado y me estoy dando cuenta de que los pasos preventivos son de suma importancia. Por lo tanto, planeo pasar una hora por semana para aprender conocimientos sobre salud y actualizarlos aquí. ¡Te invito a unirte a mí! Juntos, construyamos una comunidad más sana y feliz.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [Salud física](#salud-f%C3%ADsica)
-  - [Hacer ejercicio regularmente](#hacer-ejercicio-regularmente)
-  - [Salud ocular y hábitos de lectura](#salud-ocular-y-h%C3%A1bitos-de-lectura)
-  - [Ergonomía adecuada](#ergonom%C3%ADa-adecuada)
-  - [Postura y Alineación](#postura-y-alineaci%C3%B3n)
-  - [Manténgase activo durante todo el día](#mant%C3%A9ngase-activo-durante-todo-el-d%C3%ADa)
-  - [Mantente hidratado](#mantente-hidratado)
-  - [Evite estar sentado por mucho tiempo](#evite-estar-sentado-por-mucho-tiempo)
-  - [Tomar descansos](#tomar-descansos)
-  - [Mantenga una dieta equilibrada](#mantenga-una-dieta-equilibrada)
-  - [Prevención de lesiones](#prevenci%C3%B3n-de-lesiones)
-  - [Construir un entorno de apoyo](#construir-un-entorno-de-apoyo)
-- [Salud mental](#salud-mental)
-  - [síndrome del impostor](#s%C3%ADndrome-del-impostor)
-  - [Manejo del estrés](#manejo-del-estr%C3%A9s)
-  - [Construir y mantener pasatiempos](#construir-y-mantener-pasatiempos)
-  - [Atención plena y meditación](#atenci%C3%B3n-plena-y-meditaci%C3%B3n)
-  - [Conexiones sociales y apoyo](#conexiones-sociales-y-apoyo)
-  - [Establecer límites](#establecer-l%C3%ADmites)
-  - [Higiene del sueño](#higiene-del-sue%C3%B1o)
-  - [Gestión del tiempo](#gesti%C3%B3n-del-tiempo)
-  - [Manejo de rechazos y contratiempos](#manejo-de-rechazos-y-contratiempos)
-  - [Autocompasión y autocuidado](#autocompasi%C3%B3n-y-autocuidado)
-- [Busque ayuda profesional](#busque-ayuda-profesional)
-- [Otros repositorios relacionados](#otros-repositorios-relacionados)
-- [como contribuir](#como-contribuir)
-  - [Plantilla para sugerencias de contribución (¡siéntase libre de agregar nuevas partes cuando sea necesario!)](#plantilla-para-sugerencias-de-contribuci%C3%B3n-%C2%A1si%C3%A9ntase-libre-de-agregar-nuevas-partes-cuando-sea-necesario)
-- [Agradecimientos](#agradecimientos)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Tabla de contenido**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -57,7 +59,7 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 
 **Regla de oro:**Trate de hacer al menos 150 minutos de ejercicio aeróbico de intensidad moderada o 75 minutos de ejercicio aeróbico de intensidad vigorosa por semana, junto con actividades de fortalecimiento muscular dos o más días por semana.
 
-**Breve razón:**El ejercicio regular puede ayudar a mejorar la salud cardiovascular, mantener un peso corporal saludable, aumentar los niveles de energía y reducir el riesgo de enfermedades crónicas.
+**Breve motivo:**El ejercicio regular puede ayudar a mejorar la salud cardiovascular, mantener un peso corporal saludable, aumentar los niveles de energía y reducir el riesgo de enfermedades crónicas.
 
 **Pasos accionables:**
 
@@ -74,7 +76,7 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 
 **Regla de oro:**Adopta hábitos de lectura saludables y cuida tus ojos para evitar fatiga visual y problemas de visión.
 
-**Breve razón:**La lectura prolongada, especialmente en pantallas digitales, puede causar fatiga visual, sequedad e incomodidad, lo que puede afectar negativamente la productividad y la salud ocular en general.
+**Breve motivo:**La lectura prolongada, especialmente en pantallas digitales, puede causar fatiga visual, sequedad e incomodidad, lo que puede afectar negativamente la productividad y la salud ocular en general.
 
 **Pasos accionables:**
 
@@ -95,7 +97,7 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 
 **Regla de oro:**Configure su estación de trabajo para promover posturas corporales neutrales y minimizar la tensión en sus músculos y articulaciones.
 
-**Breve razón:**Un espacio de trabajo bien diseñado puede ayudar a reducir el riesgo de desarrollar trastornos musculoesqueléticos y mejorar la productividad y la comodidad.
+**Breve motivo:**Un espacio de trabajo bien diseñado puede ayudar a reducir el riesgo de desarrollar trastornos musculoesqueléticos y mejorar la productividad y la comodidad.
 
 **Pasos accionables:**
 
@@ -120,7 +122,7 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 
 **Regla de oro:**Mantenga una columna neutra y una alineación adecuada mientras está sentado o de pie para reducir el riesgo de molestias y dolores musculoesqueléticos.
 
-**Breve razón:**La mala postura puede provocar desequilibrios musculares, tensión y lesiones con el tiempo. Mantener la alineación adecuada puede ayudar a prevenir estos problemas y respaldar la salud general de la columna.
+**Breve motivo:**La mala postura puede provocar desequilibrios musculares, tensión y lesiones con el tiempo. Mantener la alineación adecuada puede ayudar a prevenir estos problemas y respaldar la salud general de la columna.
 
 **Pasos accionables:**
 
@@ -138,7 +140,7 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 
 **Regla de oro:**Incorpore movimiento y actividad física en su rutina diaria para contrarrestar los efectos negativos de estar sentado por mucho tiempo.
 
-**Breve razón:**Sentarse durante períodos prolongados puede contribuir a una variedad de problemas de salud, como la obesidad, las enfermedades cardíacas y la mala postura. Mantenerse activo durante todo el día puede ayudar a mitigar estos riesgos.
+**Breve motivo:**Sentarse durante períodos prolongados puede contribuir a una variedad de problemas de salud, como la obesidad, las enfermedades cardíacas y la mala postura. Mantenerse activo durante todo el día puede ayudar a mitigar estos riesgos.
 
 **Pasos accionables:**
 
@@ -156,7 +158,7 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 
 **Regla de oro:**Beba suficiente agua a lo largo del día para mantener una hidratación adecuada y apoyar la salud en general.
 
-**Breve razón:**Mantenerse hidratado puede ayudar a mantener la función física y cognitiva, apoyar la digestión y promover una piel saludable.
+**Breve motivo:**Mantenerse hidratado puede ayudar a mantener la función física y cognitiva, apoyar la digestión y promover una piel sana.
 
 **Pasos accionables:**
 
@@ -174,7 +176,7 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 
 **Regla de oro:**Tome descansos de estar sentado e incorpore movimiento en su día para reducir los efectos negativos de estar sentado por mucho tiempo.
 
-**Breve razón:**Estar sentado durante mucho tiempo puede contribuir a varios problemas de salud, como la obesidad, las enfermedades cardiovasculares y la mala postura.
+**Breve motivo:**Estar sentado durante mucho tiempo puede contribuir a varios problemas de salud, como la obesidad, las enfermedades cardiovasculares y la mala postura.
 
 **Pasos accionables:**
 
@@ -192,7 +194,7 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 
 **Regla de oro:**Tome descansos breves a lo largo del día para recargar energías y mantener la productividad.
 
-**Breve razón:**Tomar descansos puede ayudar a reducir la fatiga mental, mejorar el enfoque y apoyar el bienestar general.
+**Breve motivo:**Tomar descansos puede ayudar a reducir la fatiga mental, mejorar el enfoque y apoyar el bienestar general.
 
 **Pasos accionables:**
 
@@ -209,7 +211,7 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 
 **Regla de oro:**Consuma una variedad de alimentos nutritivos para apoyar la salud general, los niveles de energía y el bienestar mental.
 
-**Breve razón:**Una dieta balanceada proporciona nutrientes esenciales, apoya la función inmunológica y contribuye a la salud física y mental en general.
+**Breve motivo:**Una dieta balanceada proporciona nutrientes esenciales, apoya la función inmunológica y contribuye a la salud física y mental en general.
 
 **Pasos accionables:**
 
@@ -227,7 +229,7 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 
 **Regla de oro:**Implementar una ergonomía y mecánica corporal adecuadas para reducir el riesgo de lesiones y trastornos musculoesqueléticos.
 
-**Breve razón:**La prevención de lesiones puede ayudar a mantener la productividad, promover el bienestar general y evitar problemas de salud a largo plazo.
+**Breve motivo:**La prevención de lesiones puede ayudar a mantener la productividad, promover el bienestar general y evitar problemas de salud a largo plazo.
 
 **Pasos accionables:**
 
@@ -245,7 +247,7 @@ USTED es el activo más valioso. Un doctorado lleva cinco o más años de trabaj
 
 **Regla de oro:**Cultivar un entorno positivo y de apoyo para promover el bienestar mental, la productividad y la salud en general.
 
-**Breve razón:**Un entorno de apoyo puede ayudar a reducir el estrés, aumentar la motivación y mejorar la satisfacción general con la vida.
+**Breve motivo:**Un entorno de apoyo puede ayudar a reducir el estrés, aumentar la motivación y mejorar la satisfacción general con la vida.
 
 **Pasos accionables:**
 
@@ -292,7 +294,7 @@ Abordar el síndrome del impostor es esencial para mantener el bienestar mental 
 
 **Regla de oro:**Desarrolle estrategias de afrontamiento saludables para manejar el estrés y mantener el bienestar mental.
 
-**Breve razón:**El manejo efectivo del estrés puede reducir el impacto negativo del estrés en la salud física y mental y mejorar la satisfacción general con la vida.
+**Breve motivo:**El manejo efectivo del estrés puede reducir el impacto negativo del estrés en la salud física y mental y mejorar la satisfacción general con la vida.
 
 **Pasos accionables:**
 
@@ -309,7 +311,7 @@ Abordar el síndrome del impostor es esencial para mantener el bienestar mental 
 
 **Regla de oro:**Cultiva pasatiempos fuera de tu trabajo académico para mantener un estilo de vida equilibrado y reducir el estrés.
 
-**Breve razón:**Participar en pasatiempos puede proporcionar un descanso mental de las presiones académicas, promover el crecimiento personal y fomentar una sensación de logro y disfrute.
+**Breve motivo:**Participar en pasatiempos puede proporcionar un descanso mental de las presiones académicas, promover el crecimiento personal y fomentar una sensación de logro y disfrute.
 
 **Pasos accionables:**
 
@@ -328,7 +330,7 @@ Abordar el síndrome del impostor es esencial para mantener el bienestar mental 
 
 **Regla de oro:**Practique la atención plena o la meditación durante al menos 10 minutos al día para reducir el estrés y mejorar el bienestar mental.
 
-**Breve razón:**La atención plena y la meditación pueden ayudar a aumentar la autoconciencia, el enfoque y la regulación emocional al tiempo que disminuyen la ansiedad y el estrés.
+**Breve motivo:**La atención plena y la meditación pueden ayudar a aumentar la autoconciencia, el enfoque y la regulación emocional al tiempo que disminuyen la ansiedad y el estrés.
 
 **Pasos accionables:**
 
@@ -346,7 +348,7 @@ Abordar el síndrome del impostor es esencial para mantener el bienestar mental 
 
 **Regla de oro:**Fomente y mantenga conexiones sociales significativas para ayudar a combatir la soledad y apoyar la salud mental.
 
-**Breve razón:**Las conexiones sociales sólidas pueden brindar apoyo emocional, reducir el estrés y contribuir al bienestar y la felicidad en general.
+**Breve motivo:**Las conexiones sociales sólidas pueden brindar apoyo emocional, reducir el estrés y contribuir al bienestar y la felicidad en general.
 
 **Pasos accionables:**
 
@@ -363,7 +365,7 @@ Abordar el síndrome del impostor es esencial para mantener el bienestar mental 
 
 **Regla de oro:**Establezca límites claros entre el trabajo, la vida personal y el cuidado personal para mantener un equilibrio saludable entre el trabajo y la vida.
 
-**Breve razón:**Establecer límites puede ayudar a reducir el estrés, prevenir el agotamiento y promover el bienestar mental general.
+**Breve motivo:**Establecer límites puede ayudar a reducir el estrés, prevenir el agotamiento y promover el bienestar mental general.
 
 **Pasos accionables:**
 
@@ -380,7 +382,7 @@ Abordar el síndrome del impostor es esencial para mantener el bienestar mental 
 
 **Regla de oro:**Priorice el sueño estableciendo un horario de sueño constante y creando un entorno propicio para dormir.
 
-**Breve razón:**Una buena higiene del sueño puede mejorar la calidad del sueño, impulsar la función cognitiva y apoyar la salud física y mental en general.
+**Breve motivo:**Una buena higiene del sueño puede mejorar la calidad del sueño, impulsar la función cognitiva y apoyar la salud física y mental en general.
 
 **Pasos accionables:**
 
@@ -398,7 +400,7 @@ Abordar el síndrome del impostor es esencial para mantener el bienestar mental 
 
 **Regla de oro:**Priorice y asigne el tiempo de manera efectiva para equilibrar la investigación, los cursos, la enseñanza y la vida personal.
 
-**Breve razón:**La gestión eficaz del tiempo reduce el estrés, aumenta la productividad y ayuda a mantener un equilibrio saludable entre el trabajo y la vida personal.
+**Breve motivo:**La gestión eficaz del tiempo reduce el estrés, aumenta la productividad y ayuda a mantener un equilibrio saludable entre el trabajo y la vida personal.
 
 **Pasos accionables:**
 
@@ -418,7 +420,7 @@ Abordar el síndrome del impostor es esencial para mantener el bienestar mental 
 
 **Regla de oro:**Desarrolle estrategias para hacer frente a los rechazos y contratiempos durante su viaje de doctorado.
 
-**Breve razón:**Los rechazos y los contratiempos son comunes en el mundo académico, y aprender a manejarlos de manera efectiva puede mejorar la resiliencia y el bienestar mental.
+**Breve motivo:**Los rechazos y los contratiempos son comunes en el mundo académico, y aprender a manejarlos de manera efectiva puede mejorar la resiliencia y el bienestar mental.
 
 **Pasos accionables:**
 
@@ -435,7 +437,7 @@ Abordar el síndrome del impostor es esencial para mantener el bienestar mental 
 
 **Regla de oro:**Trátese con amabilidad y priorice las actividades de cuidado personal para apoyar la salud mental y la resiliencia.
 
-**Breve razón:**Practicar la autocompasión y el autocuidado puede ayudar a reducir el estrés, mejorar el bienestar emocional y aumentar la satisfacción general con la vida.
+**Breve motivo:**Practicar la autocompasión y el autocuidado puede ayudar a reducir el estrés, mejorar el bienestar emocional y aumentar la satisfacción general con la vida.
 
 **Pasos accionables:**
 
@@ -453,7 +455,7 @@ Abordar el síndrome del impostor es esencial para mantener el bienestar mental 
 
 **Regla de oro:**Comuníquese con los profesionales de la salud cuando experimente problemas de salud física, emocional o mental.
 
-**Breve razón:**Buscar ayuda profesional puede proporcionar un diagnóstico, tratamiento y apoyo adecuados para diversos problemas de salud, lo que contribuye al bienestar general.
+**Breve motivo:**Buscar ayuda profesional puede proporcionar un diagnóstico, tratamiento y apoyo adecuados para diversos problemas de salud, lo que contribuye al bienestar general.
 
 **Pasos accionables:**
 
