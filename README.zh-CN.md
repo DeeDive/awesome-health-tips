@@ -1,5 +1,9 @@
 # 给博士生（和每个人！）的很棒的健康小贴士
 
+     “Generally speaking, people provide better maintenance for their cars than for their own bodies.”
+     
+                                                                 --- Scott Adams, The Dilbert Future
+
 [ English ](README.md)\|[ Français ](README.fr.md)\|[ हिन्दी ](README.hi.md)\|[  العربية ](README.ar.md)\|[  Deutsch ](README.de.md)\|[  日本語  ](README.ja.md)\|[  Português  ](README.pt.md)\|[  Русский  ](README.ru.md)\|[  Español ](README.es.md)\|[  简体中文  ](README.zh-CN.md)\|[  繁體中文  ](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
@@ -17,37 +21,39 @@
 > PhD是一个从要求到自律的过渡时期。我正在攻读博士学位的第二年，我意识到预防措施极其重要。因此，我计划每周花一小时来学习健康知识并在这里更新。我邀请你加入我！让我们一起建立一个更健康、更快乐的社区。
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [身体健康](#%E8%BA%AB%E4%BD%93%E5%81%A5%E5%BA%B7)
-  - [经常锻炼](#%E7%BB%8F%E5%B8%B8%E9%94%BB%E7%82%BC)
-  - [眼睛健康和阅读习惯](#%E7%9C%BC%E7%9D%9B%E5%81%A5%E5%BA%B7%E5%92%8C%E9%98%85%E8%AF%BB%E4%B9%A0%E6%83%AF)
-  - [适当的人体工程学](#%E9%80%82%E5%BD%93%E7%9A%84%E4%BA%BA%E4%BD%93%E5%B7%A5%E7%A8%8B%E5%AD%A6)
-  - [姿势和对齐](#%E5%A7%BF%E5%8A%BF%E5%92%8C%E5%AF%B9%E9%BD%90)
-  - [全天保持活跃](#%E5%85%A8%E5%A4%A9%E4%BF%9D%E6%8C%81%E6%B4%BB%E8%B7%83)
-  - [保持水分](#%E4%BF%9D%E6%8C%81%E6%B0%B4%E5%88%86)
-  - [避免久坐](#%E9%81%BF%E5%85%8D%E4%B9%85%E5%9D%90)
-  - [休息一下](#%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B)
-  - [保持均衡饮食](#%E4%BF%9D%E6%8C%81%E5%9D%87%E8%A1%A1%E9%A5%AE%E9%A3%9F)
-  - [伤害预防](#%E4%BC%A4%E5%AE%B3%E9%A2%84%E9%98%B2)
-  - [营造支持性环境](#%E8%90%A5%E9%80%A0%E6%94%AF%E6%8C%81%E6%80%A7%E7%8E%AF%E5%A2%83)
-- [精神健康](#%E7%B2%BE%E7%A5%9E%E5%81%A5%E5%BA%B7)
-  - [冒名顶替综合症](#%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E7%BB%BC%E5%90%88%E7%97%87)
-  - [压力管理](#%E5%8E%8B%E5%8A%9B%E7%AE%A1%E7%90%86)
-  - [建立和保持爱好](#%E5%BB%BA%E7%AB%8B%E5%92%8C%E4%BF%9D%E6%8C%81%E7%88%B1%E5%A5%BD)
-  - [正念与冥想](#%E6%AD%A3%E5%BF%B5%E4%B8%8E%E5%86%A5%E6%83%B3)
-  - [社会关系和支持](#%E7%A4%BE%E4%BC%9A%E5%85%B3%E7%B3%BB%E5%92%8C%E6%94%AF%E6%8C%81)
-  - [设定界限](#%E8%AE%BE%E5%AE%9A%E7%95%8C%E9%99%90)
-  - [睡眠卫生](#%E7%9D%A1%E7%9C%A0%E5%8D%AB%E7%94%9F)
-  - [时间管理](#%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86)
-  - [处理拒绝和挫折](#%E5%A4%84%E7%90%86%E6%8B%92%E7%BB%9D%E5%92%8C%E6%8C%AB%E6%8A%98)
-  - [自我同情和自我照顾](#%E8%87%AA%E6%88%91%E5%90%8C%E6%83%85%E5%92%8C%E8%87%AA%E6%88%91%E7%85%A7%E9%A1%BE)
-- [寻求专业帮助](#%E5%AF%BB%E6%B1%82%E4%B8%93%E4%B8%9A%E5%B8%AE%E5%8A%A9)
-- [其他相关资料库](#%E5%85%B6%E4%BB%96%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99%E5%BA%93)
-- [如何贡献](#%E5%A6%82%E4%BD%95%E8%B4%A1%E7%8C%AE)
-  - [贡献提示模板（随时可以添加新的部分！）](#%E8%B4%A1%E7%8C%AE%E6%8F%90%E7%A4%BA%E6%A8%A1%E6%9D%BF%E9%9A%8F%E6%97%B6%E5%8F%AF%E4%BB%A5%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E9%83%A8%E5%88%86)
-- [致谢](#%E8%87%B4%E8%B0%A2)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**目录**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -68,7 +74,7 @@
 
 **可靠来源：**
 
--   美国心脏协会。 （2018）。美国心脏协会对成人和儿童身体活动的建议。从...获得<https://www.heart.org/en/healthy-living/fitness/fitness-basics/aha-recs-for-physical-activity-in-adults>
+-   美国心脏协会。 (2018)。美国心脏协会对成人和儿童身体活动的建议。从...获得<https://www.heart.org/en/healthy-living/fitness/fitness-basics/aha-recs-for-physical-activity-in-adults>
 
 ### 眼睛健康和阅读习惯
 
@@ -102,7 +108,7 @@
 -   调整椅子的高度，使双脚平放在地板上，膝盖呈 90 度角。
 -   将您的显示器放在与眼睛水平的位置，距离大约一臂之遥。
 -   使用键盘托架或桌子将键盘和鼠标保持在舒适的高度。
--   打字和使用鼠标时保持手腕中立姿势。
+-   打字和使用鼠标时手腕保持中立姿势。
 -   使用文件夹和电话耳机来减轻颈部压力。
 
 **推荐设备（产品名称？）：**
@@ -127,7 +133,7 @@
 -   坐着时，双脚平放在地板上，膝盖和臀部呈 90 度角。
 -   靠在椅子上，用腰部支撑物或垫子支撑下背部。
 -   避免交叉双腿，保持肩膀放松并在臀部上方对齐。
--   站立时，双脚分开与肩同宽，膝盖略微弯曲。
+-   站立时，双脚分开与肩同宽，膝盖微微弯曲。
 
 **可靠来源：**
 
@@ -181,7 +187,7 @@
 -   至少每小时站起来伸展一次。
 -   使用站立式办公桌或可调节工作站在坐姿和站立之间交替。
 -   在休息时间或打电话时走路或走动。
--   全天进行短时间的身体活动，例如散步或伸展运动。
+-   全天进行短时间的体育锻炼，例如散步或伸展运动。
 
 **可靠来源：**
 
@@ -199,11 +205,11 @@
 -   在您的日常生活中安排定期休息，例如每小时休息 5 分钟。
 -   利用休息时间进行有助于放松和充电的活动，例如伸展运动、深呼吸或短距离步行。
 -   练习番茄工作法：工作 25 分钟，然后休息 5 分钟，如此循环。完成四个周期后，休息更长的时间。
--   聆听您的身心，并在您感到疲倦或不知所措时休息一下。
+-   倾听您的身心，并在您感到疲倦或不知所措时休息一下。
 
 **可靠来源：**
 
--   纽约时报。 （2018）。如何在工作中更有效率。从...获得<https://www.nytimes.com/guides/business/how-to-improve-your-productivity-at-work>
+-   纽约时报。 (2018)。如何在工作中更有效率。从...获得<https://www.nytimes.com/guides/business/how-to-improve-your-productivity-at-work>
 
 ### 保持均衡饮食
 
@@ -216,7 +222,7 @@
 -   吃各种水果、蔬菜、全谷物、瘦肉蛋白和健康脂肪。
 -   限制加工食品、添加糖和不健康脂肪的消费。
 -   注意份量并练习正念饮食。
--   全天喝足够的水以保持水分。
+-   全天喝足够的水来保持水分。
 
 **可靠来源：**
 
@@ -256,7 +262,7 @@
 
 **可靠来源：**
 
--   心理健康基金会。 （2018）。创造心理健康的工作场所。从...获得<https://www.mentalhealth.org.uk/publications/creating-mentally-healthy-workplaces>
+-   心理健康基金会。 (2018)。创造心理健康的工作场所。从...获得<https://www.mentalhealth.org.uk/publications/creating-mentally-healthy-workplaces>
 -   美国心理协会。 (2015)。营造健康的工作环境。从...获得<https://www.apa.org/helpcenter/healthy-work-environment>
 
 ## 精神健康
@@ -309,7 +315,7 @@
 
 **经验法则：**培养学术工作之外的爱好，以保持平衡的生活方式并减轻压力。
 
-**简短原因：**从事爱好可以从学业压力中释放精神，促进个人成长，培养成就感和享受感。
+**简短原因：**从事兴趣爱好可以从学业压力中获得精神上的休息，促进个人成长，并培养成就感和享受感。
 
 **可操作的步骤：**
 
@@ -339,7 +345,7 @@
 
 **可靠来源：**
 
--   哈佛健康出版社。 （2018）。正念冥想可以缓解焦虑和精神压力。从...获得<https://www.health.harvard.edu/blog/mindfulness-meditation-may-ease-anxiety-mental-stress-201401086967>
+-   哈佛健康出版社。 (2018)。正念冥想可以缓解焦虑和精神压力。从...获得<https://www.health.harvard.edu/blog/mindfulness-meditation-may-ease-anxiety-mental-stress-201401086967>
 -   梅奥诊所。 (2021)。冥想：一种简单、快速的减轻压力的方法。从...获得<https://www.mayoclinic.org/tests-procedures/meditation/in-depth/meditation/art-20045858>
 
 ### 社会关系和支持
@@ -387,7 +393,7 @@
 -   目标是每晚睡 7-9 小时。
 -   通过每天在同一时间上床睡觉和起床来建立一致的睡眠时间表。
 -   保持卧室黑暗、安静和舒适的温度，营造一个有利于睡眠的环境。
--   至少在睡前一小时限制接触屏幕和电子设备。
+-   睡前至少一小时限制接触屏幕和电子设备。
 
 **可靠来源：**
 
@@ -433,7 +439,7 @@
 
 ### 自我同情和自我照顾
 
-**经验法则：**善待自己并优先考虑自我保健活动，以支持心理健康和复原力。
+**经验法则：**善待自己并优先考虑自我保健活动，以支持心理健康和恢复力。
 
 **简短原因：**练习自我同情和自我保健可以帮助减轻压力，改善情绪健康并提高整体生活满意度。
 
@@ -446,7 +452,7 @@
 
 **可靠来源：**
 
--   Neff, K. D. (2011)。自我同情：停止打击自己，留下不安全感。纽约：威廉莫罗。
+-   Neff, K. D. (2011)。自我同情：停止打击自己并留下不安全感。纽约：威廉莫罗。
 -   哈佛健康。 (2017)。自我保健：滋养身心的 4 种方法。从...获得<https://www.health.harvard.edu/blog/self-care-4-ways-nourish-body-soul-2017111612736>
 
 ## 寻求专业帮助
@@ -459,7 +465,7 @@
 
 -   识别并承认身体、情绪或精神痛苦的迹象。
 -   联系医疗保健专业人士，例如初级保健医生、治疗师或顾问，讨论您的疑虑。
--   在预约期间对您的症状和经历开诚布公。
+-   在就诊期间对您的症状和经历开诚布公。
 -   遵循医疗保健专业人员提供的治疗计划和建议。
 
 **可靠来源：**
@@ -478,7 +484,7 @@
 
 ## 如何贡献
 
-患者可以成为有价值的贡献者。我们希望此存储库成为社区驱动的资源，因此我们鼓励您分享您学到的智慧和建议，无论您是否是医学专家，只要您对其进行了良好的调查。
+患者可以成为有价值的贡献者。我们希望这个存储库成为一个社区驱动的资源，因此我们鼓励您分享您学到的智慧和建议，无论您是否是医学专家，只要您对此有很好的调查。
 
 给贡献者的提示
 
