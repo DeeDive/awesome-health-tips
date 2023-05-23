@@ -1,5 +1,9 @@
 # Conseils de santé géniaux pour les doctorants (et tout le monde !)
 
+     “Generally speaking, people provide better maintenance for their cars than for their own bodies.”
+     
+                                                                 --- Scott Adams, The Dilbert Future
+
 [ English ](README.md)\|[ Français ](README.fr.md)\|[ हिन्दी ](README.hi.md)\|[  العربية ](README.ar.md)\|[  Deutsch ](README.de.md)\|[  日本語  ](README.ja.md)\|[  Português  ](README.pt.md)\|[  Русский  ](README.ru.md)\|[  Español ](README.es.md)\|[  简体中文  ](README.zh-CN.md)\|[  繁體中文  ](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
@@ -17,37 +21,39 @@ VOUS êtes l'atout le plus précieux. Un doctorat prend cinq ans ou plus, et la 
 > Le doctorat est une période de transition entre les exigences et l'autodiscipline. Je suis dans ma deuxième année d'études doctorales et je me rends compte que les mesures préventives sont d'une extrême importance. Par conséquent, je prévois de passer une heure par semaine pour apprendre des connaissances sur la santé et les mettre à jour ici. Je t'invite à me rejoindre! Ensemble, bâtissons une communauté plus saine et plus heureuse.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [Santé physique](#sant%C3%A9-physique)
-  - [Exercice régulier](#exercice-r%C3%A9gulier)
-  - [Santé oculaire et habitudes de lecture](#sant%C3%A9-oculaire-et-habitudes-de-lecture)
-  - [Une bonne ergonomie](#une-bonne-ergonomie)
-  - [Posture et alignement](#posture-et-alignement)
-  - [Restez actif tout au long de la journée](#restez-actif-tout-au-long-de-la-journ%C3%A9e)
-  - [Restez hydraté](#restez-hydrat%C3%A9)
-  - [Évitez la position assise prolongée](#%C3%89vitez-la-position-assise-prolong%C3%A9e)
-  - [Prendre des pauses](#prendre-des-pauses)
-  - [Maintenir une alimentation équilibrée](#maintenir-une-alimentation-%C3%A9quilibr%C3%A9e)
-  - [Prévention des blessures](#pr%C3%A9vention-des-blessures)
-  - [Créer un environnement favorable](#cr%C3%A9er-un-environnement-favorable)
-- [Santé mentale](#sant%C3%A9-mentale)
-  - [Syndrome de l'imposteur](#syndrome-de-limposteur)
-  - [La gestion du stress](#la-gestion-du-stress)
-  - [Créer et entretenir des passe-temps](#cr%C3%A9er-et-entretenir-des-passe-temps)
-  - [Pleine Conscience et Méditation](#pleine-conscience-et-m%C3%A9ditation)
-  - [Connexions sociales et soutien](#connexions-sociales-et-soutien)
-  - [Fixer des limites](#fixer-des-limites)
-  - [Hygiène du sommeil](#hygi%C3%A8ne-du-sommeil)
-  - [Gestion du temps](#gestion-du-temps)
-  - [Gérer les rejets et les revers](#g%C3%A9rer-les-rejets-et-les-revers)
-  - [Auto-compassion et soins personnels](#auto-compassion-et-soins-personnels)
-- [Cherchez de l'aide professionnelle](#cherchez-de-laide-professionnelle)
-- [Autres référentiels associés](#autres-r%C3%A9f%C3%A9rentiels-associ%C3%A9s)
-- [Comment contribuer](#comment-contribuer)
-  - [Modèle de conseils de contribution (n'hésitez pas à ajouter de nouvelles pièces chaque fois que nécessaire !)](#mod%C3%A8le-de-conseils-de-contribution-nh%C3%A9sitez-pas-%C3%A0-ajouter-de-nouvelles-pi%C3%A8ces-chaque-fois-que-n%C3%A9cessaire%C2%A0)
-- [Remerciements](#remerciements)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Table des matières**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -281,7 +287,7 @@ S'attaquer au syndrome de l'imposteur est essentiel pour maintenir votre bien-ê
 -   Rappelez-vous qu'il n'y a rien de mal à ressentir cela et que même les chercheurs chevronnés éprouvent des sentiments similaires. Reconnaître cela peut vous aider à accepter vos propres émotions et à surmonter le syndrome de l'imposteur.
 -   Reconnaissez vos réalisations et rappelez-vous vos réussites.
 -   Développez un état d'esprit de croissance, en vous concentrant sur l'apprentissage et l'amélioration plutôt que sur la perfection.
--   Demandez de l'aide si nécessaire, par exemple en discutant avec des pairs, des mentors ou des conseillers de confiance.
+-   Demandez de l'aide en cas de besoin, par exemple en parlant à des pairs, des mentors ou des conseillers de confiance.
 -   Partagez vos expériences avec les autres et créez un environnement favorable pour vous et vos collègues.
 
 **Sources fiables:**
@@ -484,7 +490,7 @@ Conseils pour les contributeurs
 
 -   Avant de soumettre une nouvelle astuce, vérifiez le référentiel pour vous assurer que le sujet n'a pas déjà été traité.
 -   Envisagez d'inclure des images, des infographies ou de courtes vidéos pour illustrer vos conseils, mais fournissez toujours une attribution appropriée et assurez-vous que vous disposez des autorisations nécessaires pour utiliser les médias.
--   Soyez ouvert aux commentaires des autres contributeurs et des membres de la communauté. La collaboration peut aider à améliorer la qualité globale du référentiel.
+-   Soyez ouvert aux commentaires des autres contributeurs et des membres de la communauté. La collaboration peut contribuer à améliorer la qualité globale du référentiel.
 -   Vérifiez régulièrement les mises à jour dans le référentiel et restez informé de toute modification des directives ou du modèle de contribution.
 
 En suivant ces directives et en utilisant le modèle fourni, vous pouvez nous aider à créer et à maintenir un référentiel de conseils de santé précieux, informatif et engageant dont tout le monde pourra bénéficier !
