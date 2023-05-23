@@ -1,5 +1,8 @@
 # Awesome Health Tips for PhD Students (and Everyone!)
 
+     “Generally speaking, people provide better maintenance for their cars than for their own bodies.”
+     
+                                                                 --- Scott Adams, The Dilbert Future
 [ English ](README.md) | [ Français ](README.fr.md) | [ हिन्दी ](README.hi.md) | [  العربية ](README.ar.md) | [  Deutsch ](README.de.md) | [  日本語  ](README.ja.md) | [  Português  ](README.pt.md) | [  Русский  ](README.ru.md) | [  Español ](README.es.md) | [  简体中文  ](README.zh-CN.md) | [  繁體中文  ](README.zh-TW.md)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
