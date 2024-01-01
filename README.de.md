@@ -18,40 +18,42 @@ SIE sind das wertvollste Gut. Für einen Doktortitel braucht man fünf oder mehr
 
 > ### Eine persönliche Anmerkung
 >
-> Die Promotion ist eine Übergangszeit von Anforderungen zur Selbstdisziplin. Ich befinde mich im zweiten Jahr meines Doktoratsstudiums und merke, dass präventive Maßnahmen von größter Bedeutung sind. Daher plane ich, eine Stunde pro Woche damit zu verbringen, Gesundheitswissen zu erlernen und es hier zu aktualisieren. Ich lade Sie ein, sich mir anzuschließen! Lassen Sie uns gemeinsam eine gesündere und glücklichere Gemeinschaft aufbauen.
+> Die Promotion ist eine Übergangszeit von Anforderungen zur Selbstdisziplin. Ich befinde mich im dritten Jahr meines Doktoratsstudiums und merke, dass präventive Maßnahmen von größter Bedeutung sind. Daher plane ich, eine Stunde pro Woche damit zu verbringen, Gesundheitswissen zu erlernen und es hier zu aktualisieren. Ich lade Sie ein, sich mir anzuschließen! Lassen Sie uns gemeinsam eine gesündere und glücklichere Gemeinschaft aufbauen.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
 
-- [Körperliche Gesundheit](#k%C3%B6rperliche-gesundheit)
-  - [Regelmäßig Sport treiben](#regelm%C3%A4%C3%9Fig-sport-treiben)
-  - [Augengesundheit und Lesegewohnheiten](#augengesundheit-und-lesegewohnheiten)
-  - [Richtige Ergonomie](#richtige-ergonomie)
-  - [Haltung und Ausrichtung](#haltung-und-ausrichtung)
-  - [Bleiben Sie den ganzen Tag über aktiv](#bleiben-sie-den-ganzen-tag-%C3%BCber-aktiv)
-  - [Trinke genug](#trinke-genug)
-  - [Vermeiden Sie längeres Sitzen](#vermeiden-sie-l%C3%A4ngeres-sitzen)
-  - [Pausen machen](#pausen-machen)
-  - [Achten Sie auf eine ausgewogene Ernährung](#achten-sie-auf-eine-ausgewogene-ern%C3%A4hrung)
-  - [Verletzungsprävention](#verletzungspr%C3%A4vention)
-  - [Schaffen Sie eine unterstützende Umgebung](#schaffen-sie-eine-unterst%C3%BCtzende-umgebung)
-- [Psychische Gesundheit](#psychische-gesundheit)
-  - [Imposter-Syndrom](#imposter-syndrom)
-  - [Stressbewältigung](#stressbew%C3%A4ltigung)
-  - [Hobbys aufbauen und pflegen](#hobbys-aufbauen-und-pflegen)
-  - [Achtsamkeit und Meditation](#achtsamkeit-und-meditation)
-  - [Soziale Verbindungen und Unterstützung](#soziale-verbindungen-und-unterst%C3%BCtzung)
-  - [Grenzen setzen](#grenzen-setzen)
-  - [Schlafhygiene](#schlafhygiene)
-  - [Zeiteinteilung](#zeiteinteilung)
-  - [Umgang mit Ablehnungen und Rückschlägen](#umgang-mit-ablehnungen-und-r%C3%BCckschl%C3%A4gen)
-  - [Selbstmitgefühl und Selbstfürsorge](#selbstmitgef%C3%BChl-und-selbstf%C3%BCrsorge)
-- [Suchen Sie professionelle Hilfe](#suchen-sie-professionelle-hilfe)
-- [Andere verwandte Repositories](#andere-verwandte-repositories)
-- [So können Sie einen Beitrag leisten](#so-k%C3%B6nnen-sie-einen-beitrag-leisten)
-  - [Vorlage zum Einreichen von Tipps (Fügen Sie jederzeit neue Teile hinzu!)](#vorlage-zum-einreichen-von-tipps-f%C3%BCgen-sie-jederzeit-neue-teile-hinzu)
-- [Danksagungen](#danksagungen)
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+**Inhaltsverzeichnis**
+
+-   [Physical Health](#physical-health)
+    -   [Exercise Regularly](#exercise-regularly)
+    -   [Eye Health and Reading Habits](#eye-health-and-reading-habits)
+    -   [Proper Ergonomics](#proper-ergonomics)
+    -   [Posture and Alignment](#posture-and-alignment)
+    -   [Stay Active Throughout the Day](#stay-active-throughout-the-day)
+    -   [Stay Hydrated](#stay-hydrated)
+    -   [Avoid Prolonged Sitting](#avoid-prolonged-sitting)
+    -   [Take Breaks](#take-breaks)
+    -   [Maintain a Balanced Diet](#maintain-a-balanced-diet)
+    -   [Injury Prevention](#injury-prevention)
+    -   [Build a Supportive Environment](#build-a-supportive-environment)
+-   [Mental Health](#mental-health)
+    -   [Imposter Syndrome](#imposter-syndrome)
+    -   [Stress Management](#stress-management)
+    -   [Building and Maintaining Hobbies](#building-and-maintaining-hobbies)
+    -   [Mindfulness and Meditation](#mindfulness-and-meditation)
+    -   [Social Connections and Support](#social-connections-and-support)
+    -   [Setting Boundaries](#setting-boundaries)
+    -   [Sleep Hygiene](#sleep-hygiene)
+    -   [Time Management](#time-management)
+    -   [Handling Rejections and Setbacks](#handling-rejections-and-setbacks)
+    -   [Self-Compassion and Self-Care](#self-compassion-and-self-care)
+-   [Seek Professional Help](#seek-professional-help)
+-   [Other Related Repositories](#other-related-repositories)
+-   [How to contribute](#how-to-contribute)
+    -   [Template for Contributing Tips (Feel free to add new parts whenever needed!)](#template-for-contributing-tips-feel-free-to-add-new-parts-whenever-needed)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -59,7 +61,7 @@ SIE sind das wertvollste Gut. Für einen Doktortitel braucht man fünf oder mehr
 
 ### Regelmäßig Sport treiben
 
-**Faustregel:**Streben Sie mindestens 150 Minuten Aerobic-Training mittlerer Intensität oder 75 Minuten Aerobic-Training hoher Intensität pro Woche sowie muskelstärkende Aktivitäten an zwei oder mehr Tagen pro Woche an.
+**Faustregel:**Streben Sie mindestens 150 Minuten Aerobic-Training mittlerer Intensität oder 75 Minuten Aerobic-Training hoher Intensität pro Woche an, zusammen mit muskelstärkenden Aktivitäten an zwei oder mehr Tagen pro Woche.
 
 **Kurzer Grund:**Regelmäßige Bewegung kann dazu beitragen, die Herz-Kreislauf-Gesundheit zu verbessern, ein gesundes Körpergewicht aufrechtzuerhalten, das Energieniveau zu steigern und das Risiko chronischer Krankheiten zu verringern.
 
@@ -318,7 +320,7 @@ Die Bekämpfung des Imposter-Syndroms ist für die Aufrechterhaltung des geistig
 **Umsetzbare Schritte:**
 
 -   Entdecken Sie verschiedene Interessen und Aktivitäten, um Hobbys zu entdecken, die Sie wirklich begeistern und begeistern.
--   Nehmen Sie sich Zeit für Ihre Hobbys und betrachten Sie sie als einen wesentlichen Teil Ihrer Selbstfürsorgeroutine.
+-   Nehmen Sie sich Zeit für Ihre Hobbys und betrachten Sie sie als einen wesentlichen Teil Ihrer Selbstpflegeroutine.
 -   Vernetzen Sie sich persönlich oder über Online-Communities mit anderen, die Ihre Interessen teilen, um Ihr Hobbyerlebnis zu verbessern und soziale Kontakte aufzubauen.
 -   Seien Sie offen für neue Aktivitäten und erweitern Sie Ihren Horizont. Manchmal können Hobbys zu unerwarteten persönlichen und beruflichen Wachstumschancen führen.
 -   Denken Sie daran, ein Gleichgewicht zwischen Ihren Hobbys und akademischen Verpflichtungen zu wahren. Hobbys sollen eine Pause und Freude bieten, ohne zusätzlichen Stress zu verursachen oder Ihre akademische Arbeit zu beeinträchtigen.
@@ -391,7 +393,7 @@ Die Bekämpfung des Imposter-Syndroms ist für die Aufrechterhaltung des geistig
 -   Streben Sie 7–9 Stunden Schlaf pro Nacht an.
 -   Legen Sie einen einheitlichen Schlafplan fest, indem Sie jeden Tag zur gleichen Zeit ins Bett gehen und aufstehen.
 -   Schaffen Sie eine schlaffreundliche Umgebung, indem Sie das Schlafzimmer dunkel, ruhig und angenehm temperiert halten.
--   Begrenzen Sie den Kontakt mit Bildschirmen und elektronischen Geräten mindestens eine Stunde vor dem Schlafengehen.
+-   Begrenzen Sie den Kontakt mit Bildschirmen und elektronischen Geräten mindestens eine Stunde vor dem Zubettgehen.
 
 **Verlässliche Quelle:**
 
@@ -416,7 +418,7 @@ Die Bekämpfung des Imposter-Syndroms ist für die Aufrechterhaltung des geistig
 
 -   MindTools. (o.J.). Zeiteinteilung. Abgerufen von<https://www.mindtools.com/pages/main/newMN_HTE.htm>
 -   Mayo-Klinik. (2021). Zeitmanagement: Tipps zum Stressabbau und zur Steigerung der Produktivität. Abgerufen von<https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/time-management/art-20047938>
--   Lakein, A. (1973). So erhalten Sie die Kontrolle über Ihre Zeit und Ihr Leben
+-   Lakein, A. (1973). Wie Sie die Kontrolle über Ihre Zeit und Ihr Leben erlangen
 
 ### Umgang mit Ablehnungen und Rückschlägen
 
