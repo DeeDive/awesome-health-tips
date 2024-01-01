@@ -16,7 +16,7 @@ YOU are the most valuable asset. A PhD takes five or more years' grinding, and l
 (We welcome you to contribute your pro tips, acquired through years of experience and (probably) tears, by submitting a Pull Request! See our [#how-to-contribute](#how-to-contribute) section)
 
 >  ### A Personal Note
-> PhD is a transition time from requirements to self-discipline. I am in my second year of PhD studies and I am realizing that preventive steps are of extreme  importance. Hence, I plan to spend one hour per week to learn health knowledge and update it here. I invite you to join me! Together, let's build a healthier and happier community.
+> PhD is a transition time from requirements to self-discipline. I am in my third year of PhD studies and I am realizing that preventive steps are of extreme importance. Hence, I plan to spend one hour per week to learn health knowledge and update it here. I invite you to join me! Together, let's build a healthier and happier community.
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
