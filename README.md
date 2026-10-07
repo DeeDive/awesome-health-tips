@@ -191,6 +191,8 @@ YOU are the most valuable asset. A PhD takes five or more years' grinding, and l
 - Practice the Pomodoro Technique: work for 25 minutes, then take a 5-minute break, and repeat the cycle. After completing four cycles, take a longer break.
 - Listen to your body and mind, and take breaks when you feel fatigued or overwhelmed.
 
+**Optional reminder tool:** [Awayra](https://github.com/AWAYRA/AWAYRA-WPF) is a free, offline Windows 10/11 app with independently adjustable eye-rest and movement reminders, work hours, idle reset and snooze. It is a reminder aid, not a medical device.
+
 **Reliable sources:**
 - The New York Times. (2018). How to be more efficient at work. Retrieved from https://www.nytimes.com/guides/business/how-to-improve-your-productivity-at-work
 
